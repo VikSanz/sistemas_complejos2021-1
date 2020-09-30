@@ -1,1 +1,1 @@
-# sistemas_complejos2021-1
+# Aquí guardaremos los códigos correspondientes a los proyectos del curso de Sistemas Complejos 2021-1
