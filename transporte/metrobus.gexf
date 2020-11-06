@@ -1,0 +1,2386 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-06">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="dist" type="double" />
+    </attributes>
+    <nodes>
+      <node id="indios_verdes" label="indios_verdes" />
+      <node id="de_los_misterios" label="de_los_misterios" />
+      <node id="la_villa" label="la_villa" />
+      <node id="garrido" label="garrido" />
+      <node id="av._talisman" label="av._talisman" />
+      <node id="necaxa" label="necaxa" />
+      <node id="excelsior" label="excelsior" />
+      <node id="robles_dominguez" label="robles_dominguez" />
+      <node id="clave" label="clave" />
+      <node id="metrobus_misterios" label="metrobus_misterios" />
+      <node id="mercado_beethoven" label="mercado_beethoven" />
+      <node id="peralvillo" label="peralvillo" />
+      <node id="tres_culturas" label="tres_culturas" />
+      <node id="glorieta_cuitlahuac" label="glorieta_cuitlahuac" />
+      <node id="garibaldi" label="garibaldi" />
+      <node id="glorieta_violeta" label="glorieta_violeta" />
+      <node id="hidalgo" label="hidalgo" />
+      <node id="el_caballito" label="el_caballito" />
+      <node id="glorieta_de_colon" label="glorieta_de_colon" />
+      <node id="paris" label="paris" />
+      <node id="reforma" label="reforma" />
+      <node id="hamburgo" label="hamburgo" />
+      <node id="la_palma" label="la_palma" />
+      <node id="el_angel" label="el_angel" />
+      <node id="la_diana" label="la_diana" />
+      <node id="chapultepec" label="chapultepec" />
+      <node id="gandhi" label="gandhi" />
+      <node id="antropologia" label="antropologia" />
+      <node id="auditorio" label="auditorio" />
+      <node id="campo_marte" label="campo_marte" />
+      <node id="metrobus_rio_de_los_remedios" label="metrobus_rio_de_los_remedios" />
+      <node id="314" label="314" />
+      <node id="5_de_mayo" label="5_de_mayo" />
+      <node id="vasco_de_quiroga" label="vasco_de_quiroga" />
+      <node id="el_coyol" label="el_coyol" />
+      <node id="preparatoria_3" label="preparatoria_3" />
+      <node id="san_juan_de_aragon" label="san_juan_de_aragon" />
+      <node id="rio_de_guadalupe" label="rio_de_guadalupe" />
+      <node id="metrobus_talisman" label="metrobus_talisman" />
+      <node id="victoria" label="victoria" />
+      <node id="oriente_101" label="oriente_101" />
+      <node id="rio_santa_coleta" label="rio_santa_coleta" />
+      <node id="rio_consulado" label="rio_consulado" />
+      <node id="metrobus_canal_del_norte" label="metrobus_canal_del_norte" />
+      <node id="deportivo_eduardo_molina" label="deportivo_eduardo_molina" />
+      <node id="mercado_morelos" label="mercado_morelos" />
+      <node id="archivo_general_de_la_nacion" label="archivo_general_de_la_nacion" />
+      <node id="san_lazaro" label="san_lazaro" />
+      <node id="moctezuma" label="moctezuma" />
+      <node id="ciudad_de_los_deportes" label="ciudad_de_los_deportes" />
+      <node id="colonia_del_valle" label="colonia_del_valle" />
+      <node id="napoles" label="napoles" />
+      <node id="poliforum" label="poliforum" />
+      <node id="la_piedad" label="la_piedad" />
+      <node id="nuevo_leon" label="nuevo_leon" />
+      <node id="metrobus_viaducto" label="metrobus_viaducto" />
+      <node id="amores" label="amores" />
+      <node id="etiopia" label="etiopia" />
+      <node id="doctor_vertiz" label="doctor_vertiz" />
+      <node id="centro_scop" label="centro_scop" />
+      <node id="alamos" label="alamos" />
+      <node id="xola" label="xola" />
+      <node id="las_americas" label="las_americas" />
+      <node id="andres_molina" label="andres_molina" />
+      <node id="metrobus_la_viga" label="metrobus_la_viga" />
+      <node id="coyuya" label="coyuya" />
+      <node id="canela" label="canela" />
+      <node id="tlacotal" label="tlacotal" />
+      <node id="goma" label="goma" />
+      <node id="metrobus_iztacalco" label="metrobus_iztacalco" />
+      <node id="upiicsa" label="upiicsa" />
+      <node id="el_rodeo" label="el_rodeo" />
+      <node id="rio_tecolutla" label="rio_tecolutla" />
+      <node id="rio_mayo" label="rio_mayo" />
+      <node id="rojo_gomez" label="rojo_gomez" />
+      <node id="del_moral" label="del_moral" />
+      <node id="leyes_de_reforma" label="leyes_de_reforma" />
+      <node id="delegacion_gustavo_a._madero" label="delegacion_gustavo_a._madero" />
+      <node id="hospital_infantil_la_villa" label="hospital_infantil_la_villa" />
+      <node id="deportivo_18_de_marzo" label="deportivo_18_de_marzo" />
+      <node id="euzkaro" label="euzkaro" />
+      <node id="potrero" label="potrero" />
+      <node id="la_raza" label="la_raza" />
+      <node id="circuito" label="circuito" />
+      <node id="san_simon" label="san_simon" />
+      <node id="manuel_gonzalez" label="manuel_gonzalez" />
+      <node id="buenavista" label="buenavista" />
+      <node id="el_chopo" label="el_chopo" />
+      <node id="revolucion" label="revolucion" />
+      <node id="plaza_de_la_republica" label="plaza_de_la_republica" />
+      <node id="insurgentes" label="insurgentes" />
+      <node id="durango" label="durango" />
+      <node id="alvaro_obregon" label="alvaro_obregon" />
+      <node id="sonora" label="sonora" />
+      <node id="campeche" label="campeche" />
+      <node id="chilpancingo" label="chilpancingo" />
+      <node id="felix_cuevas" label="felix_cuevas" />
+      <node id="rio_churubusco" label="rio_churubusco" />
+      <node id="teatro_de_los_insurgentes" label="teatro_de_los_insurgentes" />
+      <node id="jose_maria_velasco" label="jose_maria_velasco" />
+      <node id="altavista" label="altavista" />
+      <node id="la_bombilla" label="la_bombilla" />
+      <node id="doctor_galvez" label="doctor_galvez" />
+      <node id="ciudad_universitaria" label="ciudad_universitaria" />
+      <node id="centro_cultural_universitario" label="centro_cultural_universitario" />
+      <node id="perisur" label="perisur" />
+      <node id="villa_olimpica" label="villa_olimpica" />
+      <node id="corregidora" label="corregidora" />
+      <node id="ayuntamiento" label="ayuntamiento" />
+      <node id="fuentes_brotantes" label="fuentes_brotantes" />
+      <node id="santa_ursula" label="santa_ursula" />
+      <node id="la_joya" label="la_joya" />
+      <node id="el_caminero" label="el_caminero" />
+      <node id="tenayuca" label="tenayuca" />
+      <node id="san_jose_de_la_escalera" label="san_jose_de_la_escalera" />
+      <node id="progreso_nacional" label="progreso_nacional" />
+      <node id="tres_anegas" label="tres_anegas" />
+      <node id="jupiter" label="jupiter" />
+      <node id="la_patera" label="la_patera" />
+      <node id="poniente_146" label="poniente_146" />
+      <node id="montevideo" label="montevideo" />
+      <node id="poniente_134" label="poniente_134" />
+      <node id="poniente_128" label="poniente_128" />
+      <node id="magdalena_de_las_salinas" label="magdalena_de_las_salinas" />
+      <node id="coltongo" label="coltongo" />
+      <node id="metrobus_cuitlahuac" label="metrobus_cuitlahuac" />
+      <node id="heroe_de_nacozari" label="heroe_de_nacozari" />
+      <node id="hospital_la_raza" label="hospital_la_raza" />
+      <node id="tolnahuac" label="tolnahuac" />
+      <node id="metrobus_tlatelolco" label="metrobus_tlatelolco" />
+      <node id="ricardo_flores_magon" label="ricardo_flores_magon" />
+      <node id="guerrero" label="guerrero" />
+      <node id="mina" label="mina" />
+      <node id="museo_san_carlos" label="museo_san_carlos" />
+      <node id="juarez" label="juarez" />
+      <node id="balderas" label="balderas" />
+      <node id="cuauhtemoc" label="cuauhtemoc" />
+      <node id="metrobus_villa_de_aragon" label="metrobus_villa_de_aragon" />
+      <node id="francisco_morazan" label="francisco_morazan" />
+      <node id="colegio_de_bachilleres_9" label="colegio_de_bachilleres_9" />
+      <node id="la_pradera" label="la_pradera" />
+      <node id="volcan_de_fuego" label="volcan_de_fuego" />
+      <node id="ampliacion_providencia" label="ampliacion_providencia" />
+      <node id="deportivo_los_galeana" label="deportivo_los_galeana" />
+      <node id="416_poniente" label="416_poniente" />
+      <node id="loreto_fabela" label="loreto_fabela" />
+      <node id="pueblo_san_juan_de_aragon" label="pueblo_san_juan_de_aragon" />
+      <node id="casas_aleman" label="casas_aleman" />
+      <node id="gran_canal" label="gran_canal" />
+      <node id="hospital_general_la_villa" label="hospital_general_la_villa" />
+      <node id="martin_carrera" label="martin_carrera" />
+      <node id="riobamba" label="riobamba" />
+      <node id="instituto_politecnico_nacional" label="instituto_politecnico_nacional" />
+      <node id="metrobus_eduardo_molina" label="metrobus_eduardo_molina" />
+      <node id="hospital_balbuena" label="hospital_balbuena" />
+      <node id="cecilio_robelo" label="cecilio_robelo" />
+      <node id="mercado_de_sonora" label="mercado_de_sonora" />
+      <node id="merced" label="merced" />
+      <node id="circunvalacion" label="circunvalacion" />
+      <node id="las_cruces_norte" label="las_cruces_norte" />
+      <node id="museo_de_la_ciudad" label="museo_de_la_ciudad" />
+      <node id="metrobus_isabel_la_catolica" label="metrobus_isabel_la_catolica" />
+      <node id="el_salvador" label="el_salvador" />
+      <node id="metrobus_eje_central" label="metrobus_eje_central" />
+      <node id="plaza_san_juan" label="plaza_san_juan" />
+      <node id="vocacional_5" label="vocacional_5" />
+      <node id="expo_reforma" label="expo_reforma" />
+      <node id="puente_de_alvarado" label="puente_de_alvarado" />
+      <node id="delegacion_cuauhtemoc" label="delegacion_cuauhtemoc" />
+      <node id="pino_suarez" label="pino_suarez" />
+      <node id="las_cruces_sur" label="las_cruces_sur" />
+      <node id="san_bartolo" label="san_bartolo" />
+      <node id="instituto_del_petroleo" label="instituto_del_petroleo" />
+      <node id="lindavista-vallejo" label="lindavista-vallejo" />
+      <node id="metrobus_norte_45" label="metrobus_norte_45" />
+      <node id="norte_59" label="norte_59" />
+      <node id="tecnoparque" label="tecnoparque" />
+      <node id="uam_azcapotzalco" label="uam_azcapotzalco" />
+      <node id="ferrocarriles_nacionales" label="ferrocarriles_nacionales" />
+      <node id="de_las_culturas" label="de_las_culturas" />
+      <node id="colegio_de_bachilleres_1" label="colegio_de_bachilleres_1" />
+      <node id="el_rosario" label="el_rosario" />
+      <node id="aeropuerto_t1" label="aeropuerto_t1" />
+      <node id="aeropuerto_t2" label="aeropuerto_t2" />
+      <node id="olivo" label="olivo" />
+      <node id="francia" label="francia" />
+      <node id="parque_hundido" label="parque_hundido" />
+      <node id="obrero_mundial" label="obrero_mundial" />
+      <node id="centro_medico" label="centro_medico" />
+      <node id="doctor_marquez" label="doctor_marquez" />
+      <node id="hospital_general" label="hospital_general" />
+      <node id="jardin_pushkin" label="jardin_pushkin" />
+      <node id="tepalcates" label="tepalcates" />
+      <node id="general_antonio_de_leon" label="general_antonio_de_leon" />
+      <node id="constitucion_de_apatzingan" label="constitucion_de_apatzingan" />
+      <node id="cch_oriente" label="cch_oriente" />
+      <node id="rio_frio" label="rio_frio" />
+      <node id="482" label="482" />
+      <node id="414" label="414" />
+      <node id="416_oriente" label="416_oriente" />
+      <node id="canal_de_san_juan" label="canal_de_san_juan" />
+      <node id="nicolas_bravo" label="nicolas_bravo" />
+      <node id="escandon" label="escandon" />
+      <node id="patriotismo" label="patriotismo" />
+      <node id="de_la_salle" label="de_la_salle" />
+      <node id="parque_lira" label="parque_lira" />
+      <node id="antonio_maceo" label="antonio_maceo" />
+      <node id="tacubaya" label="tacubaya" />
+      <node id="bellas_artes" label="bellas_artes" />
+      <node id="teatro_blanquita" label="teatro_blanquita" />
+      <node id="republica_de_chile" label="republica_de_chile" />
+      <node id="republica_de_argentina" label="republica_de_argentina" />
+      <node id="teatro_del_pueblo" label="teatro_del_pueblo" />
+      <node id="mixcalco" label="mixcalco" />
+      <node id="ferrocarril_de_cintura" label="ferrocarril_de_cintura" />
+      <node id="morelos" label="morelos" />
+    </nodes>
+    <edges>
+      <edge id="0" source="indios_verdes" target="de_los_misterios">
+        <attvalues>
+          <attvalue for="0" value="924.0" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="indios_verdes" target="deportivo_18_de_marzo">
+        <attvalues>
+          <attvalue for="0" value="1043.0" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="de_los_misterios" target="la_villa">
+        <attvalues>
+          <attvalue for="0" value="239.0" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="de_los_misterios" target="indios_verdes">
+        <attvalues>
+          <attvalue for="0" value="924.0" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="la_villa" target="garrido">
+        <attvalues>
+          <attvalue for="0" value="333.0" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="la_villa" target="deportivo_18_de_marzo">
+        <attvalues>
+          <attvalue for="0" value="121.0" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="garrido" target="av._talisman">
+        <attvalues>
+          <attvalue for="0" value="699.0" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="garrido" target="delegacion_gustavo_a._madero">
+        <attvalues>
+          <attvalue for="0" value="98.0" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="av._talisman" target="necaxa">
+        <attvalues>
+          <attvalue for="0" value="504.0" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="av._talisman" target="garrido">
+        <attvalues>
+          <attvalue for="0" value="699.0" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="necaxa" target="excelsior">
+        <attvalues>
+          <attvalue for="0" value="639.0" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="necaxa" target="av._talisman">
+        <attvalues>
+          <attvalue for="0" value="504.0" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="excelsior" target="robles_dominguez">
+        <attvalues>
+          <attvalue for="0" value="525.0" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="excelsior" target="necaxa">
+        <attvalues>
+          <attvalue for="0" value="639.0" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="robles_dominguez" target="clave">
+        <attvalues>
+          <attvalue for="0" value="476.0" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="robles_dominguez" target="excelsior">
+        <attvalues>
+          <attvalue for="0" value="525.0" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="clave" target="metrobus_misterios">
+        <attvalues>
+          <attvalue for="0" value="442.0" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="clave" target="robles_dominguez">
+        <attvalues>
+          <attvalue for="0" value="476.0" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="metrobus_misterios" target="mercado_beethoven">
+        <attvalues>
+          <attvalue for="0" value="677.0" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="metrobus_misterios" target="clave">
+        <attvalues>
+          <attvalue for="0" value="442.0" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="mercado_beethoven" target="peralvillo">
+        <attvalues>
+          <attvalue for="0" value="643.0" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="mercado_beethoven" target="metrobus_misterios">
+        <attvalues>
+          <attvalue for="0" value="677.0" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="peralvillo" target="tres_culturas">
+        <attvalues>
+          <attvalue for="0" value="385.0" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="peralvillo" target="mercado_beethoven">
+        <attvalues>
+          <attvalue for="0" value="643.0" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="tres_culturas" target="glorieta_cuitlahuac">
+        <attvalues>
+          <attvalue for="0" value="493.0" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="tres_culturas" target="peralvillo">
+        <attvalues>
+          <attvalue for="0" value="385.0" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="glorieta_cuitlahuac" target="garibaldi">
+        <attvalues>
+          <attvalue for="0" value="456.0" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="glorieta_cuitlahuac" target="tres_culturas">
+        <attvalues>
+          <attvalue for="0" value="493.0" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="garibaldi" target="glorieta_violeta">
+        <attvalues>
+          <attvalue for="0" value="597.0" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="garibaldi" target="glorieta_cuitlahuac">
+        <attvalues>
+          <attvalue for="0" value="456.0" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="glorieta_violeta" target="hidalgo">
+        <attvalues>
+          <attvalue for="0" value="477.0" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="glorieta_violeta" target="garibaldi">
+        <attvalues>
+          <attvalue for="0" value="597.0" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="hidalgo" target="el_caballito">
+        <attvalues>
+          <attvalue for="0" value="271.0" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="hidalgo" target="glorieta_violeta">
+        <attvalues>
+          <attvalue for="0" value="477.0" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="hidalgo" target="museo_san_carlos">
+        <attvalues>
+          <attvalue for="0" value="133.0" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="hidalgo" target="bellas_artes">
+        <attvalues>
+          <attvalue for="0" value="141.0" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="el_caballito" target="glorieta_de_colon">
+        <attvalues>
+          <attvalue for="0" value="201.0" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="el_caballito" target="hidalgo">
+        <attvalues>
+          <attvalue for="0" value="271.0" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="el_caballito" target="juarez">
+        <attvalues>
+          <attvalue for="0" value="657.0" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="glorieta_de_colon" target="paris">
+        <attvalues>
+          <attvalue for="0" value="271.0" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="glorieta_de_colon" target="el_caballito">
+        <attvalues>
+          <attvalue for="0" value="201.0" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="glorieta_de_colon" target="plaza_de_la_republica">
+        <attvalues>
+          <attvalue for="0" value="270.0" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="glorieta_de_colon" target="expo_reforma">
+        <attvalues>
+          <attvalue for="0" value="145.0" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="paris" target="reforma">
+        <attvalues>
+          <attvalue for="0" value="61.0" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="paris" target="glorieta_de_colon">
+        <attvalues>
+          <attvalue for="0" value="271.0" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="reforma" target="hamburgo">
+        <attvalues>
+          <attvalue for="0" value="499.0" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="reforma" target="paris">
+        <attvalues>
+          <attvalue for="0" value="61.0" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="reforma" target="plaza_de_la_republica">
+        <attvalues>
+          <attvalue for="0" value="481.0" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="hamburgo" target="la_palma">
+        <attvalues>
+          <attvalue for="0" value="210.0" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="hamburgo" target="reforma">
+        <attvalues>
+          <attvalue for="0" value="499.0" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="hamburgo" target="insurgentes">
+        <attvalues>
+          <attvalue for="0" value="904.0" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="la_palma" target="el_angel">
+        <attvalues>
+          <attvalue for="0" value="259.0" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="la_palma" target="hamburgo">
+        <attvalues>
+          <attvalue for="0" value="210.0" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="el_angel" target="la_diana">
+        <attvalues>
+          <attvalue for="0" value="219.0" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="el_angel" target="la_palma">
+        <attvalues>
+          <attvalue for="0" value="259.0" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="la_diana" target="chapultepec">
+        <attvalues>
+          <attvalue for="0" value="190.0" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="la_diana" target="el_angel">
+        <attvalues>
+          <attvalue for="0" value="219.0" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="chapultepec" target="gandhi">
+        <attvalues>
+          <attvalue for="0" value="16.0" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="chapultepec" target="la_diana">
+        <attvalues>
+          <attvalue for="0" value="190.0" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="gandhi" target="antropologia">
+        <attvalues>
+          <attvalue for="0" value="105.0" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="gandhi" target="chapultepec">
+        <attvalues>
+          <attvalue for="0" value="16.0" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="antropologia" target="auditorio">
+        <attvalues>
+          <attvalue for="0" value="215.0" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="antropologia" target="gandhi">
+        <attvalues>
+          <attvalue for="0" value="105.0" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="auditorio" target="campo_marte">
+        <attvalues>
+          <attvalue for="0" value="121.0" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="auditorio" target="antropologia">
+        <attvalues>
+          <attvalue for="0" value="215.0" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="campo_marte" target="auditorio">
+        <attvalues>
+          <attvalue for="0" value="121.0" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="metrobus_rio_de_los_remedios" target="314">
+        <attvalues>
+          <attvalue for="0" value="994.0" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="314" target="5_de_mayo">
+        <attvalues>
+          <attvalue for="0" value="537.0" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="314" target="metrobus_rio_de_los_remedios">
+        <attvalues>
+          <attvalue for="0" value="994.0" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="5_de_mayo" target="vasco_de_quiroga">
+        <attvalues>
+          <attvalue for="0" value="580.0" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="5_de_mayo" target="314">
+        <attvalues>
+          <attvalue for="0" value="537.0" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="vasco_de_quiroga" target="el_coyol">
+        <attvalues>
+          <attvalue for="0" value="880.0" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="vasco_de_quiroga" target="5_de_mayo">
+        <attvalues>
+          <attvalue for="0" value="580.0" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="el_coyol" target="preparatoria_3">
+        <attvalues>
+          <attvalue for="0" value="638.0" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="el_coyol" target="vasco_de_quiroga">
+        <attvalues>
+          <attvalue for="0" value="880.0" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="preparatoria_3" target="san_juan_de_aragon">
+        <attvalues>
+          <attvalue for="0" value="534.0" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="preparatoria_3" target="el_coyol">
+        <attvalues>
+          <attvalue for="0" value="638.0" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="san_juan_de_aragon" target="rio_de_guadalupe">
+        <attvalues>
+          <attvalue for="0" value="587.0" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="san_juan_de_aragon" target="hospital_general_la_villa">
+        <attvalues>
+          <attvalue for="0" value="76.0" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="san_juan_de_aragon" target="gran_canal">
+        <attvalues>
+          <attvalue for="0" value="424.0" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="san_juan_de_aragon" target="preparatoria_3">
+        <attvalues>
+          <attvalue for="0" value="534.0" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="rio_de_guadalupe" target="metrobus_talisman">
+        <attvalues>
+          <attvalue for="0" value="766.0" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="rio_de_guadalupe" target="san_juan_de_aragon">
+        <attvalues>
+          <attvalue for="0" value="587.0" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="metrobus_talisman" target="victoria">
+        <attvalues>
+          <attvalue for="0" value="562.0" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="metrobus_talisman" target="rio_de_guadalupe">
+        <attvalues>
+          <attvalue for="0" value="766.0" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="victoria" target="oriente_101">
+        <attvalues>
+          <attvalue for="0" value="973.0" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="victoria" target="metrobus_talisman">
+        <attvalues>
+          <attvalue for="0" value="562.0" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="oriente_101" target="rio_santa_coleta">
+        <attvalues>
+          <attvalue for="0" value="751.0" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="oriente_101" target="victoria">
+        <attvalues>
+          <attvalue for="0" value="973.0" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="rio_santa_coleta" target="rio_consulado">
+        <attvalues>
+          <attvalue for="0" value="366.0" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="rio_santa_coleta" target="oriente_101">
+        <attvalues>
+          <attvalue for="0" value="751.0" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="rio_consulado" target="metrobus_canal_del_norte">
+        <attvalues>
+          <attvalue for="0" value="608.0" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="rio_consulado" target="rio_santa_coleta">
+        <attvalues>
+          <attvalue for="0" value="366.0" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="metrobus_canal_del_norte" target="deportivo_eduardo_molina">
+        <attvalues>
+          <attvalue for="0" value="762.0" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="metrobus_canal_del_norte" target="rio_consulado">
+        <attvalues>
+          <attvalue for="0" value="608.0" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="deportivo_eduardo_molina" target="mercado_morelos">
+        <attvalues>
+          <attvalue for="0" value="516.0" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="deportivo_eduardo_molina" target="metrobus_canal_del_norte">
+        <attvalues>
+          <attvalue for="0" value="762.0" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="mercado_morelos" target="archivo_general_de_la_nacion">
+        <attvalues>
+          <attvalue for="0" value="902.0" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="mercado_morelos" target="deportivo_eduardo_molina">
+        <attvalues>
+          <attvalue for="0" value="516.0" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="archivo_general_de_la_nacion" target="san_lazaro">
+        <attvalues>
+          <attvalue for="0" value="704.0" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="archivo_general_de_la_nacion" target="aeropuerto_t1">
+        <attvalues>
+          <attvalue for="0" value="8.0" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="archivo_general_de_la_nacion" target="mercado_morelos">
+        <attvalues>
+          <attvalue for="0" value="902.0" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="archivo_general_de_la_nacion" target="morelos">
+        <attvalues>
+          <attvalue for="0" value="63.0" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="san_lazaro" target="moctezuma">
+        <attvalues>
+          <attvalue for="0" value="598.0" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="san_lazaro" target="metrobus_eduardo_molina">
+        <attvalues>
+          <attvalue for="0" value="569.0" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="san_lazaro" target="archivo_general_de_la_nacion">
+        <attvalues>
+          <attvalue for="0" value="704.0" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="moctezuma" target="hospital_balbuena">
+        <attvalues>
+          <attvalue for="0" value="301.0" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="moctezuma" target="san_lazaro">
+        <attvalues>
+          <attvalue for="0" value="598.0" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="ciudad_de_los_deportes" target="colonia_del_valle">
+        <attvalues>
+          <attvalue for="0" value="494.0" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="colonia_del_valle" target="napoles">
+        <attvalues>
+          <attvalue for="0" value="612.0" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="colonia_del_valle" target="felix_cuevas">
+        <attvalues>
+          <attvalue for="0" value="1748.0" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="colonia_del_valle" target="ciudad_de_los_deportes">
+        <attvalues>
+          <attvalue for="0" value="494.0" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="napoles" target="poliforum">
+        <attvalues>
+          <attvalue for="0" value="552.0" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="napoles" target="colonia_del_valle">
+        <attvalues>
+          <attvalue for="0" value="612.0" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="poliforum" target="la_piedad">
+        <attvalues>
+          <attvalue for="0" value="714.0" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="poliforum" target="napoles">
+        <attvalues>
+          <attvalue for="0" value="552.0" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="poliforum" target="colonia_del_valle">
+        <attvalues>
+          <attvalue for="0" value="1164.0" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="la_piedad" target="nuevo_leon">
+        <attvalues>
+          <attvalue for="0" value="623.0" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="la_piedad" target="poliforum">
+        <attvalues>
+          <attvalue for="0" value="714.0" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="nuevo_leon" target="metrobus_viaducto">
+        <attvalues>
+          <attvalue for="0" value="111.0" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="nuevo_leon" target="la_piedad">
+        <attvalues>
+          <attvalue for="0" value="623.0" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="nuevo_leon" target="chilpancingo">
+        <attvalues>
+          <attvalue for="0" value="693.0" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="nuevo_leon" target="escandon">
+        <attvalues>
+          <attvalue for="0" value="363.0" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="metrobus_viaducto" target="amores">
+        <attvalues>
+          <attvalue for="0" value="674.0" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="metrobus_viaducto" target="nuevo_leon">
+        <attvalues>
+          <attvalue for="0" value="111.0" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="amores" target="etiopia">
+        <attvalues>
+          <attvalue for="0" value="160.0" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="amores" target="metrobus_viaducto">
+        <attvalues>
+          <attvalue for="0" value="674.0" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="etiopia" target="doctor_vertiz">
+        <attvalues>
+          <attvalue for="0" value="37.0" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="etiopia" target="obrero_mundial">
+        <attvalues>
+          <attvalue for="0" value="798.0" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="etiopia" target="amores">
+        <attvalues>
+          <attvalue for="0" value="160.0" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="doctor_vertiz" target="centro_scop">
+        <attvalues>
+          <attvalue for="0" value="54.0" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="doctor_vertiz" target="etiopia">
+        <attvalues>
+          <attvalue for="0" value="37.0" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="centro_scop" target="alamos">
+        <attvalues>
+          <attvalue for="0" value="75.0" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="centro_scop" target="doctor_vertiz">
+        <attvalues>
+          <attvalue for="0" value="54.0" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="alamos" target="xola">
+        <attvalues>
+          <attvalue for="0" value="59.0" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="alamos" target="centro_scop">
+        <attvalues>
+          <attvalue for="0" value="75.0" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="xola" target="las_americas">
+        <attvalues>
+          <attvalue for="0" value="138.0" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="xola" target="alamos">
+        <attvalues>
+          <attvalue for="0" value="59.0" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="las_americas" target="andres_molina">
+        <attvalues>
+          <attvalue for="0" value="641.0" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="las_americas" target="xola">
+        <attvalues>
+          <attvalue for="0" value="138.0" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="andres_molina" target="metrobus_la_viga">
+        <attvalues>
+          <attvalue for="0" value="60.0" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="andres_molina" target="las_americas">
+        <attvalues>
+          <attvalue for="0" value="641.0" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="metrobus_la_viga" target="coyuya">
+        <attvalues>
+          <attvalue for="0" value="36.0" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="metrobus_la_viga" target="andres_molina">
+        <attvalues>
+          <attvalue for="0" value="60.0" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="coyuya" target="canela">
+        <attvalues>
+          <attvalue for="0" value="65.0" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="coyuya" target="metrobus_la_viga">
+        <attvalues>
+          <attvalue for="0" value="36.0" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="canela" target="tlacotal">
+        <attvalues>
+          <attvalue for="0" value="97.0" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="canela" target="coyuya">
+        <attvalues>
+          <attvalue for="0" value="65.0" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="tlacotal" target="goma">
+        <attvalues>
+          <attvalue for="0" value="51.0" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="tlacotal" target="canela">
+        <attvalues>
+          <attvalue for="0" value="97.0" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="goma" target="metrobus_iztacalco">
+        <attvalues>
+          <attvalue for="0" value="54.0" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="goma" target="tlacotal">
+        <attvalues>
+          <attvalue for="0" value="51.0" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="metrobus_iztacalco" target="upiicsa">
+        <attvalues>
+          <attvalue for="0" value="399.0" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="metrobus_iztacalco" target="goma">
+        <attvalues>
+          <attvalue for="0" value="54.0" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="upiicsa" target="el_rodeo">
+        <attvalues>
+          <attvalue for="0" value="349.0" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="upiicsa" target="metrobus_iztacalco">
+        <attvalues>
+          <attvalue for="0" value="399.0" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="el_rodeo" target="rio_tecolutla">
+        <attvalues>
+          <attvalue for="0" value="399.0" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="el_rodeo" target="upiicsa">
+        <attvalues>
+          <attvalue for="0" value="349.0" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="rio_tecolutla" target="rio_mayo">
+        <attvalues>
+          <attvalue for="0" value="318.0" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="rio_tecolutla" target="el_rodeo">
+        <attvalues>
+          <attvalue for="0" value="399.0" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="rio_mayo" target="rojo_gomez">
+        <attvalues>
+          <attvalue for="0" value="377.0" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="rio_mayo" target="rio_tecolutla">
+        <attvalues>
+          <attvalue for="0" value="318.0" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="rojo_gomez" target="del_moral">
+        <attvalues>
+          <attvalue for="0" value="48.0" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="rojo_gomez" target="rio_mayo">
+        <attvalues>
+          <attvalue for="0" value="377.0" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="del_moral" target="leyes_de_reforma">
+        <attvalues>
+          <attvalue for="0" value="111.0" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="del_moral" target="rio_frio">
+        <attvalues>
+          <attvalue for="0" value="524.0" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="leyes_de_reforma" target="del_moral">
+        <attvalues>
+          <attvalue for="0" value="111.0" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="leyes_de_reforma" target="cch_oriente">
+        <attvalues>
+          <attvalue for="0" value="22.0" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="delegacion_gustavo_a._madero" target="hospital_infantil_la_villa">
+        <attvalues>
+          <attvalue for="0" value="486.0" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="delegacion_gustavo_a._madero" target="martin_carrera">
+        <attvalues>
+          <attvalue for="0" value="283.0" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="hospital_infantil_la_villa" target="de_los_misterios">
+        <attvalues>
+          <attvalue for="0" value="12.0" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="deportivo_18_de_marzo" target="euzkaro">
+        <attvalues>
+          <attvalue for="0" value="569.0" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="deportivo_18_de_marzo" target="riobamba">
+        <attvalues>
+          <attvalue for="0" value="372.0" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="deportivo_18_de_marzo" target="indios_verdes">
+        <attvalues>
+          <attvalue for="0" value="1043.0" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="deportivo_18_de_marzo" target="la_villa">
+        <attvalues>
+          <attvalue for="0" value="121.0" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="euzkaro" target="potrero">
+        <attvalues>
+          <attvalue for="0" value="906.0" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="euzkaro" target="deportivo_18_de_marzo">
+        <attvalues>
+          <attvalue for="0" value="569.0" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="potrero" target="la_raza">
+        <attvalues>
+          <attvalue for="0" value="1202.0" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="potrero" target="euzkaro">
+        <attvalues>
+          <attvalue for="0" value="906.0" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="la_raza" target="circuito">
+        <attvalues>
+          <attvalue for="0" value="930.0" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="la_raza" target="hospital_la_raza">
+        <attvalues>
+          <attvalue for="0" value="108.0" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="la_raza" target="potrero">
+        <attvalues>
+          <attvalue for="0" value="1202.0" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="circuito" target="san_simon">
+        <attvalues>
+          <attvalue for="0" value="455.0" />
+        </attvalues>
+      </edge>
+      <edge id="183" source="circuito" target="tolnahuac">
+        <attvalues>
+          <attvalue for="0" value="416.0" />
+        </attvalues>
+      </edge>
+      <edge id="184" source="circuito" target="la_raza">
+        <attvalues>
+          <attvalue for="0" value="930.0" />
+        </attvalues>
+      </edge>
+      <edge id="185" source="san_simon" target="manuel_gonzalez">
+        <attvalues>
+          <attvalue for="0" value="443.0" />
+        </attvalues>
+      </edge>
+      <edge id="186" source="san_simon" target="circuito">
+        <attvalues>
+          <attvalue for="0" value="455.0" />
+        </attvalues>
+      </edge>
+      <edge id="187" source="manuel_gonzalez" target="buenavista">
+        <attvalues>
+          <attvalue for="0" value="1513.0" />
+        </attvalues>
+      </edge>
+      <edge id="188" source="manuel_gonzalez" target="san_simon">
+        <attvalues>
+          <attvalue for="0" value="443.0" />
+        </attvalues>
+      </edge>
+      <edge id="189" source="buenavista" target="el_chopo">
+        <attvalues>
+          <attvalue for="0" value="534.0" />
+        </attvalues>
+      </edge>
+      <edge id="190" source="buenavista" target="delegacion_cuauhtemoc">
+        <attvalues>
+          <attvalue for="0" value="666.0" />
+        </attvalues>
+      </edge>
+      <edge id="191" source="buenavista" target="manuel_gonzalez">
+        <attvalues>
+          <attvalue for="0" value="1513.0" />
+        </attvalues>
+      </edge>
+      <edge id="192" source="buenavista" target="guerrero">
+        <attvalues>
+          <attvalue for="0" value="124.0" />
+        </attvalues>
+      </edge>
+      <edge id="193" source="el_chopo" target="revolucion">
+        <attvalues>
+          <attvalue for="0" value="457.0" />
+        </attvalues>
+      </edge>
+      <edge id="194" source="el_chopo" target="buenavista">
+        <attvalues>
+          <attvalue for="0" value="534.0" />
+        </attvalues>
+      </edge>
+      <edge id="195" source="revolucion" target="plaza_de_la_republica">
+        <attvalues>
+          <attvalue for="0" value="658.0" />
+        </attvalues>
+      </edge>
+      <edge id="196" source="revolucion" target="el_chopo">
+        <attvalues>
+          <attvalue for="0" value="457.0" />
+        </attvalues>
+      </edge>
+      <edge id="197" source="plaza_de_la_republica" target="reforma">
+        <attvalues>
+          <attvalue for="0" value="481.0" />
+        </attvalues>
+      </edge>
+      <edge id="198" source="plaza_de_la_republica" target="puente_de_alvarado">
+        <attvalues>
+          <attvalue for="0" value="486.0" />
+        </attvalues>
+      </edge>
+      <edge id="199" source="plaza_de_la_republica" target="glorieta_de_colon">
+        <attvalues>
+          <attvalue for="0" value="270.0" />
+        </attvalues>
+      </edge>
+      <edge id="200" source="plaza_de_la_republica" target="revolucion">
+        <attvalues>
+          <attvalue for="0" value="658.0" />
+        </attvalues>
+      </edge>
+      <edge id="201" source="insurgentes" target="durango">
+        <attvalues>
+          <attvalue for="0" value="579.0" />
+        </attvalues>
+      </edge>
+      <edge id="202" source="insurgentes" target="hamburgo">
+        <attvalues>
+          <attvalue for="0" value="904.0" />
+        </attvalues>
+      </edge>
+      <edge id="203" source="durango" target="alvaro_obregon">
+        <attvalues>
+          <attvalue for="0" value="517.0" />
+        </attvalues>
+      </edge>
+      <edge id="204" source="durango" target="insurgentes">
+        <attvalues>
+          <attvalue for="0" value="579.0" />
+        </attvalues>
+      </edge>
+      <edge id="205" source="alvaro_obregon" target="sonora">
+        <attvalues>
+          <attvalue for="0" value="501.0" />
+        </attvalues>
+      </edge>
+      <edge id="206" source="alvaro_obregon" target="durango">
+        <attvalues>
+          <attvalue for="0" value="517.0" />
+        </attvalues>
+      </edge>
+      <edge id="207" source="sonora" target="campeche">
+        <attvalues>
+          <attvalue for="0" value="535.0" />
+        </attvalues>
+      </edge>
+      <edge id="208" source="sonora" target="alvaro_obregon">
+        <attvalues>
+          <attvalue for="0" value="501.0" />
+        </attvalues>
+      </edge>
+      <edge id="209" source="campeche" target="chilpancingo">
+        <attvalues>
+          <attvalue for="0" value="488.0" />
+        </attvalues>
+      </edge>
+      <edge id="210" source="campeche" target="sonora">
+        <attvalues>
+          <attvalue for="0" value="535.0" />
+        </attvalues>
+      </edge>
+      <edge id="211" source="chilpancingo" target="nuevo_leon">
+        <attvalues>
+          <attvalue for="0" value="693.0" />
+        </attvalues>
+      </edge>
+      <edge id="212" source="chilpancingo" target="campeche">
+        <attvalues>
+          <attvalue for="0" value="488.0" />
+        </attvalues>
+      </edge>
+      <edge id="213" source="felix_cuevas" target="rio_churubusco">
+        <attvalues>
+          <attvalue for="0" value="837.0" />
+        </attvalues>
+      </edge>
+      <edge id="214" source="felix_cuevas" target="parque_hundido">
+        <attvalues>
+          <attvalue for="0" value="815.0" />
+        </attvalues>
+      </edge>
+      <edge id="215" source="rio_churubusco" target="teatro_de_los_insurgentes">
+        <attvalues>
+          <attvalue for="0" value="589.0" />
+        </attvalues>
+      </edge>
+      <edge id="216" source="rio_churubusco" target="felix_cuevas">
+        <attvalues>
+          <attvalue for="0" value="837.0" />
+        </attvalues>
+      </edge>
+      <edge id="217" source="teatro_de_los_insurgentes" target="jose_maria_velasco">
+        <attvalues>
+          <attvalue for="0" value="484.0" />
+        </attvalues>
+      </edge>
+      <edge id="218" source="teatro_de_los_insurgentes" target="rio_churubusco">
+        <attvalues>
+          <attvalue for="0" value="589.0" />
+        </attvalues>
+      </edge>
+      <edge id="219" source="jose_maria_velasco" target="altavista">
+        <attvalues>
+          <attvalue for="0" value="1659.0" />
+        </attvalues>
+      </edge>
+      <edge id="220" source="jose_maria_velasco" target="teatro_de_los_insurgentes">
+        <attvalues>
+          <attvalue for="0" value="484.0" />
+        </attvalues>
+      </edge>
+      <edge id="221" source="altavista" target="la_bombilla">
+        <attvalues>
+          <attvalue for="0" value="625.0" />
+        </attvalues>
+      </edge>
+      <edge id="222" source="altavista" target="olivo">
+        <attvalues>
+          <attvalue for="0" value="569.0" />
+        </attvalues>
+      </edge>
+      <edge id="223" source="la_bombilla" target="doctor_galvez">
+        <attvalues>
+          <attvalue for="0" value="934.0" />
+        </attvalues>
+      </edge>
+      <edge id="224" source="la_bombilla" target="altavista">
+        <attvalues>
+          <attvalue for="0" value="625.0" />
+        </attvalues>
+      </edge>
+      <edge id="225" source="doctor_galvez" target="ciudad_universitaria">
+        <attvalues>
+          <attvalue for="0" value="2715.0" />
+        </attvalues>
+      </edge>
+      <edge id="226" source="doctor_galvez" target="la_bombilla">
+        <attvalues>
+          <attvalue for="0" value="934.0" />
+        </attvalues>
+      </edge>
+      <edge id="227" source="ciudad_universitaria" target="centro_cultural_universitario">
+        <attvalues>
+          <attvalue for="0" value="1190.0" />
+        </attvalues>
+      </edge>
+      <edge id="228" source="ciudad_universitaria" target="doctor_galvez">
+        <attvalues>
+          <attvalue for="0" value="2715.0" />
+        </attvalues>
+      </edge>
+      <edge id="229" source="centro_cultural_universitario" target="perisur">
+        <attvalues>
+          <attvalue for="0" value="1690.0" />
+        </attvalues>
+      </edge>
+      <edge id="230" source="centro_cultural_universitario" target="ciudad_universitaria">
+        <attvalues>
+          <attvalue for="0" value="1190.0" />
+        </attvalues>
+      </edge>
+      <edge id="231" source="perisur" target="villa_olimpica">
+        <attvalues>
+          <attvalue for="0" value="767.0" />
+        </attvalues>
+      </edge>
+      <edge id="232" source="perisur" target="centro_cultural_universitario">
+        <attvalues>
+          <attvalue for="0" value="1690.0" />
+        </attvalues>
+      </edge>
+      <edge id="233" source="villa_olimpica" target="corregidora">
+        <attvalues>
+          <attvalue for="0" value="768.0" />
+        </attvalues>
+      </edge>
+      <edge id="234" source="villa_olimpica" target="perisur">
+        <attvalues>
+          <attvalue for="0" value="767.0" />
+        </attvalues>
+      </edge>
+      <edge id="235" source="corregidora" target="ayuntamiento">
+        <attvalues>
+          <attvalue for="0" value="225.0" />
+        </attvalues>
+      </edge>
+      <edge id="236" source="corregidora" target="villa_olimpica">
+        <attvalues>
+          <attvalue for="0" value="768.0" />
+        </attvalues>
+      </edge>
+      <edge id="237" source="ayuntamiento" target="fuentes_brotantes">
+        <attvalues>
+          <attvalue for="0" value="687.0" />
+        </attvalues>
+      </edge>
+      <edge id="238" source="ayuntamiento" target="corregidora">
+        <attvalues>
+          <attvalue for="0" value="225.0" />
+        </attvalues>
+      </edge>
+      <edge id="239" source="fuentes_brotantes" target="santa_ursula">
+        <attvalues>
+          <attvalue for="0" value="740.0" />
+        </attvalues>
+      </edge>
+      <edge id="240" source="fuentes_brotantes" target="ayuntamiento">
+        <attvalues>
+          <attvalue for="0" value="687.0" />
+        </attvalues>
+      </edge>
+      <edge id="241" source="santa_ursula" target="la_joya">
+        <attvalues>
+          <attvalue for="0" value="450.0" />
+        </attvalues>
+      </edge>
+      <edge id="242" source="santa_ursula" target="fuentes_brotantes">
+        <attvalues>
+          <attvalue for="0" value="740.0" />
+        </attvalues>
+      </edge>
+      <edge id="243" source="la_joya" target="el_caminero">
+        <attvalues>
+          <attvalue for="0" value="154.0" />
+        </attvalues>
+      </edge>
+      <edge id="244" source="la_joya" target="santa_ursula">
+        <attvalues>
+          <attvalue for="0" value="450.0" />
+        </attvalues>
+      </edge>
+      <edge id="245" source="el_caminero" target="la_joya">
+        <attvalues>
+          <attvalue for="0" value="154.0" />
+        </attvalues>
+      </edge>
+      <edge id="246" source="tenayuca" target="san_jose_de_la_escalera">
+        <attvalues>
+          <attvalue for="0" value="903.0" />
+        </attvalues>
+      </edge>
+      <edge id="247" source="san_jose_de_la_escalera" target="progreso_nacional">
+        <attvalues>
+          <attvalue for="0" value="461.0" />
+        </attvalues>
+      </edge>
+      <edge id="248" source="san_jose_de_la_escalera" target="tenayuca">
+        <attvalues>
+          <attvalue for="0" value="903.0" />
+        </attvalues>
+      </edge>
+      <edge id="249" source="progreso_nacional" target="tres_anegas">
+        <attvalues>
+          <attvalue for="0" value="639.0" />
+        </attvalues>
+      </edge>
+      <edge id="250" source="progreso_nacional" target="san_jose_de_la_escalera">
+        <attvalues>
+          <attvalue for="0" value="461.0" />
+        </attvalues>
+      </edge>
+      <edge id="251" source="tres_anegas" target="jupiter">
+        <attvalues>
+          <attvalue for="0" value="1053.0" />
+        </attvalues>
+      </edge>
+      <edge id="252" source="tres_anegas" target="progreso_nacional">
+        <attvalues>
+          <attvalue for="0" value="639.0" />
+        </attvalues>
+      </edge>
+      <edge id="253" source="jupiter" target="la_patera">
+        <attvalues>
+          <attvalue for="0" value="756.0" />
+        </attvalues>
+      </edge>
+      <edge id="254" source="jupiter" target="tres_anegas">
+        <attvalues>
+          <attvalue for="0" value="1053.0" />
+        </attvalues>
+      </edge>
+      <edge id="255" source="la_patera" target="poniente_146">
+        <attvalues>
+          <attvalue for="0" value="562.0" />
+        </attvalues>
+      </edge>
+      <edge id="256" source="la_patera" target="jupiter">
+        <attvalues>
+          <attvalue for="0" value="756.0" />
+        </attvalues>
+      </edge>
+      <edge id="257" source="poniente_146" target="montevideo">
+        <attvalues>
+          <attvalue for="0" value="593.0" />
+        </attvalues>
+      </edge>
+      <edge id="258" source="poniente_146" target="la_patera">
+        <attvalues>
+          <attvalue for="0" value="562.0" />
+        </attvalues>
+      </edge>
+      <edge id="259" source="montevideo" target="poniente_134">
+        <attvalues>
+          <attvalue for="0" value="522.0" />
+        </attvalues>
+      </edge>
+      <edge id="260" source="montevideo" target="poniente_146">
+        <attvalues>
+          <attvalue for="0" value="593.0" />
+        </attvalues>
+      </edge>
+      <edge id="261" source="montevideo" target="metrobus_norte_45">
+        <attvalues>
+          <attvalue for="0" value="37.0" />
+        </attvalues>
+      </edge>
+      <edge id="262" source="montevideo" target="lindavista-vallejo">
+        <attvalues>
+          <attvalue for="0" value="356.0" />
+        </attvalues>
+      </edge>
+      <edge id="263" source="poniente_134" target="poniente_128">
+        <attvalues>
+          <attvalue for="0" value="480.0" />
+        </attvalues>
+      </edge>
+      <edge id="264" source="poniente_134" target="montevideo">
+        <attvalues>
+          <attvalue for="0" value="522.0" />
+        </attvalues>
+      </edge>
+      <edge id="265" source="poniente_128" target="magdalena_de_las_salinas">
+        <attvalues>
+          <attvalue for="0" value="866.0" />
+        </attvalues>
+      </edge>
+      <edge id="266" source="poniente_128" target="poniente_134">
+        <attvalues>
+          <attvalue for="0" value="480.0" />
+        </attvalues>
+      </edge>
+      <edge id="267" source="magdalena_de_las_salinas" target="coltongo">
+        <attvalues>
+          <attvalue for="0" value="616.0" />
+        </attvalues>
+      </edge>
+      <edge id="268" source="magdalena_de_las_salinas" target="poniente_128">
+        <attvalues>
+          <attvalue for="0" value="866.0" />
+        </attvalues>
+      </edge>
+      <edge id="269" source="coltongo" target="metrobus_cuitlahuac">
+        <attvalues>
+          <attvalue for="0" value="871.0" />
+        </attvalues>
+      </edge>
+      <edge id="270" source="coltongo" target="magdalena_de_las_salinas">
+        <attvalues>
+          <attvalue for="0" value="616.0" />
+        </attvalues>
+      </edge>
+      <edge id="271" source="metrobus_cuitlahuac" target="heroe_de_nacozari">
+        <attvalues>
+          <attvalue for="0" value="457.0" />
+        </attvalues>
+      </edge>
+      <edge id="272" source="metrobus_cuitlahuac" target="coltongo">
+        <attvalues>
+          <attvalue for="0" value="871.0" />
+        </attvalues>
+      </edge>
+      <edge id="273" source="heroe_de_nacozari" target="hospital_la_raza">
+        <attvalues>
+          <attvalue for="0" value="485.0" />
+        </attvalues>
+      </edge>
+      <edge id="274" source="heroe_de_nacozari" target="metrobus_cuitlahuac">
+        <attvalues>
+          <attvalue for="0" value="457.0" />
+        </attvalues>
+      </edge>
+      <edge id="275" source="hospital_la_raza" target="la_raza">
+        <attvalues>
+          <attvalue for="0" value="108.0" />
+        </attvalues>
+      </edge>
+      <edge id="276" source="hospital_la_raza" target="heroe_de_nacozari">
+        <attvalues>
+          <attvalue for="0" value="485.0" />
+        </attvalues>
+      </edge>
+      <edge id="277" source="tolnahuac" target="metrobus_tlatelolco">
+        <attvalues>
+          <attvalue for="0" value="662.0" />
+        </attvalues>
+      </edge>
+      <edge id="278" source="tolnahuac" target="circuito">
+        <attvalues>
+          <attvalue for="0" value="416.0" />
+        </attvalues>
+      </edge>
+      <edge id="279" source="metrobus_tlatelolco" target="ricardo_flores_magon">
+        <attvalues>
+          <attvalue for="0" value="577.0" />
+        </attvalues>
+      </edge>
+      <edge id="280" source="metrobus_tlatelolco" target="tolnahuac">
+        <attvalues>
+          <attvalue for="0" value="662.0" />
+        </attvalues>
+      </edge>
+      <edge id="281" source="ricardo_flores_magon" target="guerrero">
+        <attvalues>
+          <attvalue for="0" value="879.0" />
+        </attvalues>
+      </edge>
+      <edge id="282" source="ricardo_flores_magon" target="metrobus_tlatelolco">
+        <attvalues>
+          <attvalue for="0" value="577.0" />
+        </attvalues>
+      </edge>
+      <edge id="283" source="guerrero" target="mina">
+        <attvalues>
+          <attvalue for="0" value="832.0" />
+        </attvalues>
+      </edge>
+      <edge id="284" source="guerrero" target="buenavista">
+        <attvalues>
+          <attvalue for="0" value="124.0" />
+        </attvalues>
+      </edge>
+      <edge id="285" source="guerrero" target="ricardo_flores_magon">
+        <attvalues>
+          <attvalue for="0" value="879.0" />
+        </attvalues>
+      </edge>
+      <edge id="286" source="mina" target="museo_san_carlos">
+        <attvalues>
+          <attvalue for="0" value="359.0" />
+        </attvalues>
+      </edge>
+      <edge id="287" source="mina" target="guerrero">
+        <attvalues>
+          <attvalue for="0" value="832.0" />
+        </attvalues>
+      </edge>
+      <edge id="288" source="museo_san_carlos" target="hidalgo">
+        <attvalues>
+          <attvalue for="0" value="133.0" />
+        </attvalues>
+      </edge>
+      <edge id="289" source="museo_san_carlos" target="mina">
+        <attvalues>
+          <attvalue for="0" value="359.0" />
+        </attvalues>
+      </edge>
+      <edge id="290" source="museo_san_carlos" target="puente_de_alvarado">
+        <attvalues>
+          <attvalue for="0" value="152.0" />
+        </attvalues>
+      </edge>
+      <edge id="291" source="juarez" target="balderas">
+        <attvalues>
+          <attvalue for="0" value="489.0" />
+        </attvalues>
+      </edge>
+      <edge id="292" source="juarez" target="vocacional_5">
+        <attvalues>
+          <attvalue for="0" value="57.0" />
+        </attvalues>
+      </edge>
+      <edge id="293" source="juarez" target="plaza_san_juan">
+        <attvalues>
+          <attvalue for="0" value="99.0" />
+        </attvalues>
+      </edge>
+      <edge id="294" source="juarez" target="hidalgo">
+        <attvalues>
+          <attvalue for="0" value="928.0" />
+        </attvalues>
+      </edge>
+      <edge id="295" source="balderas" target="cuauhtemoc">
+        <attvalues>
+          <attvalue for="0" value="478.0" />
+        </attvalues>
+      </edge>
+      <edge id="296" source="balderas" target="juarez">
+        <attvalues>
+          <attvalue for="0" value="489.0" />
+        </attvalues>
+      </edge>
+      <edge id="297" source="cuauhtemoc" target="balderas">
+        <attvalues>
+          <attvalue for="0" value="478.0" />
+        </attvalues>
+      </edge>
+      <edge id="298" source="cuauhtemoc" target="jardin_pushkin">
+        <attvalues>
+          <attvalue for="0" value="692.0" />
+        </attvalues>
+      </edge>
+      <edge id="299" source="metrobus_villa_de_aragon" target="francisco_morazan">
+        <attvalues>
+          <attvalue for="0" value="325.0" />
+        </attvalues>
+      </edge>
+      <edge id="300" source="francisco_morazan" target="colegio_de_bachilleres_9">
+        <attvalues>
+          <attvalue for="0" value="420.0" />
+        </attvalues>
+      </edge>
+      <edge id="301" source="francisco_morazan" target="metrobus_villa_de_aragon">
+        <attvalues>
+          <attvalue for="0" value="325.0" />
+        </attvalues>
+      </edge>
+      <edge id="302" source="colegio_de_bachilleres_9" target="la_pradera">
+        <attvalues>
+          <attvalue for="0" value="510.0" />
+        </attvalues>
+      </edge>
+      <edge id="303" source="colegio_de_bachilleres_9" target="francisco_morazan">
+        <attvalues>
+          <attvalue for="0" value="420.0" />
+        </attvalues>
+      </edge>
+      <edge id="304" source="la_pradera" target="volcan_de_fuego">
+        <attvalues>
+          <attvalue for="0" value="588.0" />
+        </attvalues>
+      </edge>
+      <edge id="305" source="la_pradera" target="colegio_de_bachilleres_9">
+        <attvalues>
+          <attvalue for="0" value="510.0" />
+        </attvalues>
+      </edge>
+      <edge id="306" source="volcan_de_fuego" target="ampliacion_providencia">
+        <attvalues>
+          <attvalue for="0" value="440.0" />
+        </attvalues>
+      </edge>
+      <edge id="307" source="ampliacion_providencia" target="deportivo_los_galeana">
+        <attvalues>
+          <attvalue for="0" value="214.0" />
+        </attvalues>
+      </edge>
+      <edge id="308" source="deportivo_los_galeana" target="416_poniente">
+        <attvalues>
+          <attvalue for="0" value="909.0" />
+        </attvalues>
+      </edge>
+      <edge id="309" source="416_poniente" target="loreto_fabela">
+        <attvalues>
+          <attvalue for="0" value="783.0" />
+        </attvalues>
+      </edge>
+      <edge id="310" source="loreto_fabela" target="pueblo_san_juan_de_aragon">
+        <attvalues>
+          <attvalue for="0" value="551.0" />
+        </attvalues>
+      </edge>
+      <edge id="311" source="loreto_fabela" target="482">
+        <attvalues>
+          <attvalue for="0" value="82.0" />
+        </attvalues>
+      </edge>
+      <edge id="312" source="pueblo_san_juan_de_aragon" target="casas_aleman">
+        <attvalues>
+          <attvalue for="0" value="507.0" />
+        </attvalues>
+      </edge>
+      <edge id="313" source="pueblo_san_juan_de_aragon" target="loreto_fabela">
+        <attvalues>
+          <attvalue for="0" value="551.0" />
+        </attvalues>
+      </edge>
+      <edge id="314" source="casas_aleman" target="gran_canal">
+        <attvalues>
+          <attvalue for="0" value="424.0" />
+        </attvalues>
+      </edge>
+      <edge id="315" source="casas_aleman" target="pueblo_san_juan_de_aragon">
+        <attvalues>
+          <attvalue for="0" value="507.0" />
+        </attvalues>
+      </edge>
+      <edge id="316" source="gran_canal" target="san_juan_de_aragon">
+        <attvalues>
+          <attvalue for="0" value="424.0" />
+        </attvalues>
+      </edge>
+      <edge id="317" source="gran_canal" target="casas_aleman">
+        <attvalues>
+          <attvalue for="0" value="424.0" />
+        </attvalues>
+      </edge>
+      <edge id="318" source="hospital_general_la_villa" target="martin_carrera">
+        <attvalues>
+          <attvalue for="0" value="255.0" />
+        </attvalues>
+      </edge>
+      <edge id="319" source="hospital_general_la_villa" target="san_juan_de_aragon">
+        <attvalues>
+          <attvalue for="0" value="76.0" />
+        </attvalues>
+      </edge>
+      <edge id="320" source="martin_carrera" target="delegacion_gustavo_a._madero">
+        <attvalues>
+          <attvalue for="0" value="283.0" />
+        </attvalues>
+      </edge>
+      <edge id="321" source="martin_carrera" target="hospital_general_la_villa">
+        <attvalues>
+          <attvalue for="0" value="255.0" />
+        </attvalues>
+      </edge>
+      <edge id="322" source="riobamba" target="instituto_politecnico_nacional">
+        <attvalues>
+          <attvalue for="0" value="272.0" />
+        </attvalues>
+      </edge>
+      <edge id="323" source="riobamba" target="deportivo_18_de_marzo">
+        <attvalues>
+          <attvalue for="0" value="372.0" />
+        </attvalues>
+      </edge>
+      <edge id="324" source="instituto_politecnico_nacional" target="san_bartolo">
+        <attvalues>
+          <attvalue for="0" value="234.0" />
+        </attvalues>
+      </edge>
+      <edge id="325" source="instituto_politecnico_nacional" target="riobamba">
+        <attvalues>
+          <attvalue for="0" value="272.0" />
+        </attvalues>
+      </edge>
+      <edge id="326" source="metrobus_eduardo_molina" target="moctezuma">
+        <attvalues>
+          <attvalue for="0" value="29.0" />
+        </attvalues>
+      </edge>
+      <edge id="327" source="hospital_balbuena" target="cecilio_robelo">
+        <attvalues>
+          <attvalue for="0" value="94.0" />
+        </attvalues>
+      </edge>
+      <edge id="328" source="cecilio_robelo" target="mercado_de_sonora">
+        <attvalues>
+          <attvalue for="0" value="351.0" />
+        </attvalues>
+      </edge>
+      <edge id="329" source="cecilio_robelo" target="metrobus_eduardo_molina">
+        <attvalues>
+          <attvalue for="0" value="236.0" />
+        </attvalues>
+      </edge>
+      <edge id="330" source="mercado_de_sonora" target="merced">
+        <attvalues>
+          <attvalue for="0" value="320.0" />
+        </attvalues>
+      </edge>
+      <edge id="331" source="mercado_de_sonora" target="cecilio_robelo">
+        <attvalues>
+          <attvalue for="0" value="351.0" />
+        </attvalues>
+      </edge>
+      <edge id="332" source="merced" target="circunvalacion">
+        <attvalues>
+          <attvalue for="0" value="460.0" />
+        </attvalues>
+      </edge>
+      <edge id="333" source="merced" target="mercado_de_sonora">
+        <attvalues>
+          <attvalue for="0" value="320.0" />
+        </attvalues>
+      </edge>
+      <edge id="334" source="circunvalacion" target="las_cruces_norte">
+        <attvalues>
+          <attvalue for="0" value="45.0" />
+        </attvalues>
+      </edge>
+      <edge id="335" source="las_cruces_norte" target="museo_de_la_ciudad">
+        <attvalues>
+          <attvalue for="0" value="68.0" />
+        </attvalues>
+      </edge>
+      <edge id="336" source="museo_de_la_ciudad" target="metrobus_isabel_la_catolica">
+        <attvalues>
+          <attvalue for="0" value="91.0" />
+        </attvalues>
+      </edge>
+      <edge id="337" source="museo_de_la_ciudad" target="pino_suarez">
+        <attvalues>
+          <attvalue for="0" value="406.0" />
+        </attvalues>
+      </edge>
+      <edge id="338" source="metrobus_isabel_la_catolica" target="el_salvador">
+        <attvalues>
+          <attvalue for="0" value="64.0" />
+        </attvalues>
+      </edge>
+      <edge id="339" source="metrobus_isabel_la_catolica" target="museo_de_la_ciudad">
+        <attvalues>
+          <attvalue for="0" value="91.0" />
+        </attvalues>
+      </edge>
+      <edge id="340" source="el_salvador" target="metrobus_eje_central">
+        <attvalues>
+          <attvalue for="0" value="43.0" />
+        </attvalues>
+      </edge>
+      <edge id="341" source="el_salvador" target="metrobus_isabel_la_catolica">
+        <attvalues>
+          <attvalue for="0" value="64.0" />
+        </attvalues>
+      </edge>
+      <edge id="342" source="metrobus_eje_central" target="plaza_san_juan">
+        <attvalues>
+          <attvalue for="0" value="39.0" />
+        </attvalues>
+      </edge>
+      <edge id="343" source="metrobus_eje_central" target="el_salvador">
+        <attvalues>
+          <attvalue for="0" value="43.0" />
+        </attvalues>
+      </edge>
+      <edge id="344" source="plaza_san_juan" target="juarez">
+        <attvalues>
+          <attvalue for="0" value="99.0" />
+        </attvalues>
+      </edge>
+      <edge id="345" source="plaza_san_juan" target="metrobus_eje_central">
+        <attvalues>
+          <attvalue for="0" value="39.0" />
+        </attvalues>
+      </edge>
+      <edge id="346" source="vocacional_5" target="expo_reforma">
+        <attvalues>
+          <attvalue for="0" value="255.0" />
+        </attvalues>
+      </edge>
+      <edge id="347" source="vocacional_5" target="juarez">
+        <attvalues>
+          <attvalue for="0" value="57.0" />
+        </attvalues>
+      </edge>
+      <edge id="348" source="expo_reforma" target="glorieta_de_colon">
+        <attvalues>
+          <attvalue for="0" value="145.0" />
+        </attvalues>
+      </edge>
+      <edge id="349" source="expo_reforma" target="vocacional_5">
+        <attvalues>
+          <attvalue for="0" value="255.0" />
+        </attvalues>
+      </edge>
+      <edge id="350" source="puente_de_alvarado" target="delegacion_cuauhtemoc">
+        <attvalues>
+          <attvalue for="0" value="497.0" />
+        </attvalues>
+      </edge>
+      <edge id="351" source="puente_de_alvarado" target="plaza_de_la_republica">
+        <attvalues>
+          <attvalue for="0" value="486.0" />
+        </attvalues>
+      </edge>
+      <edge id="352" source="puente_de_alvarado" target="museo_san_carlos">
+        <attvalues>
+          <attvalue for="0" value="152.0" />
+        </attvalues>
+      </edge>
+      <edge id="353" source="delegacion_cuauhtemoc" target="buenavista">
+        <attvalues>
+          <attvalue for="0" value="666.0" />
+        </attvalues>
+      </edge>
+      <edge id="354" source="delegacion_cuauhtemoc" target="puente_de_alvarado">
+        <attvalues>
+          <attvalue for="0" value="497.0" />
+        </attvalues>
+      </edge>
+      <edge id="355" source="pino_suarez" target="las_cruces_sur">
+        <attvalues>
+          <attvalue for="0" value="48.0" />
+        </attvalues>
+      </edge>
+      <edge id="356" source="las_cruces_sur" target="merced">
+        <attvalues>
+          <attvalue for="0" value="119.0" />
+        </attvalues>
+      </edge>
+      <edge id="357" source="san_bartolo" target="instituto_del_petroleo">
+        <attvalues>
+          <attvalue for="0" value="181.0" />
+        </attvalues>
+      </edge>
+      <edge id="358" source="san_bartolo" target="instituto_politecnico_nacional">
+        <attvalues>
+          <attvalue for="0" value="234.0" />
+        </attvalues>
+      </edge>
+      <edge id="359" source="instituto_del_petroleo" target="lindavista-vallejo">
+        <attvalues>
+          <attvalue for="0" value="96.0" />
+        </attvalues>
+      </edge>
+      <edge id="360" source="instituto_del_petroleo" target="san_bartolo">
+        <attvalues>
+          <attvalue for="0" value="181.0" />
+        </attvalues>
+      </edge>
+      <edge id="361" source="lindavista-vallejo" target="montevideo">
+        <attvalues>
+          <attvalue for="0" value="356.0" />
+        </attvalues>
+      </edge>
+      <edge id="362" source="lindavista-vallejo" target="instituto_del_petroleo">
+        <attvalues>
+          <attvalue for="0" value="96.0" />
+        </attvalues>
+      </edge>
+      <edge id="363" source="metrobus_norte_45" target="norte_59">
+        <attvalues>
+          <attvalue for="0" value="195.0" />
+        </attvalues>
+      </edge>
+      <edge id="364" source="metrobus_norte_45" target="montevideo">
+        <attvalues>
+          <attvalue for="0" value="37.0" />
+        </attvalues>
+      </edge>
+      <edge id="365" source="norte_59" target="tecnoparque">
+        <attvalues>
+          <attvalue for="0" value="741.0" />
+        </attvalues>
+      </edge>
+      <edge id="366" source="norte_59" target="metrobus_norte_45">
+        <attvalues>
+          <attvalue for="0" value="195.0" />
+        </attvalues>
+      </edge>
+      <edge id="367" source="tecnoparque" target="uam_azcapotzalco">
+        <attvalues>
+          <attvalue for="0" value="235.0" />
+        </attvalues>
+      </edge>
+      <edge id="368" source="tecnoparque" target="norte_59">
+        <attvalues>
+          <attvalue for="0" value="741.0" />
+        </attvalues>
+      </edge>
+      <edge id="369" source="uam_azcapotzalco" target="ferrocarriles_nacionales">
+        <attvalues>
+          <attvalue for="0" value="132.0" />
+        </attvalues>
+      </edge>
+      <edge id="370" source="uam_azcapotzalco" target="tecnoparque">
+        <attvalues>
+          <attvalue for="0" value="235.0" />
+        </attvalues>
+      </edge>
+      <edge id="371" source="ferrocarriles_nacionales" target="de_las_culturas">
+        <attvalues>
+          <attvalue for="0" value="928.0" />
+        </attvalues>
+      </edge>
+      <edge id="372" source="ferrocarriles_nacionales" target="uam_azcapotzalco">
+        <attvalues>
+          <attvalue for="0" value="132.0" />
+        </attvalues>
+      </edge>
+      <edge id="373" source="de_las_culturas" target="colegio_de_bachilleres_1">
+        <attvalues>
+          <attvalue for="0" value="106.0" />
+        </attvalues>
+      </edge>
+      <edge id="374" source="de_las_culturas" target="ferrocarriles_nacionales">
+        <attvalues>
+          <attvalue for="0" value="928.0" />
+        </attvalues>
+      </edge>
+      <edge id="375" source="colegio_de_bachilleres_1" target="el_rosario">
+        <attvalues>
+          <attvalue for="0" value="683.0" />
+        </attvalues>
+      </edge>
+      <edge id="376" source="colegio_de_bachilleres_1" target="de_las_culturas">
+        <attvalues>
+          <attvalue for="0" value="106.0" />
+        </attvalues>
+      </edge>
+      <edge id="377" source="el_rosario" target="colegio_de_bachilleres_1">
+        <attvalues>
+          <attvalue for="0" value="683.0" />
+        </attvalues>
+      </edge>
+      <edge id="378" source="aeropuerto_t1" target="aeropuerto_t2">
+        <attvalues>
+          <attvalue for="0" value="2137.0" />
+        </attvalues>
+      </edge>
+      <edge id="379" source="aeropuerto_t2" target="archivo_general_de_la_nacion">
+        <attvalues>
+          <attvalue for="0" value="2129.0" />
+        </attvalues>
+      </edge>
+      <edge id="380" source="olivo" target="francia">
+        <attvalues>
+          <attvalue for="0" value="588.0" />
+        </attvalues>
+      </edge>
+      <edge id="381" source="francia" target="jose_maria_velasco">
+        <attvalues>
+          <attvalue for="0" value="502.0" />
+        </attvalues>
+      </edge>
+      <edge id="382" source="parque_hundido" target="ciudad_de_los_deportes">
+        <attvalues>
+          <attvalue for="0" value="438.0" />
+        </attvalues>
+      </edge>
+      <edge id="383" source="obrero_mundial" target="centro_medico">
+        <attvalues>
+          <attvalue for="0" value="946.0" />
+        </attvalues>
+      </edge>
+      <edge id="384" source="obrero_mundial" target="etiopia">
+        <attvalues>
+          <attvalue for="0" value="798.0" />
+        </attvalues>
+      </edge>
+      <edge id="385" source="centro_medico" target="doctor_marquez">
+        <attvalues>
+          <attvalue for="0" value="586.0" />
+        </attvalues>
+      </edge>
+      <edge id="386" source="centro_medico" target="obrero_mundial">
+        <attvalues>
+          <attvalue for="0" value="946.0" />
+        </attvalues>
+      </edge>
+      <edge id="387" source="doctor_marquez" target="hospital_general">
+        <attvalues>
+          <attvalue for="0" value="508.0" />
+        </attvalues>
+      </edge>
+      <edge id="388" source="doctor_marquez" target="centro_medico">
+        <attvalues>
+          <attvalue for="0" value="586.0" />
+        </attvalues>
+      </edge>
+      <edge id="389" source="hospital_general" target="jardin_pushkin">
+        <attvalues>
+          <attvalue for="0" value="917.0" />
+        </attvalues>
+      </edge>
+      <edge id="390" source="hospital_general" target="doctor_marquez">
+        <attvalues>
+          <attvalue for="0" value="508.0" />
+        </attvalues>
+      </edge>
+      <edge id="391" source="jardin_pushkin" target="cuauhtemoc">
+        <attvalues>
+          <attvalue for="0" value="692.0" />
+        </attvalues>
+      </edge>
+      <edge id="392" source="jardin_pushkin" target="hospital_general">
+        <attvalues>
+          <attvalue for="0" value="917.0" />
+        </attvalues>
+      </edge>
+      <edge id="393" source="tepalcates" target="general_antonio_de_leon">
+        <attvalues>
+          <attvalue for="0" value="823.0" />
+        </attvalues>
+      </edge>
+      <edge id="394" source="general_antonio_de_leon" target="constitucion_de_apatzingan">
+        <attvalues>
+          <attvalue for="0" value="558.0" />
+        </attvalues>
+      </edge>
+      <edge id="395" source="constitucion_de_apatzingan" target="cch_oriente">
+        <attvalues>
+          <attvalue for="0" value="872.0" />
+        </attvalues>
+      </edge>
+      <edge id="396" source="constitucion_de_apatzingan" target="canal_de_san_juan">
+        <attvalues>
+          <attvalue for="0" value="1174.0" />
+        </attvalues>
+      </edge>
+      <edge id="397" source="cch_oriente" target="leyes_de_reforma">
+        <attvalues>
+          <attvalue for="0" value="22.0" />
+        </attvalues>
+      </edge>
+      <edge id="398" source="cch_oriente" target="constitucion_de_apatzingan">
+        <attvalues>
+          <attvalue for="0" value="872.0" />
+        </attvalues>
+      </edge>
+      <edge id="399" source="rio_frio" target="rojo_gomez">
+        <attvalues>
+          <attvalue for="0" value="477.0" />
+        </attvalues>
+      </edge>
+      <edge id="400" source="482" target="414">
+        <attvalues>
+          <attvalue for="0" value="239.0" />
+        </attvalues>
+      </edge>
+      <edge id="401" source="414" target="416_oriente">
+        <attvalues>
+          <attvalue for="0" value="413.0" />
+        </attvalues>
+      </edge>
+      <edge id="402" source="416_oriente" target="la_pradera">
+        <attvalues>
+          <attvalue for="0" value="305.0" />
+        </attvalues>
+      </edge>
+      <edge id="403" source="canal_de_san_juan" target="nicolas_bravo">
+        <attvalues>
+          <attvalue for="0" value="492.0" />
+        </attvalues>
+      </edge>
+      <edge id="404" source="nicolas_bravo" target="tepalcates">
+        <attvalues>
+          <attvalue for="0" value="417.0" />
+        </attvalues>
+      </edge>
+      <edge id="405" source="escandon" target="patriotismo">
+        <attvalues>
+          <attvalue for="0" value="171.0" />
+        </attvalues>
+      </edge>
+      <edge id="406" source="escandon" target="nuevo_leon">
+        <attvalues>
+          <attvalue for="0" value="363.0" />
+        </attvalues>
+      </edge>
+      <edge id="407" source="patriotismo" target="de_la_salle">
+        <attvalues>
+          <attvalue for="0" value="317.0" />
+        </attvalues>
+      </edge>
+      <edge id="408" source="patriotismo" target="escandon">
+        <attvalues>
+          <attvalue for="0" value="171.0" />
+        </attvalues>
+      </edge>
+      <edge id="409" source="de_la_salle" target="parque_lira">
+        <attvalues>
+          <attvalue for="0" value="31.0" />
+        </attvalues>
+      </edge>
+      <edge id="410" source="de_la_salle" target="patriotismo">
+        <attvalues>
+          <attvalue for="0" value="317.0" />
+        </attvalues>
+      </edge>
+      <edge id="411" source="parque_lira" target="antonio_maceo">
+        <attvalues>
+          <attvalue for="0" value="455.0" />
+        </attvalues>
+      </edge>
+      <edge id="412" source="antonio_maceo" target="tacubaya">
+        <attvalues>
+          <attvalue for="0" value="433.0" />
+        </attvalues>
+      </edge>
+      <edge id="413" source="antonio_maceo" target="de_la_salle">
+        <attvalues>
+          <attvalue for="0" value="425.0" />
+        </attvalues>
+      </edge>
+      <edge id="414" source="tacubaya" target="antonio_maceo">
+        <attvalues>
+          <attvalue for="0" value="433.0" />
+        </attvalues>
+      </edge>
+      <edge id="415" source="bellas_artes" target="teatro_blanquita">
+        <attvalues>
+          <attvalue for="0" value="325.0" />
+        </attvalues>
+      </edge>
+      <edge id="416" source="bellas_artes" target="hidalgo">
+        <attvalues>
+          <attvalue for="0" value="141.0" />
+        </attvalues>
+      </edge>
+      <edge id="417" source="teatro_blanquita" target="republica_de_chile">
+        <attvalues>
+          <attvalue for="0" value="92.0" />
+        </attvalues>
+      </edge>
+      <edge id="418" source="teatro_blanquita" target="bellas_artes">
+        <attvalues>
+          <attvalue for="0" value="325.0" />
+        </attvalues>
+      </edge>
+      <edge id="419" source="republica_de_chile" target="republica_de_argentina">
+        <attvalues>
+          <attvalue for="0" value="84.0" />
+        </attvalues>
+      </edge>
+      <edge id="420" source="republica_de_chile" target="teatro_blanquita">
+        <attvalues>
+          <attvalue for="0" value="92.0" />
+        </attvalues>
+      </edge>
+      <edge id="421" source="republica_de_argentina" target="teatro_del_pueblo">
+        <attvalues>
+          <attvalue for="0" value="88.0" />
+        </attvalues>
+      </edge>
+      <edge id="422" source="republica_de_argentina" target="republica_de_chile">
+        <attvalues>
+          <attvalue for="0" value="84.0" />
+        </attvalues>
+      </edge>
+      <edge id="423" source="teatro_del_pueblo" target="mixcalco">
+        <attvalues>
+          <attvalue for="0" value="63.0" />
+        </attvalues>
+      </edge>
+      <edge id="424" source="teatro_del_pueblo" target="republica_de_argentina">
+        <attvalues>
+          <attvalue for="0" value="88.0" />
+        </attvalues>
+      </edge>
+      <edge id="425" source="mixcalco" target="ferrocarril_de_cintura">
+        <attvalues>
+          <attvalue for="0" value="50.0" />
+        </attvalues>
+      </edge>
+      <edge id="426" source="mixcalco" target="teatro_del_pueblo">
+        <attvalues>
+          <attvalue for="0" value="63.0" />
+        </attvalues>
+      </edge>
+      <edge id="427" source="ferrocarril_de_cintura" target="morelos">
+        <attvalues>
+          <attvalue for="0" value="40.0" />
+        </attvalues>
+      </edge>
+      <edge id="428" source="ferrocarril_de_cintura" target="mixcalco">
+        <attvalues>
+          <attvalue for="0" value="50.0" />
+        </attvalues>
+      </edge>
+      <edge id="429" source="morelos" target="archivo_general_de_la_nacion">
+        <attvalues>
+          <attvalue for="0" value="63.0" />
+        </attvalues>
+      </edge>
+      <edge id="430" source="morelos" target="ferrocarril_de_cintura">
+        <attvalues>
+          <attvalue for="0" value="40.0" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
