@@ -1,0 +1,2255 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <graph edgedefault="directed">
+    <node id="negra" />
+    <node id="compañero" />
+    <node id="cual" />
+    <node id="piensan" />
+    <node id="ha" />
+    <node id="vuelo" />
+    <node id="mantuvo" />
+    <node id="sigilosamente" />
+    <node id="cuidar" />
+    <node id="lastimó" />
+    <node id="tropezó" />
+    <node id="formaron" />
+    <node id="pues" />
+    <node id="alza" />
+    <node id="atraparlas" />
+    <node id="pelean" />
+    <node id="feliz" />
+    <node id="tomar" />
+    <node id="puentes" />
+    <node id="Dicen" />
+    <node id="Hoy" />
+    <node id="estos" />
+    <node id="canta" />
+    <node id="cuello" />
+    <node id="entra" />
+    <node id="Hasta" />
+    <node id="observaba" />
+    <node id="sino" />
+    <node id="pasar" />
+    <node id="varios" />
+    <node id="y" />
+    <node id="mucha" />
+    <node id="soplaron" />
+    <node id="marchita" />
+    <node id="arrancar" />
+    <node id="a" />
+    <node id="dejado" />
+    <node id="plumaje" />
+    <node id="sentirlas" />
+    <node id="representa" />
+    <node id="tratando" />
+    <node id="ingresó" />
+    <node id="coloco" />
+    <node id="cree" />
+    <node id="durmió" />
+    <node id="les" />
+    <node id="dolor" />
+    <node id="Me" />
+    <node id="porque" />
+    <node id="cementerios" />
+    <node id="permitía" />
+    <node id="pico" />
+    <node id="choza" />
+    <node id="perro" />
+    <node id="lugares" />
+    <node id="coyotes" />
+    <node id="gran" />
+    <node id="ojos" />
+    <node id="aquí" />
+    <node id="pereza" />
+    <node id="negro" />
+    <node id="estaban" />
+    <node id="blancas" />
+    <node id="río" />
+    <node id="dicen" />
+    <node id="importar" />
+    <node id="mal" />
+    <node id="él" />
+    <node id="pero" />
+    <node id="junto" />
+    <node id="unas" />
+    <node id="leche" />
+    <node id="arrastró" />
+    <node id="encierra" />
+    <node id="puedan" />
+    <node id="Cempaxúchitl" />
+    <node id="contaron" />
+    <node id="principalmente" />
+    <node id="duerme" />
+    <node id="cubrieron" />
+    <node id="ella" />
+    <node id="aun" />
+    <node id="apreciaban" />
+    <node id="muertos" />
+    <node id="peligro" />
+    <node id="consideraban" />
+    <node id="llega" />
+    <node id="sale" />
+    <node id="día" />
+    <node id="cascabel" />
+    <node id="voces" />
+    <node id="propuso" />
+    <node id="llover" />
+    <node id="sus" />
+    <node id="malo" />
+    <node id="bueno" />
+    <node id="águila" />
+    <node id="sentir" />
+    <node id="encargadas" />
+    <node id="sol" />
+    <node id="es" />
+    <node id="matorrales" />
+    <node id="protegernos" />
+    <node id="o" />
+    <node id="despegarse" />
+    <node id="Serpientes" />
+    <node id="amenazado" />
+    <node id="lazos" />
+    <node id="borregos" />
+    <node id="engreído" />
+    <node id="peso" />
+    <node id="enfermedades" />
+    <node id="Piel" />
+    <node id="levantara" />
+    <node id="posaron" />
+    <node id="espera" />
+    <node id="luna" />
+    <node id="hoy" />
+    <node id="chiquihuite" />
+    <node id="decidió" />
+    <node id="Solo" />
+    <node id="mañana" />
+    <node id="árbol" />
+    <node id="un" />
+    <node id="Gritan" />
+    <node id="capturaron" />
+    <node id="Pero" />
+    <node id="notaban" />
+    <node id="enojó" />
+    <node id="habitante" />
+    <node id="jade" />
+    <node id="tiene" />
+    <node id="sonidos" />
+    <node id="prehispánicos" />
+    <node id="ahora" />
+    <node id="obsequiaran" />
+    <node id="sabor" />
+    <node id="animal" />
+    <node id="rojos" />
+    <node id="volvió" />
+    <node id="divertidamente" />
+    <node id="acerquen" />
+    <node id="convierte" />
+    <node id="males" />
+    <node id="encargado" />
+    <node id="cargar" />
+    <node id="muerto" />
+    <node id="inseparable" />
+    <node id="poderío" />
+    <node id="madre" />
+    <node id="con" />
+    <node id="creen" />
+    <node id="nubes" />
+    <node id="el" />
+    <node id="nombre" />
+    <node id="pocos" />
+    <node id="temor" />
+    <node id="reconocer" />
+    <node id="Decidió" />
+    <node id="escondió" />
+    <node id="humano" />
+    <node id="misteriosa" />
+    <node id="época" />
+    <node id="comer" />
+    <node id="pensamientos" />
+    <node id="aliento" />
+    <node id="Tilcuates" />
+    <node id="lloraran" />
+    <node id="Su" />
+    <node id="renacer" />
+    <node id="anaranjadas" />
+    <node id="senderos" />
+    <node id="de" />
+    <node id="lentamente" />
+    <node id="largos" />
+    <node id="grutas" />
+    <node id="cementerio" />
+    <node id="pata" />
+    <node id="probable" />
+    <node id="me" />
+    <node id="muera" />
+    <node id="ese" />
+    <node id="admiración" />
+    <node id="sentirse" />
+    <node id="verdor" />
+    <node id="ayudada" />
+    <node id="miedo" />
+    <node id="manera" />
+    <node id="brillosa" />
+    <node id="podían" />
+    <node id="tanto" />
+    <node id="muere" />
+    <node id="aletear" />
+    <node id="las" />
+    <node id="observarse" />
+    <node id="siembra" />
+    <node id="todos" />
+    <node id="cuenta" />
+    <node id="cruzar" />
+    <node id="solo" />
+    <node id="en" />
+    <node id="peor" />
+    <node id="llegar" />
+    <node id="animales" />
+    <node id="sed" />
+    <node id="contaban" />
+    <node id="mañanas" />
+    <node id="cayó" />
+    <node id="significa" />
+    <node id="resbaló" />
+    <node id="inclinarse" />
+    <node id="nunca" />
+    <node id="hombres" />
+    <node id="Corrió" />
+    <node id="resistencia" />
+    <node id="noche" />
+    <node id="serpientes" />
+    <node id="será" />
+    <node id="levantar" />
+    <node id="para" />
+    <node id="comérsela" />
+    <node id="La" />
+    <node id="pedirles" />
+    <node id="anunciarle" />
+    <node id="poder" />
+    <node id="partir" />
+    <node id="flores" />
+    <node id="azules" />
+    <node id="Por" />
+    <node id="transportar" />
+    <node id="monte" />
+    <node id="visto" />
+    <node id="muy" />
+    <node id="ayoyotes" />
+    <node id="quedara" />
+    <node id="metros" />
+    <node id="pequeña" />
+    <node id="tilcuate" />
+    <node id="ahí" />
+    <node id="levantarse" />
+    <node id="pierden" />
+    <node id="constantemente" />
+    <node id="ver" />
+    <node id="pasa" />
+    <node id="como" />
+    <node id="comida" />
+    <node id="olvida" />
+    <node id="hizo" />
+    <node id="revolotean" />
+    <node id="su" />
+    <node id="viento" />
+    <node id="pueblos" />
+    <node id="parte" />
+    <node id="resina" />
+    <node id="melodía" />
+    <node id="espíritu" />
+    <node id="hacemos" />
+    <node id="la" />
+    <node id="estuvieran" />
+    <node id="escapó" />
+    <node id="sumergen" />
+    <node id="náhuatles" />
+    <node id="muchas" />
+    <node id="dormía" />
+    <node id="descubrió" />
+    <node id="Cerca" />
+    <node id="cercano" />
+    <node id="lamió" />
+    <node id="miraba" />
+    <node id="vuelan" />
+    <node id="múltiples" />
+    <node id="mirar" />
+    <node id="aún" />
+    <node id="caminaron" />
+    <node id="robar" />
+    <node id="nuestros" />
+    <node id="desnutridos" />
+    <node id="bella" />
+    <node id="mujeres" />
+    <node id="rayos" />
+    <node id="atraparlo" />
+    <node id="persona" />
+    <node id="estrellas" />
+    <node id="tuvo" />
+    <node id="recibir" />
+    <node id="Múltiples" />
+    <node id="dio" />
+    <node id="Pasaron" />
+    <node id="esta" />
+    <node id="pregunte" />
+    <node id="dueño" />
+    <node id="En" />
+    <node id="veloz" />
+    <node id="colibrí" />
+    <node id="rama" />
+    <node id="envidia" />
+    <node id="vez" />
+    <node id="sube" />
+    <node id="Las" />
+    <node id="carne" />
+    <node id="enfermedad" />
+    <node id="hecho" />
+    <node id="verdadero" />
+    <node id="pudo" />
+    <node id="olor" />
+    <node id="olfato" />
+    <node id="puede" />
+    <node id="humanos" />
+    <node id="unto" />
+    <node id="crecer" />
+    <node id="quedo" />
+    <node id="parecían" />
+    <node id="anergia" />
+    <node id="venado" />
+    <node id="gente" />
+    <node id="Sabías" />
+    <node id="abre" />
+    <node id="observa" />
+    <node id="esto" />
+    <node id="espíritus" />
+    <node id="pidió" />
+    <node id="hubo" />
+    <node id="grillos" />
+    <node id="ello" />
+    <node id="guajolotes" />
+    <node id="camino" />
+    <node id="esparcir" />
+    <node id="ser" />
+    <node id="tecolote" />
+    <node id="deseos" />
+    <node id="capaces" />
+    <node id="abrazada" />
+    <node id="vergüenza" />
+    <node id="secas" />
+    <node id="cola" />
+    <node id="cuerpo" />
+    <node id="Tunkuluchú" />
+    <node id="suelo" />
+    <node id="creído" />
+    <node id="sucumbían" />
+    <node id="comienza" />
+    <node id="hombros" />
+    <node id="se" />
+    <node id="salió" />
+    <node id="ciudad" />
+    <node id="estas" />
+    <node id="abrazaban" />
+    <node id="eclipse" />
+    <node id="notó" />
+    <node id="dura" />
+    <node id="fertilidad" />
+    <node id="cielo" />
+    <node id="preocupara" />
+    <node id="dejan" />
+    <node id="atrapa" />
+    <node id="contacto" />
+    <node id="permaneció" />
+    <node id="Mueve" />
+    <node id="copal" />
+    <node id="cerca" />
+    <node id="roban" />
+    <node id="tanta" />
+    <node id="cabeza" />
+    <node id="alcanzar" />
+    <node id="era" />
+    <node id="otro" />
+    <node id="inmunes" />
+    <node id="observó" />
+    <node id="visitan" />
+    <node id="calentarlo" />
+    <node id="enflacaban" />
+    <node id="empiezan" />
+    <node id="El" />
+    <node id="tapamos" />
+    <node id="poderse" />
+    <node id="Intento" />
+    <node id="tranquilos" />
+    <node id="lo" />
+    <node id="pueden" />
+    <node id="enferme" />
+    <node id="veces" />
+    <node id="campos" />
+    <node id="sobre" />
+    <node id="aquellos" />
+    <node id="panza" />
+    <node id="va" />
+    <node id="alguien" />
+    <node id="ellos" />
+    <node id="lactantes" />
+    <node id="tomó" />
+    <node id="lejanos" />
+    <node id="dos" />
+    <node id="fijamente" />
+    <node id="siente" />
+    <node id="jaulas" />
+    <node id="carroña" />
+    <node id="aleteo" />
+    <node id="escucha" />
+    <node id="reflejaban" />
+    <node id="asemejaba" />
+    <node id="absorbían" />
+    <node id="riendo" />
+    <node id="curarlo" />
+    <node id="entradas" />
+    <node id="perseguido" />
+    <node id="pueblo" />
+    <node id="sonrisa" />
+    <node id="morían" />
+    <node id="son" />
+    <node id="dijo" />
+    <node id="entre" />
+    <node id="prehispánica" />
+    <node id="así" />
+    <node id="silbido" />
+    <node id="colores" />
+    <node id="muchos" />
+    <node id="ganas" />
+    <node id="vengarse" />
+    <node id="canto" />
+    <node id="ayudamos" />
+    <node id="veneno" />
+    <node id="flechas" />
+    <node id="alegría" />
+    <node id="ayudado" />
+    <node id="daba" />
+    <node id="miraban" />
+    <node id="llevándolos" />
+    <node id="suelta" />
+    <node id="todo" />
+    <node id="aroma" />
+    <node id="ves" />
+    <node id="oscurecer" />
+    <node id="árboles" />
+    <node id="región" />
+    <node id="dice" />
+    <node id="aves" />
+    <node id="inunda" />
+    <node id="latigazos" />
+    <node id="Es" />
+    <node id="fortaleza" />
+    <node id="oscurece" />
+    <node id="haberlas" />
+    <node id="canso" />
+    <node id="oculta" />
+    <node id="acabe" />
+    <node id="familiar" />
+    <node id="herirlo" />
+    <node id="Tiene" />
+    <node id="sido" />
+    <node id="está" />
+    <node id="casas" />
+    <node id="abandona" />
+    <node id="disparaban" />
+    <node id="ya" />
+    <node id="poco" />
+    <node id="símbolo" />
+    <node id="ellas" />
+    <node id="llevar" />
+    <node id="Así" />
+    <node id="deben" />
+    <node id="repiten" />
+    <node id="atrapados" />
+    <node id="manos" />
+    <node id="miran" />
+    <node id="punto" />
+    <node id="espina" />
+    <node id="tan" />
+    <node id="tampoco" />
+    <node id="cada" />
+    <node id="ve" />
+    <node id="pareció" />
+    <node id="formaba" />
+    <node id="quedan" />
+    <node id="arcoíris" />
+    <node id="oscuro" />
+    <node id="Al" />
+    <node id="tierra" />
+    <node id="brilla" />
+    <node id="pollos" />
+    <node id="sentían" />
+    <node id="culpa" />
+    <node id="cubrir" />
+    <node id="mismo" />
+    <node id="pegarlas" />
+    <node id="rastro" />
+    <node id="mucho" />
+    <node id="si" />
+    <node id="horas" />
+    <node id="personas" />
+    <node id="Xolotl" />
+    <node id="mataba" />
+    <node id="castigo" />
+    <node id="también" />
+    <node id="grupo" />
+    <node id="cama" />
+    <node id="qué" />
+    <node id="este" />
+    <node id="cuevas" />
+    <node id="Cada" />
+    <node id="fuerza" />
+    <node id="encontrar" />
+    <node id="tomaron" />
+    <node id="hasta" />
+    <node id="nido" />
+    <node id="madres" />
+    <node id="enteras" />
+    <node id="primavera" />
+    <node id="noches" />
+    <node id="piernas" />
+    <node id="peculiar" />
+    <node id="néctar" />
+    <node id="recuesta" />
+    <node id="caer" />
+    <node id="además" />
+    <node id="al" />
+    <node id="compañía" />
+    <node id="teme" />
+    <node id="Subía" />
+    <node id="Tanta" />
+    <node id="Cuentan" />
+    <node id="mirarlo" />
+    <node id="todas" />
+    <node id="alguno" />
+    <node id="contentas" />
+    <node id="que" />
+    <node id="Todas" />
+    <node id="Compañero" />
+    <node id="orejas" />
+    <node id="lleva" />
+    <node id="A" />
+    <node id="durante" />
+    <node id="recolectado" />
+    <node id="murciélago" />
+    <node id="estamos" />
+    <node id="cazadores" />
+    <node id="usaban" />
+    <node id="plumas" />
+    <node id="familia" />
+    <node id="Flojo" />
+    <node id="obstáculos" />
+    <node id="valor" />
+    <node id="había" />
+    <node id="hay" />
+    <node id="tenían" />
+    <node id="dolorosos" />
+    <node id="enfermara" />
+    <node id="oscuridad" />
+    <node id="venenosa" />
+    <node id="tantas" />
+    <node id="llena" />
+    <node id="tu" />
+    <node id="atentos" />
+    <node id="algún" />
+    <node id="fuerte" />
+    <node id="bailaba" />
+    <node id="desaparecer" />
+    <node id="sé" />
+    <node id="oídos" />
+    <node id="Cuando" />
+    <node id="valiente" />
+    <node id="llanto" />
+    <node id="tarea" />
+    <node id="muerte" />
+    <node id="ni" />
+    <node id="hora" />
+    <node id="renace" />
+    <node id="esparcen" />
+    <node id="más" />
+    <node id="transformación" />
+    <node id="purificar" />
+    <node id="adornarse" />
+    <node id="viaje" />
+    <node id="agua" />
+    <node id="años" />
+    <node id="Zopilote" />
+    <node id="arrogante" />
+    <node id="algunos" />
+    <node id="fuera" />
+    <node id="debo" />
+    <node id="contentos" />
+    <node id="fácil" />
+    <node id="reseco" />
+    <node id="abuela" />
+    <node id="hojas" />
+    <node id="alma" />
+    <node id="morirá" />
+    <node id="tunkuluchú" />
+    <node id="llamadas" />
+    <node id="negaron" />
+    <node id="Los" />
+    <node id="pequeños" />
+    <node id="patas" />
+    <node id="tenía" />
+    <node id="movía" />
+    <node id="final" />
+    <node id="Un" />
+    <node id="cobrizo" />
+    <node id="Mictlán" />
+    <node id="escuchó" />
+    <node id="transmiten" />
+    <node id="lado" />
+    <node id="pintaron" />
+    <node id="lejos" />
+    <node id="negras" />
+    <node id="morir" />
+    <node id="alto" />
+    <node id="maíz" />
+    <node id="águilas" />
+    <node id="tenemos" />
+    <node id="tus" />
+    <node id="enseguida" />
+    <node id="inmortalidad" />
+    <node id="raspándolo" />
+    <node id="existan" />
+    <node id="canastos" />
+    <node id="tratado" />
+    <node id="flecha" />
+    <node id="hermosos" />
+    <node id="arrebatada" />
+    <node id="Gracias" />
+    <node id="momento" />
+    <node id="motivo" />
+    <node id="sonamos" />
+    <node id="silbidos" />
+    <node id="cosecha" />
+    <node id="siempre" />
+    <node id="chiquihuites" />
+    <node id="buscó" />
+    <node id="color" />
+    <node id="cubrirse" />
+    <node id="desde" />
+    <node id="hijos" />
+    <node id="gritamos" />
+    <node id="sonrisas" />
+    <node id="manchas" />
+    <node id="gritar" />
+    <node id="semillas" />
+    <node id="sintió" />
+    <node id="escudos" />
+    <node id="antes" />
+    <node id="ponían" />
+    <node id="encuentren" />
+    <node id="barro" />
+    <node id="unido" />
+    <node id="guerreros" />
+    <node id="dentro" />
+    <node id="nos" />
+    <node id="mi" />
+    <node id="empezó" />
+    <node id="nuestro" />
+    <node id="incluso" />
+    <node id="mis" />
+    <node id="fin" />
+    <node id="leal" />
+    <node id="asociadas" />
+    <node id="pequeño" />
+    <node id="acercara" />
+    <node id="casa" />
+    <node id="admiraban" />
+    <node id="daban" />
+    <node id="libertad" />
+    <node id="enteros" />
+    <node id="Pek" />
+    <node id="dormir" />
+    <node id="zopilote" />
+    <node id="origen" />
+    <node id="mariposas" />
+    <node id="volar" />
+    <node id="por" />
+    <node id="algo" />
+    <node id="subir" />
+    <node id="días" />
+    <node id="podemos" />
+    <node id="tilcuates" />
+    <node id="e" />
+    <node id="hace" />
+    <node id="Desde" />
+    <node id="temporalmente" />
+    <node id="unos" />
+    <node id="ratones" />
+    <node id="meter" />
+    <node id="permitió" />
+    <node id="ceniza" />
+    <node id="contra" />
+    <node id="protegerlas" />
+    <node id="hombre" />
+    <node id="monarcas" />
+    <node id="inframundo" />
+    <node id="Se" />
+    <node id="seguir" />
+    <node id="Días" />
+    <node id="montaña" />
+    <node id="niños" />
+    <node id="cuatro" />
+    <node id="estuvo" />
+    <node id="buscar" />
+    <node id="seperdieron" />
+    <node id="tener" />
+    <node id="tiempo" />
+    <node id="escuchar" />
+    <node id="deja" />
+    <node id="acomodan" />
+    <node id="bebía" />
+    <node id="insertan" />
+    <node id="fue" />
+    <node id="presa" />
+    <node id="vio" />
+    <node id="sabemos" />
+    <node id="coloridas" />
+    <node id="cubierta" />
+    <node id="recordó" />
+    <node id="robaban" />
+    <node id="gritaba" />
+    <node id="no" />
+    <node id="abuelas" />
+    <node id="donde" />
+    <node id="comunidad" />
+    <node id="rotas" />
+    <node id="Si" />
+    <node id="coraje" />
+    <node id="recostado" />
+    <node id="estaba" />
+    <node id="meneándose" />
+    <node id="otros" />
+    <node id="Vean" />
+    <node id="enferma" />
+    <node id="una" />
+    <node id="cueva" />
+    <node id="los" />
+    <node id="crearon" />
+    <node id="pesar" />
+    <node id="deidades" />
+    <node id="eso" />
+    <node id="cuándo" />
+    <node id="sentimos" />
+    <node id="nuevo" />
+    <node id="lugar" />
+    <node id="Mis" />
+    <node id="igual" />
+    <node id="mariposa" />
+    <node id="podrían" />
+    <node id="clara" />
+    <node id="le" />
+    <node id="construcción" />
+    <node id="niñas" />
+    <node id="piel" />
+    <node id="duermen" />
+    <node id="grillitos" />
+    <node id="alas" />
+    <node id="roba" />
+    <node id="intento" />
+    <node id="llovían" />
+    <node id="dijeron" />
+    <node id="mayas" />
+    <node id="guía" />
+    <node id="voltear" />
+    <node id="cuentan" />
+    <node id="nadie" />
+    <node id="abuelos" />
+    <node id="movimiento" />
+    <node id="originario" />
+    <node id="sin" />
+    <node id="vivieron" />
+    <node id="limpiar" />
+    <node id="crueldad" />
+    <node id="enérgico" />
+    <node id="montoncito" />
+    <node id="sangrar" />
+    <node id="queremos" />
+    <node id="desciende" />
+    <node id="cualquier" />
+    <node id="escuchamos" />
+    <node id="prendemos" />
+    <node id="robarles" />
+    <node id="atecocolis" />
+    <node id="bebes" />
+    <node id="ave" />
+    <node id="haberlo" />
+    <node id="quienes" />
+    <node id="extraños" />
+    <node id="salir" />
+    <node id="del" />
+    <node id="toda" />
+    <node id="saliva" />
+    <node id="han" />
+    <node id="posan" />
+    <node id="invierno" />
+    <node id="cuando" />
+    <edge source="cual" target="usaban" />
+    <edge source="cual" target="es" />
+    <edge source="piensan" target="que" />
+    <edge source="ha" target="unido" />
+    <edge source="ha" target="muerto" />
+    <edge source="vuelo" target="tus" />
+    <edge source="mantuvo" target="riendo" />
+    <edge source="cuidar" target="que" />
+    <edge source="lastimó" target="una" />
+    <edge source="formaron" target="una" />
+    <edge source="pues" target="es" />
+    <edge source="alza" target="el" />
+    <edge source="atraparlas" target="y" />
+    <edge source="pelean" target="con" />
+    <edge source="tomar" target="agua" />
+    <edge source="puentes" target="y" />
+    <edge source="Dicen" target="que" />
+    <edge source="Hoy" target="en" />
+    <edge source="estos" target="enseguida" />
+    <edge source="canta" target="muchas" />
+    <edge source="cuello" target="y" />
+    <edge source="entra" target="un" />
+    <edge source="Hasta" target="que" />
+    <edge source="observaba" target="de" />
+    <edge source="sino" target="también" />
+    <edge source="sino" target="los" />
+    <edge source="pasar" target="las" />
+    <edge source="varios" target="colores" />
+    <edge source="y" target="la" />
+    <edge source="y" target="los" />
+    <edge source="y" target="las" />
+    <edge source="y" target="tomar" />
+    <edge source="y" target="va" />
+    <edge source="y" target="su" />
+    <edge source="y" target="obstáculos" />
+    <edge source="y" target="podían" />
+    <edge source="y" target="estuvo" />
+    <edge source="y" target="cayó" />
+    <edge source="y" target="él" />
+    <edge source="y" target="salió" />
+    <edge source="y" target="estaba" />
+    <edge source="y" target="cubierta" />
+    <edge source="y" target="esto" />
+    <edge source="y" target="raspándolo" />
+    <edge source="y" target="empezó" />
+    <edge source="y" target="adornarse" />
+    <edge source="y" target="poderío" />
+    <edge source="y" target="dejan" />
+    <edge source="y" target="cobrizo" />
+    <edge source="y" target="renace" />
+    <edge source="y" target="deseos" />
+    <edge source="y" target="duermen" />
+    <edge source="y" target="al" />
+    <edge source="y" target="absorbían" />
+    <edge source="y" target="se" />
+    <edge source="y" target="pueden" />
+    <edge source="y" target="deja" />
+    <edge source="y" target="poder" />
+    <edge source="y" target="abre" />
+    <edge source="y" target="vengarse" />
+    <edge source="y" target="durante" />
+    <edge source="y" target="pasa" />
+    <edge source="y" target="esta" />
+    <edge source="y" target="no" />
+    <edge source="y" target="estas" />
+    <edge source="y" target="les" />
+    <edge source="y" target="aletear" />
+    <edge source="y" target="engreído" />
+    <edge source="y" target="gritaba" />
+    <edge source="y" target="pegarlas" />
+    <edge source="y" target="culpa" />
+    <edge source="y" target="en" />
+    <edge source="y" target="piensan" />
+    <edge source="y" target="de" />
+    <edge source="y" target="ayoyotes" />
+    <edge source="y" target="gritamos" />
+    <edge source="y" target="coyotes" />
+    <edge source="y" target="lo" />
+    <edge source="y" target="el" />
+    <edge source="y" target="le" />
+    <edge source="y" target="durmió" />
+    <edge source="y" target="descubrió" />
+    <edge source="y" target="muy" />
+    <edge source="y" target="misteriosa" />
+    <edge source="y" target="morirá" />
+    <edge source="mucha" target="fortaleza" />
+    <edge source="soplaron" target="y" />
+    <edge source="marchita" target="y" />
+    <edge source="arrancar" target="sus" />
+    <edge source="a" target="los" />
+    <edge source="a" target="mirar" />
+    <edge source="a" target="su" />
+    <edge source="a" target="ello" />
+    <edge source="a" target="punto" />
+    <edge source="a" target="sangrar" />
+    <edge source="a" target="unos" />
+    <edge source="a" target="ella" />
+    <edge source="a" target="poco" />
+    <edge source="a" target="que" />
+    <edge source="a" target="nuestro" />
+    <edge source="a" target="tu" />
+    <edge source="a" target="otro" />
+    <edge source="a" target="las" />
+    <edge source="a" target="salir" />
+    <edge source="a" target="mi" />
+    <edge source="a" target="la" />
+    <edge source="a" target="comer" />
+    <edge source="a" target="cada" />
+    <edge source="a" target="una" />
+    <edge source="a" target="buscar" />
+    <edge source="a" target="gritar" />
+    <edge source="a" target="oscurecer" />
+    <edge source="a" target="pesar" />
+    <edge source="a" target="ser" />
+    <edge source="a" target="casa" />
+    <edge source="a" target="robar" />
+    <edge source="dejado" target="de" />
+    <edge source="plumaje" target="que" />
+    <edge source="representa" target="un" />
+    <edge source="tratando" target="de" />
+    <edge source="ingresó" target="a" />
+    <edge source="coloco" target="en" />
+    <edge source="cree" target="que" />
+    <edge source="les" target="ve" />
+    <edge source="les" target="robaban" />
+    <edge source="les" target="daba" />
+    <edge source="les" target="dio" />
+    <edge source="les" target="inunda" />
+    <edge source="les" target="tenía" />
+    <edge source="les" target="pidió" />
+    <edge source="dolor" target="no" />
+    <edge source="dolor" target="y" />
+    <edge source="dolor" target="en" />
+    <edge source="Me" target="contaron" />
+    <edge source="porque" target="ellos" />
+    <edge source="porque" target="los" />
+    <edge source="porque" target="insertan" />
+    <edge source="porque" target="son" />
+    <edge source="porque" target="a" />
+    <edge source="porque" target="en" />
+    <edge source="porque" target="no" />
+    <edge source="porque" target="cuando" />
+    <edge source="cementerios" target="se" />
+    <edge source="pico" target="en" />
+    <edge source="pico" target="las" />
+    <edge source="perro" target="no" />
+    <edge source="perro" target="puede" />
+    <edge source="perro" target="siente" />
+    <edge source="perro" target="escucha" />
+    <edge source="lugares" target="lejanos" />
+    <edge source="coyotes" target="porque" />
+    <edge source="gran" target="dolor" />
+    <edge source="ojos" target="rojos" />
+    <edge source="aquí" target="en" />
+    <edge source="negro" target="llamadas" />
+    <edge source="estaban" target="rotas" />
+    <edge source="blancas" target="se" />
+    <edge source="río" target="cuando" />
+    <edge source="dicen" target="que" />
+    <edge source="importar" target="si" />
+    <edge source="él" target="permaneció" />
+    <edge source="pero" target="en" />
+    <edge source="pero" target="el" />
+    <edge source="pero" target="a" />
+    <edge source="pero" target="muchas" />
+    <edge source="pero" target="estas" />
+    <edge source="pero" target="sino" />
+    <edge source="pero" target="los" />
+    <edge source="pero" target="me" />
+    <edge source="junto" target="con" />
+    <edge source="unas" target="flores" />
+    <edge source="leche" target="a" />
+    <edge source="arrastró" target="a" />
+    <edge source="encierra" target="en" />
+    <edge source="puedan" target="seguir" />
+    <edge source="Cempaxúchitl" target="y" />
+    <edge source="contaron" target="que" />
+    <edge source="principalmente" target="por" />
+    <edge source="duerme" target="y" />
+    <edge source="cubrieron" target="tratando" />
+    <edge source="ella" target="poco" />
+    <edge source="aun" target="cuando" />
+    <edge source="apreciaban" target="mucho" />
+    <edge source="muertos" target="hasta" />
+    <edge source="consideraban" target="a" />
+    <edge source="llega" target="primavera" />
+    <edge source="sale" target="de" />
+    <edge source="día" target="observa" />
+    <edge source="día" target="decidió" />
+    <edge source="día" target="se" />
+    <edge source="cascabel" target="y" />
+    <edge source="voces" target="de" />
+    <edge source="propuso" target="anunciarle" />
+    <edge source="llover" target="pintaron" />
+    <edge source="sus" target="orejas" />
+    <edge source="sus" target="hombros" />
+    <edge source="sus" target="flechas" />
+    <edge source="sus" target="múltiples" />
+    <edge source="sus" target="plumas" />
+    <edge source="sus" target="alas" />
+    <edge source="sus" target="hijos" />
+    <edge source="sus" target="manos" />
+    <edge source="sus" target="patas" />
+    <edge source="malo" target="para" />
+    <edge source="bueno" target="que" />
+    <edge source="águila" target="que" />
+    <edge source="águila" target="desciende" />
+    <edge source="águila" target="sube" />
+    <edge source="sentir" target="alegría" />
+    <edge source="sentir" target="ganas" />
+    <edge source="encargadas" target="de" />
+    <edge source="sol" target="lo" />
+    <edge source="sol" target="se" />
+    <edge source="sol" target="algún" />
+    <edge source="sol" target="tratando" />
+    <edge source="sol" target="sigilosamente" />
+    <edge source="es" target="el" />
+    <edge source="es" target="para" />
+    <edge source="es" target="porque" />
+    <edge source="es" target="como" />
+    <edge source="es" target="un" />
+    <edge source="es" target="poco" />
+    <edge source="es" target="bella" />
+    <edge source="protegernos" target="de" />
+    <edge source="o" target="chiquihuites" />
+    <edge source="o" target="azules" />
+    <edge source="despegarse" target="una" />
+    <edge source="Serpientes" target="que" />
+    <edge source="amenazado" target="con" />
+    <edge source="lazos" target="ha" />
+    <edge source="borregos" target="pequeños" />
+    <edge source="peso" target="tanto" />
+    <edge source="Piel" target="del" />
+    <edge source="posaron" target="sobre" />
+    <edge source="espera" target="ahí" />
+    <edge source="luna" target="que" />
+    <edge source="luna" target="no" />
+    <edge source="luna" target="esta" />
+    <edge source="luna" target="se" />
+    <edge source="luna" target="todos" />
+    <edge source="hoy" target="en" />
+    <edge source="hoy" target="pregunte" />
+    <edge source="decidió" target="volar" />
+    <edge source="Solo" target="así" />
+    <edge source="mañana" target="el" />
+    <edge source="árbol" target="y" />
+    <edge source="árbol" target="más" />
+    <edge source="un" target="tiempo" />
+    <edge source="un" target="pequeño" />
+    <edge source="un" target="río" />
+    <edge source="un" target="grupo" />
+    <edge source="un" target="colibrí" />
+    <edge source="un" target="lugar" />
+    <edge source="un" target="peligro" />
+    <edge source="un" target="animal" />
+    <edge source="un" target="tilcuate" />
+    <edge source="un" target="águila" />
+    <edge source="un" target="día" />
+    <edge source="un" target="lado" />
+    <edge source="un" target="eclipse" />
+    <edge source="un" target="hombre" />
+    <edge source="un" target="peculiar" />
+    <edge source="un" target="familiar" />
+    <edge source="Gritan" target="muy" />
+    <edge source="capturaron" target="algunos" />
+    <edge source="Pero" target="aquellos" />
+    <edge source="Pero" target="el" />
+    <edge source="Pero" target="con" />
+    <edge source="Pero" target="fue" />
+    <edge source="notaban" target="por" />
+    <edge source="enojó" target="tanto" />
+    <edge source="habitante" target="del" />
+    <edge source="jade" target="y" />
+    <edge source="tiene" target="que" />
+    <edge source="tiene" target="el" />
+    <edge source="tiene" target="contacto" />
+    <edge source="sonidos" target="extraños" />
+    <edge source="prehispánicos" target="consideraban" />
+    <edge source="ahora" target="son" />
+    <edge source="ahora" target="sé" />
+    <edge source="obsequiaran" target="una" />
+    <edge source="sabor" target="de" />
+    <edge source="animal" target="que" />
+    <edge source="rojos" target="por" />
+    <edge source="volvió" target="arrogante" />
+    <edge source="divertidamente" target="le" />
+    <edge source="acerquen" target="a" />
+    <edge source="convierte" target="en" />
+    <edge source="encargado" target="de" />
+    <edge source="cargar" target="en" />
+    <edge source="muerto" target="en" />
+    <edge source="inseparable" target="de" />
+    <edge source="madre" target="muera" />
+    <edge source="con" target="la" />
+    <edge source="con" target="su" />
+    <edge source="con" target="solo" />
+    <edge source="con" target="sus" />
+    <edge source="con" target="ellas" />
+    <edge source="con" target="fuerza" />
+    <edge source="con" target="las" />
+    <edge source="con" target="el" />
+    <edge source="con" target="los" />
+    <edge source="con" target="mucha" />
+    <edge source="con" target="gran" />
+    <edge source="con" target="negro" />
+    <edge source="creen" target="que" />
+    <edge source="nubes" target="y" />
+    <edge source="el" target="origen" />
+    <edge source="el" target="fin" />
+    <edge source="el" target="ser" />
+    <edge source="el" target="inframundo" />
+    <edge source="el" target="perro" />
+    <edge source="el" target="sol" />
+    <edge source="el" target="originario" />
+    <edge source="el" target="color" />
+    <edge source="el" target="sabor" />
+    <edge source="el" target="viento" />
+    <edge source="el" target="dolor" />
+    <edge source="el" target="miedo" />
+    <edge source="el" target="valor" />
+    <edge source="el" target="jade" />
+    <edge source="el" target="verdor" />
+    <edge source="el" target="silbido" />
+    <edge source="el" target="cual" />
+    <edge source="el" target="zopilote" />
+    <edge source="el" target="encargado" />
+    <edge source="el" target="cuello" />
+    <edge source="el" target="día" />
+    <edge source="el" target="temor" />
+    <edge source="el" target="alma" />
+    <edge source="el" target="águila" />
+    <edge source="el" target="murciélago" />
+    <edge source="el" target="movimiento" />
+    <edge source="el" target="mismo" />
+    <edge source="el" target="canto" />
+    <edge source="el" target="tecolote" />
+    <edge source="el" target="pueblo" />
+    <edge source="el" target="hombre" />
+    <edge source="el" target="peor" />
+    <edge source="el" target="olor" />
+    <edge source="el" target="tunkuluchú" />
+    <edge source="el" target="llanto" />
+    <edge source="el" target="néctar" />
+    <edge source="el" target="suelo" />
+    <edge source="el" target="cuerpo" />
+    <edge source="pocos" target="días" />
+    <edge source="temor" target="les" />
+    <edge source="reconocer" target="el" />
+    <edge source="Decidió" target="pedirles" />
+    <edge source="escondió" target="en" />
+    <edge source="época" target="prehispánica" />
+    <edge source="comer" target="y" />
+    <edge source="comer" target="mucho" />
+    <edge source="comer" target="carroña" />
+    <edge source="pensamientos" target="y" />
+    <edge source="Su" target="olfato" />
+    <edge source="renacer" target="como" />
+    <edge source="anaranjadas" target="con" />
+    <edge source="senderos" target="sin" />
+    <edge source="de" target="transportar" />
+    <edge source="de" target="los" />
+    <edge source="de" target="una" />
+    <edge source="de" target="las" />
+    <edge source="de" target="sentirlas" />
+    <edge source="de" target="que" />
+    <edge source="de" target="comer" />
+    <edge source="de" target="su" />
+    <edge source="de" target="escudos" />
+    <edge source="de" target="desaparecer" />
+    <edge source="de" target="un" />
+    <edge source="de" target="cazadores" />
+    <edge source="de" target="nuevo" />
+    <edge source="de" target="la" />
+    <edge source="de" target="ser" />
+    <edge source="de" target="manchas" />
+    <edge source="de" target="cuevas" />
+    <edge source="de" target="esta" />
+    <edge source="de" target="no" />
+    <edge source="de" target="dormir" />
+    <edge source="de" target="limpiar" />
+    <edge source="de" target="subir" />
+    <edge source="de" target="atraparlo" />
+    <edge source="de" target="cuidar" />
+    <edge source="de" target="sus" />
+    <edge source="de" target="colores" />
+    <edge source="de" target="árbol" />
+    <edge source="de" target="noche" />
+    <edge source="de" target="mi" />
+    <edge source="de" target="otros" />
+    <edge source="de" target="tunkuluchú" />
+    <edge source="de" target="dolor" />
+    <edge source="de" target="rama" />
+    <edge source="de" target="vengarse" />
+    <edge source="de" target="lejos" />
+    <edge source="de" target="varios" />
+    <edge source="de" target="protegerlas" />
+    <edge source="de" target="color" />
+    <edge source="de" target="inmortalidad" />
+    <edge source="lentamente" target="pero" />
+    <edge source="largos" target="senderos" />
+    <edge source="pata" target="empezó" />
+    <edge source="probable" target="que" />
+    <edge source="me" target="recordó" />
+    <edge source="me" target="dijo" />
+    <edge source="me" target="dijeron" />
+    <edge source="me" target="preocupara" />
+    <edge source="ese" target="momento" />
+    <edge source="ese" target="motivo" />
+    <edge source="admiración" target="les" />
+    <edge source="sentirse" target="con" />
+    <edge source="sentirse" target="amenazado" />
+    <edge source="verdor" target="de" />
+    <edge source="ayudada" target="por" />
+    <edge source="miedo" target="tropezó" />
+    <edge source="miedo" target="a" />
+    <edge source="miedo" target="y" />
+    <edge source="manera" target="podrían" />
+    <edge source="manera" target="nos" />
+    <edge source="podían" target="observarse" />
+    <edge source="tanto" target="la" />
+    <edge source="tanto" target="que" />
+    <edge source="muere" target="temporalmente" />
+    <edge source="muere" target="se" />
+    <edge source="aletear" target="con" />
+    <edge source="aletear" target="formaba" />
+    <edge source="las" target="piernas" />
+    <edge source="las" target="enfermedades" />
+    <edge source="las" target="nubes" />
+    <edge source="las" target="estrellas" />
+    <edge source="las" target="voces" />
+    <edge source="las" target="hojas" />
+    <edge source="las" target="mujeres" />
+    <edge source="las" target="mañanas" />
+    <edge source="las" target="casas" />
+    <edge source="las" target="serpientes" />
+    <edge source="las" target="abuelas" />
+    <edge source="las" target="madres" />
+    <edge source="las" target="encargadas" />
+    <edge source="las" target="águilas" />
+    <edge source="las" target="coloco" />
+    <edge source="las" target="hizo" />
+    <edge source="las" target="aves" />
+    <edge source="las" target="cuevas" />
+    <edge source="las" target="grutas" />
+    <edge source="las" target="noches" />
+    <edge source="las" target="patas" />
+    <edge source="las" target="levantara" />
+    <edge source="las" target="han" />
+    <edge source="las" target="mariposas" />
+    <edge source="las" target="cubrieron" />
+    <edge source="las" target="niñas" />
+    <edge source="las" target="alas" />
+    <edge source="las" target="que" />
+    <edge source="las" target="flores" />
+    <edge source="observarse" target="desde" />
+    <edge source="siembra" target="sonrisas" />
+    <edge source="siembra" target="y" />
+    <edge source="todos" target="tenemos" />
+    <edge source="todos" target="estamos" />
+    <edge source="todos" target="escuchamos" />
+    <edge source="cuenta" target="que" />
+    <edge source="cruzar" target="puentes" />
+    <edge source="solo" target="está" />
+    <edge source="solo" target="es" />
+    <edge source="solo" target="mirarlo" />
+    <edge source="solo" target="junto" />
+    <edge source="solo" target="sale" />
+    <edge source="solo" target="se" />
+    <edge source="en" target="el" />
+    <edge source="en" target="la" />
+    <edge source="en" target="compañía" />
+    <edge source="en" target="ese" />
+    <edge source="en" target="día" />
+    <edge source="en" target="jaulas" />
+    <edge source="en" target="los" />
+    <edge source="en" target="su" />
+    <edge source="en" target="mi" />
+    <edge source="en" target="que" />
+    <edge source="en" target="todo" />
+    <edge source="en" target="mis" />
+    <edge source="en" target="las" />
+    <edge source="en" target="sus" />
+    <edge source="en" target="montoncito" />
+    <edge source="en" target="mariposa" />
+    <edge source="peor" target="castigo" />
+    <edge source="llegar" target="al" />
+    <edge source="llegar" target="la" />
+    <edge source="animales" target="muertos" />
+    <edge source="sed" target="lo" />
+    <edge source="contaban" target="que" />
+    <edge source="mañanas" target="el" />
+    <edge source="mañanas" target="alza" />
+    <edge source="cayó" target="dentro" />
+    <edge source="significa" target="que" />
+    <edge source="resbaló" target="y" />
+    <edge source="inclinarse" target="para" />
+    <edge source="nunca" target="su" />
+    <edge source="hombres" target="admiraban" />
+    <edge source="hombres" target="a" />
+    <edge source="hombres" target="y" />
+    <edge source="Corrió" target="veloz" />
+    <edge source="resistencia" target="de" />
+    <edge source="noche" target="había" />
+    <edge source="noche" target="a" />
+    <edge source="serpientes" target="que" />
+    <edge source="serpientes" target="deidades" />
+    <edge source="será" target="su" />
+    <edge source="levantar" target="por" />
+    <edge source="para" target="calentarlo" />
+    <edge source="para" target="curarlo" />
+    <edge source="para" target="mirar" />
+    <edge source="para" target="llevar" />
+    <edge source="para" target="cruzar" />
+    <edge source="para" target="los" />
+    <edge source="para" target="herirlo" />
+    <edge source="para" target="robarles" />
+    <edge source="para" target="que" />
+    <edge source="para" target="recibir" />
+    <edge source="para" target="purificar" />
+    <edge source="para" target="cubrirse" />
+    <edge source="para" target="no" />
+    <edge source="para" target="siempre" />
+    <edge source="para" target="cubrir" />
+    <edge source="para" target="protegernos" />
+    <edge source="para" target="renacer" />
+    <edge source="La" target="persona" />
+    <edge source="La" target="Piel" />
+    <edge source="La" target="libertad" />
+    <edge source="pedirles" target="a" />
+    <edge source="anunciarle" target="al" />
+    <edge source="poder" target="alcanzar" />
+    <edge source="partir" target="de" />
+    <edge source="flores" target="anaranjadas" />
+    <edge source="flores" target="a" />
+    <edge source="Por" target="qué" />
+    <edge source="Por" target="eso" />
+    <edge source="Por" target="las" />
+    <edge source="Por" target="ese" />
+    <edge source="transportar" target="al" />
+    <edge source="visto" target="de" />
+    <edge source="muy" target="perseguido" />
+    <edge source="muy" target="dolorosos" />
+    <edge source="muy" target="atentos" />
+    <edge source="muy" target="fuerte" />
+    <edge source="muy" target="enérgico" />
+    <edge source="quedara" target="oscuro" />
+    <edge source="metros" target="notó" />
+    <edge source="ahí" target="lo" />
+    <edge source="ahí" target="hasta" />
+    <edge source="levantarse" target="pero" />
+    <edge source="pierden" target="su" />
+    <edge source="ver" target="a" />
+    <edge source="ver" target="colores" />
+    <edge source="pasa" target="un" />
+    <edge source="pasa" target="alguno" />
+    <edge source="pasa" target="cerca" />
+    <edge source="como" target="el" />
+    <edge source="como" target="los" />
+    <edge source="como" target="vivieron" />
+    <edge source="como" target="las" />
+    <edge source="como" target="aves" />
+    <edge source="como" target="símbolo" />
+    <edge source="olvida" target="de" />
+    <edge source="hizo" target="despegarse" />
+    <edge source="hizo" target="sentir" />
+    <edge source="revolotean" target="de" />
+    <edge source="su" target="dueño" />
+    <edge source="su" target="verdadero" />
+    <edge source="su" target="cola" />
+    <edge source="su" target="compañero" />
+    <edge source="su" target="guía" />
+    <edge source="su" target="leal" />
+    <edge source="su" target="carne" />
+    <edge source="su" target="piel" />
+    <edge source="su" target="pata" />
+    <edge source="su" target="plumaje" />
+    <edge source="su" target="envidia" />
+    <edge source="su" target="pico" />
+    <edge source="su" target="vuelo" />
+    <edge source="su" target="aliento" />
+    <edge source="su" target="rastro" />
+    <edge source="su" target="pereza" />
+    <edge source="su" target="cabeza" />
+    <edge source="su" target="aleteo" />
+    <edge source="su" target="sonrisa" />
+    <edge source="su" target="alma" />
+    <edge source="su" target="madre" />
+    <edge source="su" target="cuerpo" />
+    <edge source="su" target="canto" />
+    <edge source="su" target="choza" />
+    <edge source="su" target="hora" />
+    <edge source="su" target="melodía" />
+    <edge source="su" target="camino" />
+    <edge source="viento" target="para" />
+    <edge source="viento" target="las" />
+    <edge source="pueblos" target="han" />
+    <edge source="parte" target="del" />
+    <edge source="resina" target="de" />
+    <edge source="melodía" target="es" />
+    <edge source="espíritu" target="de" />
+    <edge source="hacemos" target="los" />
+    <edge source="la" target="muerte" />
+    <edge source="la" target="época" />
+    <edge source="la" target="oscuridad" />
+    <edge source="la" target="persona" />
+    <edge source="la" target="que" />
+    <edge source="la" target="ciudad" />
+    <edge source="la" target="piel" />
+    <edge source="la" target="resistencia" />
+    <edge source="la" target="cual" />
+    <edge source="la" target="construcción" />
+    <edge source="la" target="sed" />
+    <edge source="la" target="cueva" />
+    <edge source="la" target="tierra" />
+    <edge source="la" target="primavera" />
+    <edge source="la" target="fertilidad" />
+    <edge source="la" target="leche" />
+    <edge source="la" target="cama" />
+    <edge source="la" target="madre" />
+    <edge source="la" target="hora" />
+    <edge source="la" target="montaña" />
+    <edge source="la" target="panza" />
+    <edge source="la" target="cosecha" />
+    <edge source="la" target="cabeza" />
+    <edge source="la" target="casa" />
+    <edge source="la" target="siembra" />
+    <edge source="la" target="noche" />
+    <edge source="la" target="luna" />
+    <edge source="la" target="gente" />
+    <edge source="la" target="ayudamos" />
+    <edge source="la" target="enfermedad" />
+    <edge source="la" target="crueldad" />
+    <edge source="la" target="anergia" />
+    <edge source="la" target="región" />
+    <edge source="la" target="transformación" />
+    <edge source="estuvieran" target="fuera" />
+    <edge source="escapó" target="con" />
+    <edge source="sumergen" target="en" />
+    <edge source="náhuatles" target="creen" />
+    <edge source="muchas" target="ya" />
+    <edge source="muchas" target="veces" />
+    <edge source="dormía" target="la" />
+    <edge source="descubrió" target="un" />
+    <edge source="Cerca" target="de" />
+    <edge source="cercano" target="se" />
+    <edge source="lamió" target="su" />
+    <edge source="miraba" target="a" />
+    <edge source="vuelan" target="en" />
+    <edge source="múltiples" target="colores" />
+    <edge source="mirar" target="pasar" />
+    <edge source="mirar" target="a" />
+    <edge source="aún" target="podemos" />
+    <edge source="caminaron" target="largos" />
+    <edge source="robar" target="el" />
+    <edge source="nuestros" target="oídos" />
+    <edge source="bella" target="y" />
+    <edge source="mujeres" target="con" />
+    <edge source="mujeres" target="antes" />
+    <edge source="mujeres" target="lactantes" />
+    <edge source="rayos" target="del" />
+    <edge source="atraparlo" target="y" />
+    <edge source="persona" target="hasta" />
+    <edge source="persona" target="con" />
+    <edge source="persona" target="tiene" />
+    <edge source="tuvo" target="el" />
+    <edge source="tuvo" target="plumas" />
+    <edge source="recibir" target="el" />
+    <edge source="Múltiples" target="colores" />
+    <edge source="dio" target="cuenta" />
+    <edge source="dio" target="esta" />
+    <edge source="Pasaron" target="días" />
+    <edge source="esta" target="manera" />
+    <edge source="esta" target="tarea" />
+    <edge source="esta" target="espera" />
+    <edge source="esta" target="brillosa" />
+    <edge source="pregunte" target="a" />
+    <edge source="En" target="mi" />
+    <edge source="En" target="invierno" />
+    <edge source="En" target="los" />
+    <edge source="En" target="las" />
+    <edge source="colibrí" target="a" />
+    <edge source="rama" target="y" />
+    <edge source="envidia" target="que" />
+    <edge source="vez" target="que" />
+    <edge source="sube" target="el" />
+    <edge source="Las" target="aves" />
+    <edge source="Las" target="mariposas" />
+    <edge source="carne" target="y" />
+    <edge source="enfermedad" target="dura" />
+    <edge source="hecho" target="crecer" />
+    <edge source="verdadero" target="nombre" />
+    <edge source="pudo" target="llegar" />
+    <edge source="pudo" target="volar" />
+    <edge source="olor" target="de" />
+    <edge source="olfato" target="le" />
+    <edge source="puede" target="ver" />
+    <edge source="humanos" target="por" />
+    <edge source="unto" target="resina" />
+    <edge source="crecer" target="unas" />
+    <edge source="quedo" target="sin" />
+    <edge source="parecían" target="entradas" />
+    <edge source="anergia" target="del" />
+    <edge source="venado" target="fue" />
+    <edge source="venado" target="era" />
+    <edge source="venado" target="bebía" />
+    <edge source="venado" target="lamió" />
+    <edge source="gente" target="de" />
+    <edge source="Sabías" target="que" />
+    <edge source="abre" target="sus" />
+    <edge source="observa" target="al" />
+    <edge source="esto" target="es" />
+    <edge source="pidió" target="que" />
+    <edge source="hubo" target="un" />
+    <edge source="grillos" target="y" />
+    <edge source="grillos" target="la" />
+    <edge source="camino" target="a" />
+    <edge source="esparcir" target="semillas" />
+    <edge source="ser" target="encargado" />
+    <edge source="ser" target="clara" />
+    <edge source="ser" target="venenosa" />
+    <edge source="ser" target="humano" />
+    <edge source="ser" target="atrapados" />
+    <edge source="ser" target="primavera" />
+    <edge source="capaces" target="de" />
+    <edge source="abrazada" target="y" />
+    <edge source="vergüenza" target="y" />
+    <edge source="secas" target="su" />
+    <edge source="cola" target="para" />
+    <edge source="cola" target="suelta" />
+    <edge source="cola" target="como" />
+    <edge source="cuerpo" target="para" />
+    <edge source="Tunkuluchú" target="canta" />
+    <edge source="Tunkuluchú" target="un" />
+    <edge source="Tunkuluchú" target="movía" />
+    <edge source="Tunkuluchú" target="las" />
+    <edge source="Tunkuluchú" target="escapó" />
+    <edge source="suelo" target="para" />
+    <edge source="creído" target="que" />
+    <edge source="sucumbían" target="hasta" />
+    <edge source="comienza" target="a" />
+    <edge source="hombros" target="al" />
+    <edge source="se" target="recuesta" />
+    <edge source="se" target="olvida" />
+    <edge source="se" target="lo" />
+    <edge source="se" target="arrastró" />
+    <edge source="se" target="dio" />
+    <edge source="se" target="les" />
+    <edge source="se" target="lleva" />
+    <edge source="se" target="pelean" />
+    <edge source="se" target="sucumbían" />
+    <edge source="se" target="ponían" />
+    <edge source="se" target="encuentren" />
+    <edge source="se" target="enojó" />
+    <edge source="se" target="cree" />
+    <edge source="se" target="acerquen" />
+    <edge source="se" target="dice" />
+    <edge source="se" target="roba" />
+    <edge source="se" target="daban" />
+    <edge source="se" target="unto" />
+    <edge source="se" target="sentían" />
+    <edge source="se" target="volvió" />
+    <edge source="se" target="sumergen" />
+    <edge source="se" target="negaron" />
+    <edge source="se" target="escondió" />
+    <edge source="se" target="oscurece" />
+    <edge source="se" target="va" />
+    <edge source="se" target="enferme" />
+    <edge source="se" target="quedan" />
+    <edge source="se" target="enferma" />
+    <edge source="se" target="acabe" />
+    <edge source="se" target="escucha" />
+    <edge source="se" target="lastimó" />
+    <edge source="se" target="mantuvo" />
+    <edge source="se" target="canso" />
+    <edge source="se" target="propuso" />
+    <edge source="se" target="acercara" />
+    <edge source="se" target="posaron" />
+    <edge source="se" target="posan" />
+    <edge source="se" target="acomodan" />
+    <edge source="se" target="enfermara" />
+    <edge source="se" target="convierte" />
+    <edge source="se" target="asemejaba" />
+    <edge source="ciudad" target="de" />
+    <edge source="estas" target="tenían" />
+    <edge source="estas" target="se" />
+    <edge source="eclipse" target="estamos" />
+    <edge source="notó" target="que" />
+    <edge source="dura" target="cuatro" />
+    <edge source="cielo" target="llovían" />
+    <edge source="preocupara" target="porque" />
+    <edge source="dejan" target="caer" />
+    <edge source="atrapa" target="ni" />
+    <edge source="contacto" target="con" />
+    <edge source="permaneció" target="recostado" />
+    <edge source="Mueve" target="sus" />
+    <edge source="copal" target="y" />
+    <edge source="cerca" target="de" />
+    <edge source="cerca" target="del" />
+    <edge source="roban" target="leche" />
+    <edge source="roban" target="guajolotes" />
+    <edge source="tanta" target="era" />
+    <edge source="cabeza" target="en" />
+    <edge source="cabeza" target="mi" />
+    <edge source="cabeza" target="de" />
+    <edge source="cabeza" target="canastos" />
+    <edge source="alcanzar" target="el" />
+    <edge source="era" target="presa" />
+    <edge source="era" target="muy" />
+    <edge source="era" target="un" />
+    <edge source="era" target="igual" />
+    <edge source="era" target="su" />
+    <edge source="inmunes" target="al" />
+    <edge source="observó" target="fijamente" />
+    <edge source="visitan" target="constantemente" />
+    <edge source="calentarlo" target="sino" />
+    <edge source="enflacaban" target="y" />
+    <edge source="empiezan" target="a" />
+    <edge source="El" target="Pek" />
+    <edge source="El" target="perro" />
+    <edge source="El" target="venado" />
+    <edge source="El" target="Zopilote" />
+    <edge source="El" target="águila" />
+    <edge source="El" target="murciélago" />
+    <edge source="El" target="hombre" />
+    <edge source="tapamos" target="nuestros" />
+    <edge source="poderse" target="levantar" />
+    <edge source="Intento" target="atraparlas" />
+    <edge source="tranquilos" target="cuándo" />
+    <edge source="lo" target="marchita" />
+    <edge source="lo" target="permitió" />
+    <edge source="lo" target="mataba" />
+    <edge source="lo" target="crearon" />
+    <edge source="lo" target="notaban" />
+    <edge source="lo" target="que" />
+    <edge source="lo" target="castigo" />
+    <edge source="lo" target="malo" />
+    <edge source="lo" target="abrazaban" />
+    <edge source="lo" target="miraban" />
+    <edge source="lo" target="tomó" />
+    <edge source="lo" target="ingresó" />
+    <edge source="lo" target="observó" />
+    <edge source="lo" target="hizo" />
+    <edge source="lo" target="observaba" />
+    <edge source="lo" target="queremos" />
+    <edge source="pueden" target="comérsela" />
+    <edge source="campos" target="aún" />
+    <edge source="sobre" target="las" />
+    <edge source="sobre" target="sus" />
+    <edge source="sobre" target="ellas" />
+    <edge source="sobre" target="el" />
+    <edge source="aquellos" target="hombres" />
+    <edge source="panza" target="que" />
+    <edge source="va" target="con" />
+    <edge source="va" target="a" />
+    <edge source="alguien" target="cercano" />
+    <edge source="ellos" target="son" />
+    <edge source="tomó" target="entre" />
+    <edge source="tomó" target="una" />
+    <edge source="lejanos" target="la" />
+    <edge source="dos" target="niñas" />
+    <edge source="fijamente" target="y" />
+    <edge source="siente" target="que" />
+    <edge source="carroña" target="por" />
+    <edge source="aleteo" target="el" />
+    <edge source="escucha" target="su" />
+    <edge source="reflejaban" target="los" />
+    <edge source="asemejaba" target="al" />
+    <edge source="absorbían" target="la" />
+    <edge source="riendo" target="hasta" />
+    <edge source="curarlo" target="de" />
+    <edge source="entradas" target="de" />
+    <edge source="perseguido" target="y" />
+    <edge source="pueblo" target="que" />
+    <edge source="pueblo" target="sentimos" />
+    <edge source="pueblo" target="hay" />
+    <edge source="son" target="capaces" />
+    <edge source="son" target="serpientes" />
+    <edge source="son" target="muy" />
+    <edge source="son" target="inmunes" />
+    <edge source="son" target="las" />
+    <edge source="son" target="mi" />
+    <edge source="son" target="monarcas" />
+    <edge source="son" target="blancas" />
+    <edge source="dijo" target="que" />
+    <edge source="entre" target="su" />
+    <edge source="entre" target="sus" />
+    <edge source="prehispánica" target="hasta" />
+    <edge source="así" target="reseco" />
+    <edge source="así" target="es" />
+    <edge source="así" target="Tunkuluchú" />
+    <edge source="colores" target="lo" />
+    <edge source="colores" target="de" />
+    <edge source="muchos" target="pueblos" />
+    <edge source="ganas" target="de" />
+    <edge source="canto" target="de" />
+    <edge source="canto" target="con" />
+    <edge source="ayudamos" target="a" />
+    <edge source="ayudamos" target="no" />
+    <edge source="veneno" target="del" />
+    <edge source="flechas" target="contra" />
+    <edge source="alegría" target="y" />
+    <edge source="daba" target="su" />
+    <edge source="miraban" target="feliz" />
+    <edge source="llevándolos" target="de" />
+    <edge source="suelta" target="latigazos" />
+    <edge source="todo" target="su" />
+    <edge source="aroma" target="cerca" />
+    <edge source="ves" target="a" />
+    <edge source="oscurecer" target="para" />
+    <edge source="árboles" target="repiten" />
+    <edge source="dice" target="que" />
+    <edge source="aves" target="lo" />
+    <edge source="aves" target="más" />
+    <edge source="aves" target="y" />
+    <edge source="inunda" target="cuando" />
+    <edge source="latigazos" target="que" />
+    <edge source="Es" target="bueno" />
+    <edge source="oscurece" target="y" />
+    <edge source="haberlas" target="tratado" />
+    <edge source="canso" target="y" />
+    <edge source="oculta" target="por" />
+    <edge source="familiar" target="muere" />
+    <edge source="Tiene" target="los" />
+    <edge source="sido" target="abrazada" />
+    <edge source="sido" target="arrebatada" />
+    <edge source="está" target="en" />
+    <edge source="está" target="muerto" />
+    <edge source="abandona" target="el" />
+    <edge source="disparaban" target="sus" />
+    <edge source="ya" target="no" />
+    <edge source="ya" target="que" />
+    <edge source="ya" target="estaban" />
+    <edge source="ya" target="años" />
+    <edge source="poco" target="a" />
+    <edge source="poco" target="probable" />
+    <edge source="símbolo" target="de" />
+    <edge source="ellas" target="y" />
+    <edge source="llevar" target="sobre" />
+    <edge source="Así" target="que" />
+    <edge source="Así" target="contaban" />
+    <edge source="Así" target="el" />
+    <edge source="deben" target="cargar" />
+    <edge source="repiten" target="su" />
+    <edge source="atrapados" target="por" />
+    <edge source="manos" target="y" />
+    <edge source="miran" target="la" />
+    <edge source="punto" target="de" />
+    <edge source="espina" target="de" />
+    <edge source="tan" target="clara" />
+    <edge source="tan" target="fuerte" />
+    <edge source="tan" target="mal" />
+    <edge source="tampoco" target="barro" />
+    <edge source="cada" target="ave" />
+    <edge source="cada" target="nido" />
+    <edge source="ve" target="porque" />
+    <edge source="pareció" target="que" />
+    <edge source="formaba" target="arcoíris" />
+    <edge source="quedan" target="tranquilos" />
+    <edge source="oscuro" target="por" />
+    <edge source="Al" target="llegar" />
+    <edge source="Al" target="caer" />
+    <edge source="Al" target="meter" />
+    <edge source="tierra" target="y" />
+    <edge source="brilla" target="la" />
+    <edge source="pollos" target="e" />
+    <edge source="sentían" target="contentas" />
+    <edge source="culpa" target="por" />
+    <edge source="cubrir" target="algo" />
+    <edge source="mismo" target="viento" />
+    <edge source="pegarlas" target="de" />
+    <edge source="mucho" target="el" />
+    <edge source="si" target="entra" />
+    <edge source="si" target="quedara" />
+    <edge source="si" target="no" />
+    <edge source="si" target="ves" />
+    <edge source="si" target="son" />
+    <edge source="horas" target="enteras" />
+    <edge source="Xolotl" target="y" />
+    <edge source="mataba" target="lentamente" />
+    <edge source="castigo" target="a" />
+    <edge source="también" target="en" />
+    <edge source="también" target="para" />
+    <edge source="también" target="dicen" />
+    <edge source="grupo" target="de" />
+    <edge source="cama" target="donde" />
+    <edge source="qué" target="tiene" />
+    <edge source="qué" target="no" />
+    <edge source="este" target="se" />
+    <edge source="cuevas" target="y" />
+    <edge source="Cada" target="vez" />
+    <edge source="Cada" target="mañana" />
+    <edge source="Cada" target="que" />
+    <edge source="encontrar" target="nunca" />
+    <edge source="tomaron" target="el" />
+    <edge source="hasta" target="el" />
+    <edge source="hasta" target="hoy" />
+    <edge source="hasta" target="la" />
+    <edge source="hasta" target="que" />
+    <edge source="nido" target="y" />
+    <edge source="madres" target="son" />
+    <edge source="madres" target="se" />
+    <edge source="enteras" target="lo" />
+    <edge source="piernas" target="no" />
+    <edge source="peculiar" target="aroma" />
+    <edge source="néctar" target="si" />
+    <edge source="recuesta" target="sobre" />
+    <edge source="caer" target="junto" />
+    <edge source="además" target="de" />
+    <edge source="al" target="espíritu" />
+    <edge source="al" target="inframundo" />
+    <edge source="al" target="que" />
+    <edge source="al" target="voltear" />
+    <edge source="al" target="ser" />
+    <edge source="al" target="sentirse" />
+    <edge source="al" target="veneno" />
+    <edge source="al" target="sol" />
+    <edge source="al" target="esparcir" />
+    <edge source="al" target="árbol" />
+    <edge source="al" target="hombre" />
+    <edge source="al" target="morir" />
+    <edge source="al" target="llover" />
+    <edge source="al" target="viaje" />
+    <edge source="compañía" target="de" />
+    <edge source="teme" target="al" />
+    <edge source="Subía" target="al" />
+    <edge source="Tanta" target="admiración" />
+    <edge source="Cuentan" target="que" />
+    <edge source="Cuentan" target="en" />
+    <edge source="mirarlo" target="podemos" />
+    <edge source="todas" target="las" />
+    <edge source="alguno" target="a" />
+    <edge source="contentas" target="por" />
+    <edge source="que" target="en" />
+    <edge source="que" target="cuando" />
+    <edge source="que" target="el" />
+    <edge source="que" target="la" />
+    <edge source="que" target="ha" />
+    <edge source="que" target="inclinarse" />
+    <edge source="que" target="será" />
+    <edge source="que" target="hubo" />
+    <edge source="que" target="era" />
+    <edge source="que" target="disparaban" />
+    <edge source="que" target="había" />
+    <edge source="que" target="los" />
+    <edge source="que" target="tuvo" />
+    <edge source="que" target="su" />
+    <edge source="que" target="parecían" />
+    <edge source="que" target="pasa" />
+    <edge source="que" target="tomaron" />
+    <edge source="que" target="reflejaban" />
+    <edge source="que" target="capturaron" />
+    <edge source="que" target="roban" />
+    <edge source="que" target="se" />
+    <edge source="que" target="hacemos" />
+    <edge source="que" target="es" />
+    <edge source="que" target="no" />
+    <edge source="que" target="son" />
+    <edge source="que" target="si" />
+    <edge source="que" target="les" />
+    <edge source="que" target="existan" />
+    <edge source="que" target="está" />
+    <edge source="que" target="lo" />
+    <edge source="que" target="tiene" />
+    <edge source="que" target="siembra" />
+    <edge source="que" target="siempre" />
+    <edge source="que" target="las" />
+    <edge source="que" target="un" />
+    <edge source="que" target="le" />
+    <edge source="que" target="hay" />
+    <edge source="que" target="Tunkuluchú" />
+    <edge source="que" target="bailaba" />
+    <edge source="que" target="hace" />
+    <edge source="que" target="vuelan" />
+    <edge source="que" target="alguien" />
+    <edge source="Todas" target="las" />
+    <edge source="Compañero" target="inseparable" />
+    <edge source="orejas" target="y" />
+    <edge source="lleva" target="en" />
+    <edge source="A" target="partir" />
+    <edge source="A" target="pesar" />
+    <edge source="durante" target="el" />
+    <edge source="recolectado" target="tantas" />
+    <edge source="murciélago" target="de" />
+    <edge source="murciélago" target="tuvo" />
+    <edge source="murciélago" target="miraba" />
+    <edge source="murciélago" target="se" />
+    <edge source="murciélago" target="quedo" />
+    <edge source="estamos" target="muy" />
+    <edge source="estamos" target="contentos" />
+    <edge source="cazadores" target="que" />
+    <edge source="cazadores" target="estuvieran" />
+    <edge source="usaban" target="en" />
+    <edge source="plumas" target="y" />
+    <edge source="plumas" target="coloridas" />
+    <edge source="plumas" target="pero" />
+    <edge source="obstáculos" target="en" />
+    <edge source="valor" target="y" />
+    <edge source="había" target="agua" />
+    <edge source="había" target="dejado" />
+    <edge source="había" target="sido" />
+    <edge source="había" target="maíz" />
+    <edge source="había" target="recolectado" />
+    <edge source="había" target="hecho" />
+    <edge source="hay" target="un" />
+    <edge source="hay" target="en" />
+    <edge source="hay" target="monarcas" />
+    <edge source="tenían" target="hermosos" />
+    <edge source="enfermara" target="y" />
+    <edge source="llena" target="de" />
+    <edge source="tu" target="lado" />
+    <edge source="atentos" target="porque" />
+    <edge source="algún" target="día" />
+    <edge source="fuerte" target="el" />
+    <edge source="fuerte" target="para" />
+    <edge source="sé" target="que" />
+    <edge source="Cuando" target="la" />
+    <edge source="valiente" target="y" />
+    <edge source="llanto" target="de" />
+    <edge source="tarea" target="porque" />
+    <edge source="muerte" target="del" />
+    <edge source="ni" target="tampoco" />
+    <edge source="ni" target="los" />
+    <edge source="hora" target="de" />
+    <edge source="hora" target="final" />
+    <edge source="renace" target="solo" />
+    <edge source="esparcen" target="ceniza" />
+    <edge source="más" target="alto" />
+    <edge source="más" target="plumas" />
+    <edge source="transformación" target="de" />
+    <edge source="purificar" target="la" />
+    <edge source="adornarse" target="con" />
+    <edge source="viaje" target="del" />
+    <edge source="agua" target="de" />
+    <edge source="años" target="aquí" />
+    <edge source="Zopilote" target="Flojo" />
+    <edge source="arrogante" target="y" />
+    <edge source="algunos" target="para" />
+    <edge source="fuera" target="de" />
+    <edge source="debo" target="tener" />
+    <edge source="fácil" target="para" />
+    <edge source="reseco" target="y" />
+    <edge source="abuela" target="me" />
+    <edge source="hojas" target="secas" />
+    <edge source="alma" target="de" />
+    <edge source="alma" target="había" />
+    <edge source="alma" target="a" />
+    <edge source="tunkuluchú" target="el" />
+    <edge source="tunkuluchú" target="se" />
+    <edge source="llamadas" target="Cempaxúchitl" />
+    <edge source="Los" target="hombres" />
+    <edge source="Los" target="prehispánicos" />
+    <edge source="Los" target="grillos" />
+    <edge source="patas" target="de" />
+    <edge source="patas" target="para" />
+    <edge source="tenía" target="saliva" />
+    <edge source="tenía" target="que" />
+    <edge source="movía" target="sus" />
+    <edge source="Un" target="día" />
+    <edge source="cobrizo" target="muere" />
+    <edge source="escuchó" target="sonidos" />
+    <edge source="escuchó" target="de" />
+    <edge source="transmiten" target="la" />
+    <edge source="lado" target="a" />
+    <edge source="pintaron" target="de" />
+    <edge source="lejos" target="y" />
+    <edge source="negras" target="o" />
+    <edge source="alto" target="y" />
+    <edge source="maíz" target="ni" />
+    <edge source="águilas" target="no" />
+    <edge source="tenemos" target="miedo" />
+    <edge source="tus" target="pensamientos" />
+    <edge source="enseguida" target="pierden" />
+    <edge source="raspándolo" target="formaron" />
+    <edge source="existan" target="porque" />
+    <edge source="canastos" target="o" />
+    <edge source="tratado" target="tan" />
+    <edge source="flecha" target="fue" />
+    <edge source="flecha" target="pequeña" />
+    <edge source="hermosos" target="colores" />
+    <edge source="Gracias" target="a" />
+    <edge source="momento" target="resbaló" />
+    <edge source="sonamos" target="atecocolis" />
+    <edge source="silbidos" target="que" />
+    <edge source="cosecha" target="mi" />
+    <edge source="siempre" target="debo" />
+    <edge source="siempre" target="los" />
+    <edge source="chiquihuites" target="para" />
+    <edge source="buscó" target="el" />
+    <edge source="color" target="de" />
+    <edge source="color" target="las" />
+    <edge source="cubrirse" target="y" />
+    <edge source="desde" target="cualquier" />
+    <edge source="gritamos" target="como" />
+    <edge source="manchas" target="que" />
+    <edge source="semillas" target="y" />
+    <edge source="sintió" target="vergüenza" />
+    <edge source="sintió" target="coraje" />
+    <edge source="escudos" target="para" />
+    <edge source="antes" target="de" />
+    <edge source="ponían" target="desnutridos" />
+    <edge source="encuentren" target="ratones" />
+    <edge source="unido" target="lazos" />
+    <edge source="dentro" target="de" />
+    <edge source="nos" target="transmiten" />
+    <edge source="nos" target="visitan" />
+    <edge source="mi" target="comunidad" />
+    <edge source="mi" target="pueblo" />
+    <edge source="mi" target="familia" />
+    <edge source="mi" target="abuela" />
+    <edge source="mi" target="chiquihuite" />
+    <edge source="empezó" target="a" />
+    <edge source="empezó" target="aletear" />
+    <edge source="empezó" target="arrancar" />
+    <edge source="nuestro" target="lado" />
+    <edge source="incluso" target="borregos" />
+    <edge source="mis" target="plumas" />
+    <edge source="mis" target="abuelos" />
+    <edge source="leal" target="Pek" />
+    <edge source="asociadas" target="con" />
+    <edge source="pequeño" target="venado" />
+    <edge source="acercara" target="su" />
+    <edge source="admiraban" target="su" />
+    <edge source="daban" target="cuenta" />
+    <edge source="libertad" target="del" />
+    <edge source="enteros" target="buscó" />
+    <edge source="Pek" target="Xolotl" />
+    <edge source="dormir" target="esparcen" />
+    <edge source="zopilote" target="abre" />
+    <edge source="zopilote" target="los" />
+    <edge source="origen" target="del" />
+    <edge source="mariposas" target="son" />
+    <edge source="mariposas" target="revolotean" />
+    <edge source="mariposas" target="blancas" />
+    <edge source="mariposas" target="por" />
+    <edge source="mariposas" target="se" />
+    <edge source="volar" target="y" />
+    <edge source="volar" target="a" />
+    <edge source="volar" target="más" />
+    <edge source="por" target="el" />
+    <edge source="por" target="matorrales" />
+    <edge source="por" target="la" />
+    <edge source="por" target="eso" />
+    <edge source="por" target="las" />
+    <edge source="por" target="que" />
+    <edge source="por" target="comer" />
+    <edge source="por" target="su" />
+    <edge source="por" target="qué" />
+    <edge source="por" target="haberlo" />
+    <edge source="por" target="haberlas" />
+    <edge source="por" target="siempre" />
+    <edge source="algo" target="en" />
+    <edge source="subir" target="a" />
+    <edge source="días" target="morían" />
+    <edge source="días" target="el" />
+    <edge source="podemos" target="sentir" />
+    <edge source="podemos" target="escuchar" />
+    <edge source="tilcuates" target="son" />
+    <edge source="e" target="incluso" />
+    <edge source="hace" target="ya" />
+    <edge source="Desde" target="la" />
+    <edge source="Desde" target="ese" />
+    <edge source="unos" target="metros" />
+    <edge source="ratones" target="cerca" />
+    <edge source="meter" target="su" />
+    <edge source="ceniza" target="para" />
+    <edge source="contra" target="él" />
+    <edge source="hombre" target="lo" />
+    <edge source="hombre" target="divertidamente" />
+    <edge source="hombre" target="se" />
+    <edge source="hombre" target="cuando" />
+    <edge source="hombre" target="muere" />
+    <edge source="monarcas" target="cuando" />
+    <edge source="monarcas" target="las" />
+    <edge source="Se" target="dice" />
+    <edge source="seguir" target="su" />
+    <edge source="Días" target="enteros" />
+    <edge source="montaña" target="para" />
+    <edge source="niños" target="enflacaban" />
+    <edge source="niños" target="deben" />
+    <edge source="cuatro" target="horas" />
+    <edge source="estuvo" target="a" />
+    <edge source="buscar" target="comida" />
+    <edge source="tener" target="en" />
+    <edge source="tiempo" target="que" />
+    <edge source="tiempo" target="en" />
+    <edge source="escuchar" target="el" />
+    <edge source="deja" target="ahí" />
+    <edge source="acomodan" target="en" />
+    <edge source="bebía" target="agua" />
+    <edge source="insertan" target="su" />
+    <edge source="fue" target="tan" />
+    <edge source="fue" target="ayudada" />
+    <edge source="presa" target="fácil" />
+    <edge source="vio" target="que" />
+    <edge source="sabemos" target="si" />
+    <edge source="cubierta" target="por" />
+    <edge source="recordó" target="que" />
+    <edge source="robaban" target="la" />
+    <edge source="no" target="solo" />
+    <edge source="no" target="se" />
+    <edge source="no" target="tenía" />
+    <edge source="no" target="era" />
+    <edge source="no" target="había" />
+    <edge source="no" target="ser" />
+    <edge source="no" target="le" />
+    <edge source="no" target="puedan" />
+    <edge source="no" target="lloraran" />
+    <edge source="no" target="pudo" />
+    <edge source="no" target="duerme" />
+    <edge source="no" target="ver" />
+    <edge source="no" target="queremos" />
+    <edge source="no" target="sabemos" />
+    <edge source="no" target="lo" />
+    <edge source="no" target="que" />
+    <edge source="no" target="me" />
+    <edge source="abuelas" target="lo" />
+    <edge source="donde" target="dormía" />
+    <edge source="comunidad" target="dicen" />
+    <edge source="comunidad" target="los" />
+    <edge source="comunidad" target="y" />
+    <edge source="Si" target="ayudamos" />
+    <edge source="estaba" target="llena" />
+    <edge source="meneándose" target="de" />
+    <edge source="otros" target="lugares" />
+    <edge source="Vean" target="como" />
+    <edge source="enferma" target="todos" />
+    <edge source="una" target="persona" />
+    <edge source="una" target="flecha" />
+    <edge source="una" target="cueva" />
+    <edge source="una" target="de" />
+    <edge source="una" target="a" />
+    <edge source="una" target="espina" />
+    <edge source="una" target="mariposa" />
+    <edge source="cueva" target="oculta" />
+    <edge source="los" target="muertos" />
+    <edge source="los" target="mayas" />
+    <edge source="los" target="náhuatles" />
+    <edge source="los" target="espíritus" />
+    <edge source="los" target="cazadores" />
+    <edge source="los" target="guerreros" />
+    <edge source="los" target="abuelos" />
+    <edge source="los" target="rayos" />
+    <edge source="los" target="pocos" />
+    <edge source="los" target="atrapa" />
+    <edge source="los" target="encierra" />
+    <edge source="los" target="árboles" />
+    <edge source="los" target="tilcuates" />
+    <edge source="los" target="hombres" />
+    <edge source="los" target="campos" />
+    <edge source="los" target="silbidos" />
+    <edge source="los" target="humanos" />
+    <edge source="los" target="bebes" />
+    <edge source="los" target="niños" />
+    <edge source="los" target="ojos" />
+    <edge source="los" target="animales" />
+    <edge source="los" target="días" />
+    <edge source="los" target="grillitos" />
+    <edge source="los" target="grillos" />
+    <edge source="los" target="ayudamos" />
+    <edge source="los" target="cementerios" />
+    <edge source="los" target="males" />
+    <edge source="crearon" target="ya" />
+    <edge source="pesar" target="de" />
+    <edge source="deidades" target="asociadas" />
+    <edge source="eso" target="hasta" />
+    <edge source="eso" target="hoy" />
+    <edge source="eso" target="todas" />
+    <edge source="eso" target="siempre" />
+    <edge source="eso" target="solo" />
+    <edge source="eso" target="cuando" />
+    <edge source="eso" target="ahora" />
+    <edge source="cuándo" target="la" />
+    <edge source="sentimos" target="miedo" />
+    <edge source="nuevo" target="las" />
+    <edge source="nuevo" target="pero" />
+    <edge source="lugar" target="a" />
+    <edge source="Mis" target="abuelos" />
+    <edge source="mariposa" target="negra" />
+    <edge source="mariposa" target="y" />
+    <edge source="podrían" target="sentirse" />
+    <edge source="clara" target="como" />
+    <edge source="clara" target="y" />
+    <edge source="le" target="soplaron" />
+    <edge source="le" target="teme" />
+    <edge source="le" target="peso" />
+    <edge source="le" target="obsequiaran" />
+    <edge source="le" target="pareció" />
+    <edge source="le" target="pico" />
+    <edge source="le" target="permitía" />
+    <edge source="construcción" target="de" />
+    <edge source="niñas" target="seperdieron" />
+    <edge source="niñas" target="había" />
+    <edge source="piel" target="del" />
+    <edge source="piel" target="ya" />
+    <edge source="piel" target="había" />
+    <edge source="duermen" target="a" />
+    <edge source="grillitos" target="empiezan" />
+    <edge source="alas" target="cuando" />
+    <edge source="alas" target="y" />
+    <edge source="alas" target="de" />
+    <edge source="roba" target="entre" />
+    <edge source="intento" target="levantarse" />
+    <edge source="llovían" target="plumas" />
+    <edge source="dijeron" target="que" />
+    <edge source="mayas" target="y" />
+    <edge source="guía" target="para" />
+    <edge source="voltear" target="vio" />
+    <edge source="cuentan" target="que" />
+    <edge source="nadie" target="los" />
+    <edge source="abuelos" target="cuentan" />
+    <edge source="abuelos" target="las" />
+    <edge source="abuelos" target="también" />
+    <edge source="movimiento" target="de" />
+    <edge source="originario" target="Pek" />
+    <edge source="sin" target="poderse" />
+    <edge source="sin" target="plumas" />
+    <edge source="sin" target="encontrar" />
+    <edge source="sin" target="importar" />
+    <edge source="limpiar" target="lo" />
+    <edge source="crueldad" target="del" />
+    <edge source="montoncito" target="sobre" />
+    <edge source="queremos" target="que" />
+    <edge source="queremos" target="escuchar" />
+    <edge source="desciende" target="y" />
+    <edge source="cualquier" target="parte" />
+    <edge source="escuchamos" target="el" />
+    <edge source="prendemos" target="copal" />
+    <edge source="robarles" target="sus" />
+    <edge source="atecocolis" target="y" />
+    <edge source="bebes" target="no" />
+    <edge source="ave" target="volar" />
+    <edge source="haberlo" target="ayudado" />
+    <edge source="quienes" target="apreciaban" />
+    <edge source="quienes" target="dicen" />
+    <edge source="salir" target="el" />
+    <edge source="del" target="hombre" />
+    <edge source="del" target="Mictlán" />
+    <edge source="del" target="venado" />
+    <edge source="del" target="monte" />
+    <edge source="del" target="miedo" />
+    <edge source="del" target="colibrí" />
+    <edge source="del" target="sol" />
+    <edge source="del" target="cascabel" />
+    <edge source="del" target="cielo" />
+    <edge source="del" target="cementerio" />
+    <edge source="del" target="alma" />
+    <edge source="toda" target="la" />
+    <edge source="han" target="visto" />
+    <edge source="han" target="creído" />
+    <edge source="posan" target="en" />
+    <edge source="invierno" target="no" />
+    <edge source="cuando" target="este" />
+    <edge source="cuando" target="escuchó" />
+    <edge source="cuando" target="ya" />
+    <edge source="cuando" target="lo" />
+    <edge source="cuando" target="pasa" />
+    <edge source="cuando" target="va" />
+    <edge source="cuando" target="un" />
+    <edge source="cuando" target="brilla" />
+    <edge source="cuando" target="se" />
+    <edge source="cuando" target="llega" />
+    <edge source="cuando" target="abandona" />
+  </graph>
+</graphml>
