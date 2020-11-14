@@ -1,0 +1,1093 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd">
+  <meta lastmodifieddate="2020-11-11">
+    <creator>NetworkX 2.5</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="Longitud de interestación" type="long" />
+    </attributes>
+    <nodes>
+      <node id="Pantitlán" label="Pantitlán" />
+      <node id="Zaragoza" label="Zaragoza" />
+      <node id="Gómez Farías" label="Gómez Farías" />
+      <node id="Boulevard Puerto Aéreo" label="Boulevard Puerto Aéreo" />
+      <node id="Balbuena" label="Balbuena" />
+      <node id="Moctezuma" label="Moctezuma" />
+      <node id="San Lázaro" label="San Lázaro" />
+      <node id="Candelaria" label="Candelaria" />
+      <node id="Merced" label="Merced" />
+      <node id="Pino Suárez" label="Pino Suárez" />
+      <node id="Isabel la Católica" label="Isabel la Católica" />
+      <node id="Salto del Agua" label="Salto del Agua" />
+      <node id="Balderas" label="Balderas" />
+      <node id="Cuauhtémoc" label="Cuauhtémoc" />
+      <node id="Insurgentes" label="Insurgentes" />
+      <node id="Sevilla" label="Sevilla" />
+      <node id="Chapultepec" label="Chapultepec" />
+      <node id="Juanacatlán" label="Juanacatlán" />
+      <node id="Tacubaya" label="Tacubaya" />
+      <node id="Observatorio" label="Observatorio" />
+      <node id="Cuatro Caminos" label="Cuatro Caminos" />
+      <node id="Panteones" label="Panteones" />
+      <node id="Tacuba" label="Tacuba" />
+      <node id="Cuitláhuac" label="Cuitláhuac" />
+      <node id="Popotla" label="Popotla" />
+      <node id="Colegio Militar" label="Colegio Militar" />
+      <node id="Normal" label="Normal" />
+      <node id="San Cosme" label="San Cosme" />
+      <node id="Revolución" label="Revolución" />
+      <node id="Hidalgo" label="Hidalgo" />
+      <node id="Bellas Artes" label="Bellas Artes" />
+      <node id="Allende" label="Allende" />
+      <node id="Zócalo" label="Zócalo" />
+      <node id="San Antonio Abad" label="San Antonio Abad" />
+      <node id="Chabacano" label="Chabacano" />
+      <node id="Viaducto" label="Viaducto" />
+      <node id="Xola" label="Xola" />
+      <node id="Villa de Cortés" label="Villa de Cortés" />
+      <node id="Nativitas" label="Nativitas" />
+      <node id="Portales" label="Portales" />
+      <node id="Ermita" label="Ermita" />
+      <node id="General Anaya" label="General Anaya" />
+      <node id="Tasqueña" label="Tasqueña" />
+      <node id="Indios Verdes" label="Indios Verdes" />
+      <node id="Deportivo 18 de Marzo" label="Deportivo 18 de Marzo" />
+      <node id="Potrero" label="Potrero" />
+      <node id="La Raza" label="La Raza" />
+      <node id="Tlatelolco" label="Tlatelolco" />
+      <node id="Guerrero" label="Guerrero" />
+      <node id="Juárez" label="Juárez" />
+      <node id="Niños Héroes" label="Niños Héroes" />
+      <node id="Hospital General" label="Hospital General" />
+      <node id="Centro Médico" label="Centro Médico" />
+      <node id="Etiopía/Plaza de la Transparencia" label="Etiopía/Plaza de la Transparencia" />
+      <node id="Eugenia" label="Eugenia" />
+      <node id="División del Norte" label="División del Norte" />
+      <node id="Zapata" label="Zapata" />
+      <node id="Coyoacán" label="Coyoacán" />
+      <node id="Viveros/Derechos Humanos" label="Viveros/Derechos Humanos" />
+      <node id="Miguel Ángel de Quevedo" label="Miguel Ángel de Quevedo" />
+      <node id="Copilco" label="Copilco" />
+      <node id="Universidad" label="Universidad" />
+      <node id="Santa Anita" label="Santa Anita" />
+      <node id="Jamaica" label="Jamaica" />
+      <node id="Fray Servando" label="Fray Servando" />
+      <node id="Morelos" label="Morelos" />
+      <node id="Canal del Norte" label="Canal del Norte" />
+      <node id="Consulado" label="Consulado" />
+      <node id="Bondojito" label="Bondojito" />
+      <node id="Talismán" label="Talismán" />
+      <node id="Martín Carrera" label="Martín Carrera" />
+      <node id="Politécnico" label="Politécnico" />
+      <node id="Instituto del Petróleo" label="Instituto del Petróleo" />
+      <node id="Autobuses del Norte" label="Autobuses del Norte" />
+      <node id="Misterios" label="Misterios" />
+      <node id="Valle Gómez" label="Valle Gómez" />
+      <node id="Eduardo Molina" label="Eduardo Molina" />
+      <node id="Aragón" label="Aragón" />
+      <node id="Oceanía" label="Oceanía" />
+      <node id="Terminal Aérea" label="Terminal Aérea" />
+      <node id="Hangares" label="Hangares" />
+      <node id="El Rosario" label="El Rosario" />
+      <node id="Tezozómoc" label="Tezozómoc" />
+      <node id="Azcapotzalco" label="Azcapotzalco" />
+      <node id="Ferrería" label="Ferrería" />
+      <node id="Norte 45" label="Norte 45" />
+      <node id="Vallejo" label="Vallejo" />
+      <node id="Lindavista" label="Lindavista" />
+      <node id="La Villa – Basílica" label="La Villa – Basílica" />
+      <node id="Aquíles Serdán" label="Aquíles Serdán" />
+      <node id="Camarones" label="Camarones" />
+      <node id="Refinería" label="Refinería" />
+      <node id="San Joaquín" label="San Joaquín" />
+      <node id="Polanco" label="Polanco" />
+      <node id="Auditorio" label="Auditorio" />
+      <node id="Constituyentes" label="Constituyentes" />
+      <node id="San Pedro de los Pinos" label="San Pedro de los Pinos" />
+      <node id="San Antonio" label="San Antonio" />
+      <node id="Mixcoac" label="Mixcoac" />
+      <node id="Barranca del Muerto" label="Barranca del Muerto" />
+      <node id="Garibaldi" label="Garibaldi" />
+      <node id="San Juan de Letrán" label="San Juan de Letrán" />
+      <node id="Doctores" label="Doctores" />
+      <node id="Obrera" label="Obrera" />
+      <node id="La Viga" label="La Viga" />
+      <node id="Coyuya" label="Coyuya" />
+      <node id="Iztacalco" label="Iztacalco" />
+      <node id="Apatlaco" label="Apatlaco" />
+      <node id="Aculco" label="Aculco" />
+      <node id="Escuadrón 201" label="Escuadrón 201" />
+      <node id="Atlalilco" label="Atlalilco" />
+      <node id="Iztapalapa" label="Iztapalapa" />
+      <node id="Cerro de la Estrella" label="Cerro de la Estrella" />
+      <node id="UAM I" label="UAM I" />
+      <node id="Constitución de 1917" label="Constitución de 1917" />
+      <node id="Puebla" label="Puebla" />
+      <node id="Ciudad Deportiva" label="Ciudad Deportiva" />
+      <node id="Velódromo" label="Velódromo" />
+      <node id="Mixiuhca" label="Mixiuhca" />
+      <node id="Lázaro Cardenas" label="Lázaro Cardenas" />
+      <node id="Chilpancingo" label="Chilpancingo" />
+      <node id="Patriotismo" label="Patriotismo" />
+      <node id="Agrícola Oriental" label="Agrícola Oriental" />
+      <node id="Canal de San Juan" label="Canal de San Juan" />
+      <node id="Tepalcates" label="Tepalcates" />
+      <node id="Guelatao" label="Guelatao" />
+      <node id="Peñón Viejo" label="Peñón Viejo" />
+      <node id="Acatitla" label="Acatitla" />
+      <node id="Santa Marta" label="Santa Marta" />
+      <node id="Los Reyes" label="Los Reyes" />
+      <node id="La Paz" label="La Paz" />
+      <node id="Ciudad Azteca" label="Ciudad Azteca" />
+      <node id="Plaza Aragón" label="Plaza Aragón" />
+      <node id="Olímpica" label="Olímpica" />
+      <node id="Ecatepec" label="Ecatepec" />
+      <node id="Múzquiz" label="Múzquiz" />
+      <node id="Río de los Remedios" label="Río de los Remedios" />
+      <node id="Impulsora" label="Impulsora" />
+      <node id="Nezahualcóyotl" label="Nezahualcóyotl" />
+      <node id="Villa de Aragón" label="Villa de Aragón" />
+      <node id="Bosques de Aragón" label="Bosques de Aragón" />
+      <node id="Deportivo Oceanía" label="Deportivo Oceanía" />
+      <node id="Romero Rubio" label="Romero Rubio" />
+      <node id="Ricardo Flores Magón" label="Ricardo Flores Magón" />
+      <node id="Tepito" label="Tepito" />
+      <node id="Lagunilla" label="Lagunilla" />
+      <node id="Buenavista" label="Buenavista" />
+      <node id="Tláhuac" label="Tláhuac" />
+      <node id="Tlaltenco" label="Tlaltenco" />
+      <node id="Zapotitlán" label="Zapotitlán" />
+      <node id="Nopalera" label="Nopalera" />
+      <node id="Olivos" label="Olivos" />
+      <node id="Tezonco" label="Tezonco" />
+      <node id="Periférico Oriente" label="Periférico Oriente" />
+      <node id="Calle 11" label="Calle 11" />
+      <node id="Lomas Estrella" label="Lomas Estrella" />
+      <node id="San Andrés Tomatlán" label="San Andrés Tomatlán" />
+      <node id="Culhuacán" label="Culhuacán" />
+      <node id="Mexicaltzingo" label="Mexicaltzingo" />
+      <node id="Eje Central" label="Eje Central" />
+      <node id="Parque de los Venados" label="Parque de los Venados" />
+      <node id="Hospital 20 de Noviembre" label="Hospital 20 de Noviembre" />
+      <node id="Insurgentes Sur" label="Insurgentes Sur" />
+    </nodes>
+    <edges>
+      <edge id="0" source="Pantitlán" target="Zaragoza">
+        <attvalues>
+          <attvalue for="0" value="1320" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="Pantitlán" target="Hangares">
+        <attvalues>
+          <attvalue for="0" value="1644" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="Pantitlán" target="Puebla">
+        <attvalues>
+          <attvalue for="0" value="1380" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="Pantitlán" target="Agrícola Oriental">
+        <attvalues>
+          <attvalue for="0" value="1409" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="Zaragoza" target="Gómez Farías">
+        <attvalues>
+          <attvalue for="0" value="762" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="Gómez Farías" target="Boulevard Puerto Aéreo">
+        <attvalues>
+          <attvalue for="0" value="611" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="Boulevard Puerto Aéreo" target="Balbuena">
+        <attvalues>
+          <attvalue for="0" value="595" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="Balbuena" target="Moctezuma">
+        <attvalues>
+          <attvalue for="0" value="703" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="Moctezuma" target="San Lázaro">
+        <attvalues>
+          <attvalue for="0" value="478" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="San Lázaro" target="Candelaria">
+        <attvalues>
+          <attvalue for="0" value="866" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="San Lázaro" target="Ricardo Flores Magón">
+        <attvalues>
+          <attvalue for="0" value="907" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="San Lázaro" target="Morelos">
+        <attvalues>
+          <attvalue for="0" value="1296" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="Candelaria" target="Merced">
+        <attvalues>
+          <attvalue for="0" value="698" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="Candelaria" target="Fray Servando">
+        <attvalues>
+          <attvalue for="0" value="633" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="Candelaria" target="Morelos">
+        <attvalues>
+          <attvalue for="0" value="1062" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="Merced" target="Pino Suárez">
+        <attvalues>
+          <attvalue for="0" value="745" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="Pino Suárez" target="Isabel la Católica">
+        <attvalues>
+          <attvalue for="0" value="382" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="Pino Suárez" target="Zócalo">
+        <attvalues>
+          <attvalue for="0" value="745" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="Pino Suárez" target="San Antonio Abad">
+        <attvalues>
+          <attvalue for="0" value="817" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="Isabel la Católica" target="Salto del Agua">
+        <attvalues>
+          <attvalue for="0" value="445" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="Salto del Agua" target="Balderas">
+        <attvalues>
+          <attvalue for="0" value="458" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="Salto del Agua" target="San Juan de Letrán">
+        <attvalues>
+          <attvalue for="0" value="292" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="Salto del Agua" target="Doctores">
+        <attvalues>
+          <attvalue for="0" value="564" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="Balderas" target="Cuauhtémoc">
+        <attvalues>
+          <attvalue for="0" value="409" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="Balderas" target="Juárez">
+        <attvalues>
+          <attvalue for="0" value="659" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="Balderas" target="Niños Héroes">
+        <attvalues>
+          <attvalue for="0" value="665" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="Cuauhtémoc" target="Insurgentes">
+        <attvalues>
+          <attvalue for="0" value="793" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="Insurgentes" target="Sevilla">
+        <attvalues>
+          <attvalue for="0" value="645" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="Sevilla" target="Chapultepec">
+        <attvalues>
+          <attvalue for="0" value="501" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="Chapultepec" target="Juanacatlán">
+        <attvalues>
+          <attvalue for="0" value="973" />
+        </attvalues>
+      </edge>
+      <edge id="30" source="Juanacatlán" target="Tacubaya">
+        <attvalues>
+          <attvalue for="0" value="1158" />
+        </attvalues>
+      </edge>
+      <edge id="31" source="Tacubaya" target="Observatorio">
+        <attvalues>
+          <attvalue for="0" value="1262" />
+        </attvalues>
+      </edge>
+      <edge id="32" source="Tacubaya" target="Constituyentes">
+        <attvalues>
+          <attvalue for="0" value="1005" />
+        </attvalues>
+      </edge>
+      <edge id="33" source="Tacubaya" target="San Pedro de los Pinos">
+        <attvalues>
+          <attvalue for="0" value="1084" />
+        </attvalues>
+      </edge>
+      <edge id="34" source="Tacubaya" target="Patriotismo">
+        <attvalues>
+          <attvalue for="0" value="1133" />
+        </attvalues>
+      </edge>
+      <edge id="35" source="Cuatro Caminos" target="Panteones">
+        <attvalues>
+          <attvalue for="0" value="1639" />
+        </attvalues>
+      </edge>
+      <edge id="36" source="Panteones" target="Tacuba">
+        <attvalues>
+          <attvalue for="0" value="1416" />
+        </attvalues>
+      </edge>
+      <edge id="37" source="Tacuba" target="Cuitláhuac">
+        <attvalues>
+          <attvalue for="0" value="637" />
+        </attvalues>
+      </edge>
+      <edge id="38" source="Tacuba" target="Refinería">
+        <attvalues>
+          <attvalue for="0" value="1295" />
+        </attvalues>
+      </edge>
+      <edge id="39" source="Tacuba" target="San Joaquín">
+        <attvalues>
+          <attvalue for="0" value="1433" />
+        </attvalues>
+      </edge>
+      <edge id="40" source="Cuitláhuac" target="Popotla">
+        <attvalues>
+          <attvalue for="0" value="620" />
+        </attvalues>
+      </edge>
+      <edge id="41" source="Popotla" target="Colegio Militar">
+        <attvalues>
+          <attvalue for="0" value="462" />
+        </attvalues>
+      </edge>
+      <edge id="42" source="Colegio Militar" target="Normal">
+        <attvalues>
+          <attvalue for="0" value="516" />
+        </attvalues>
+      </edge>
+      <edge id="43" source="Normal" target="San Cosme">
+        <attvalues>
+          <attvalue for="0" value="657" />
+        </attvalues>
+      </edge>
+      <edge id="44" source="San Cosme" target="Revolución">
+        <attvalues>
+          <attvalue for="0" value="537" />
+        </attvalues>
+      </edge>
+      <edge id="45" source="Revolución" target="Hidalgo">
+        <attvalues>
+          <attvalue for="0" value="587" />
+        </attvalues>
+      </edge>
+      <edge id="46" source="Hidalgo" target="Bellas Artes">
+        <attvalues>
+          <attvalue for="0" value="447" />
+        </attvalues>
+      </edge>
+      <edge id="47" source="Hidalgo" target="Guerrero">
+        <attvalues>
+          <attvalue for="0" value="702" />
+        </attvalues>
+      </edge>
+      <edge id="48" source="Hidalgo" target="Juárez">
+        <attvalues>
+          <attvalue for="0" value="251" />
+        </attvalues>
+      </edge>
+      <edge id="49" source="Bellas Artes" target="Allende">
+        <attvalues>
+          <attvalue for="0" value="387" />
+        </attvalues>
+      </edge>
+      <edge id="50" source="Bellas Artes" target="Garibaldi">
+        <attvalues>
+          <attvalue for="0" value="634" />
+        </attvalues>
+      </edge>
+      <edge id="51" source="Bellas Artes" target="San Juan de Letrán">
+        <attvalues>
+          <attvalue for="0" value="456" />
+        </attvalues>
+      </edge>
+      <edge id="52" source="Allende" target="Zócalo">
+        <attvalues>
+          <attvalue for="0" value="602" />
+        </attvalues>
+      </edge>
+      <edge id="53" source="San Antonio Abad" target="Chabacano">
+        <attvalues>
+          <attvalue for="0" value="642" />
+        </attvalues>
+      </edge>
+      <edge id="54" source="Chabacano" target="Viaducto">
+        <attvalues>
+          <attvalue for="0" value="774" />
+        </attvalues>
+      </edge>
+      <edge id="55" source="Chabacano" target="Obrera">
+        <attvalues>
+          <attvalue for="0" value="1143" />
+        </attvalues>
+      </edge>
+      <edge id="56" source="Chabacano" target="La Viga">
+        <attvalues>
+          <attvalue for="0" value="843" />
+        </attvalues>
+      </edge>
+      <edge id="57" source="Chabacano" target="Jamaica">
+        <attvalues>
+          <attvalue for="0" value="1031" />
+        </attvalues>
+      </edge>
+      <edge id="58" source="Chabacano" target="Lázaro Cardenas">
+        <attvalues>
+          <attvalue for="0" value="1000" />
+        </attvalues>
+      </edge>
+      <edge id="59" source="Viaducto" target="Xola">
+        <attvalues>
+          <attvalue for="0" value="490" />
+        </attvalues>
+      </edge>
+      <edge id="60" source="Xola" target="Villa de Cortés">
+        <attvalues>
+          <attvalue for="0" value="698" />
+        </attvalues>
+      </edge>
+      <edge id="61" source="Villa de Cortés" target="Nativitas">
+        <attvalues>
+          <attvalue for="0" value="750" />
+        </attvalues>
+      </edge>
+      <edge id="62" source="Nativitas" target="Portales">
+        <attvalues>
+          <attvalue for="0" value="924" />
+        </attvalues>
+      </edge>
+      <edge id="63" source="Portales" target="Ermita">
+        <attvalues>
+          <attvalue for="0" value="748" />
+        </attvalues>
+      </edge>
+      <edge id="64" source="Ermita" target="General Anaya">
+        <attvalues>
+          <attvalue for="0" value="838" />
+        </attvalues>
+      </edge>
+      <edge id="65" source="Ermita" target="Mexicaltzingo">
+        <attvalues>
+          <attvalue for="0" value="1805" />
+        </attvalues>
+      </edge>
+      <edge id="66" source="Ermita" target="Eje Central">
+        <attvalues>
+          <attvalue for="0" value="895" />
+        </attvalues>
+      </edge>
+      <edge id="67" source="General Anaya" target="Tasqueña">
+        <attvalues>
+          <attvalue for="0" value="1330" />
+        </attvalues>
+      </edge>
+      <edge id="68" source="Indios Verdes" target="Deportivo 18 de Marzo">
+        <attvalues>
+          <attvalue for="0" value="1166" />
+        </attvalues>
+      </edge>
+      <edge id="69" source="Deportivo 18 de Marzo" target="Potrero">
+        <attvalues>
+          <attvalue for="0" value="966" />
+        </attvalues>
+      </edge>
+      <edge id="70" source="Deportivo 18 de Marzo" target="Lindavista">
+        <attvalues>
+          <attvalue for="0" value="1075" />
+        </attvalues>
+      </edge>
+      <edge id="71" source="Deportivo 18 de Marzo" target="La Villa – Basílica">
+        <attvalues>
+          <attvalue for="0" value="570" />
+        </attvalues>
+      </edge>
+      <edge id="72" source="Potrero" target="La Raza">
+        <attvalues>
+          <attvalue for="0" value="1106" />
+        </attvalues>
+      </edge>
+      <edge id="73" source="La Raza" target="Tlatelolco">
+        <attvalues>
+          <attvalue for="0" value="1445" />
+        </attvalues>
+      </edge>
+      <edge id="74" source="La Raza" target="Autobuses del Norte">
+        <attvalues>
+          <attvalue for="0" value="975" />
+        </attvalues>
+      </edge>
+      <edge id="75" source="La Raza" target="Misterios">
+        <attvalues>
+          <attvalue for="0" value="892" />
+        </attvalues>
+      </edge>
+      <edge id="76" source="Tlatelolco" target="Guerrero">
+        <attvalues>
+          <attvalue for="0" value="1042" />
+        </attvalues>
+      </edge>
+      <edge id="77" source="Guerrero" target="Garibaldi">
+        <attvalues>
+          <attvalue for="0" value="757" />
+        </attvalues>
+      </edge>
+      <edge id="78" source="Guerrero" target="Buenavista">
+        <attvalues>
+          <attvalue for="0" value="521" />
+        </attvalues>
+      </edge>
+      <edge id="79" source="Niños Héroes" target="Hospital General">
+        <attvalues>
+          <attvalue for="0" value="559" />
+        </attvalues>
+      </edge>
+      <edge id="80" source="Hospital General" target="Centro Médico">
+        <attvalues>
+          <attvalue for="0" value="653" />
+        </attvalues>
+      </edge>
+      <edge id="81" source="Centro Médico" target="Etiopía/Plaza de la Transparencia">
+        <attvalues>
+          <attvalue for="0" value="1119" />
+        </attvalues>
+      </edge>
+      <edge id="82" source="Centro Médico" target="Lázaro Cardenas">
+        <attvalues>
+          <attvalue for="0" value="1059" />
+        </attvalues>
+      </edge>
+      <edge id="83" source="Centro Médico" target="Chilpancingo">
+        <attvalues>
+          <attvalue for="0" value="1152" />
+        </attvalues>
+      </edge>
+      <edge id="84" source="Etiopía/Plaza de la Transparencia" target="Eugenia">
+        <attvalues>
+          <attvalue for="0" value="950" />
+        </attvalues>
+      </edge>
+      <edge id="85" source="Eugenia" target="División del Norte">
+        <attvalues>
+          <attvalue for="0" value="715" />
+        </attvalues>
+      </edge>
+      <edge id="86" source="División del Norte" target="Zapata">
+        <attvalues>
+          <attvalue for="0" value="794" />
+        </attvalues>
+      </edge>
+      <edge id="87" source="Zapata" target="Coyoacán">
+        <attvalues>
+          <attvalue for="0" value="1153" />
+        </attvalues>
+      </edge>
+      <edge id="88" source="Zapata" target="Parque de los Venados">
+        <attvalues>
+          <attvalue for="0" value="563" />
+        </attvalues>
+      </edge>
+      <edge id="89" source="Zapata" target="Hospital 20 de Noviembre">
+        <attvalues>
+          <attvalue for="0" value="450" />
+        </attvalues>
+      </edge>
+      <edge id="90" source="Coyoacán" target="Viveros/Derechos Humanos">
+        <attvalues>
+          <attvalue for="0" value="908" />
+        </attvalues>
+      </edge>
+      <edge id="91" source="Viveros/Derechos Humanos" target="Miguel Ángel de Quevedo">
+        <attvalues>
+          <attvalue for="0" value="824" />
+        </attvalues>
+      </edge>
+      <edge id="92" source="Miguel Ángel de Quevedo" target="Copilco">
+        <attvalues>
+          <attvalue for="0" value="1295" />
+        </attvalues>
+      </edge>
+      <edge id="93" source="Copilco" target="Universidad">
+        <attvalues>
+          <attvalue for="0" value="1306" />
+        </attvalues>
+      </edge>
+      <edge id="94" source="Santa Anita" target="Jamaica">
+        <attvalues>
+          <attvalue for="0" value="758" />
+        </attvalues>
+      </edge>
+      <edge id="95" source="Santa Anita" target="La Viga">
+        <attvalues>
+          <attvalue for="0" value="633" />
+        </attvalues>
+      </edge>
+      <edge id="96" source="Santa Anita" target="Coyuya">
+        <attvalues>
+          <attvalue for="0" value="968" />
+        </attvalues>
+      </edge>
+      <edge id="97" source="Jamaica" target="Fray Servando">
+        <attvalues>
+          <attvalue for="0" value="1033" />
+        </attvalues>
+      </edge>
+      <edge id="98" source="Jamaica" target="Mixiuhca">
+        <attvalues>
+          <attvalue for="0" value="942" />
+        </attvalues>
+      </edge>
+      <edge id="99" source="Morelos" target="Canal del Norte">
+        <attvalues>
+          <attvalue for="0" value="910" />
+        </attvalues>
+      </edge>
+      <edge id="100" source="Morelos" target="Tepito">
+        <attvalues>
+          <attvalue for="0" value="498" />
+        </attvalues>
+      </edge>
+      <edge id="101" source="Canal del Norte" target="Consulado">
+        <attvalues>
+          <attvalue for="0" value="884" />
+        </attvalues>
+      </edge>
+      <edge id="102" source="Consulado" target="Bondojito">
+        <attvalues>
+          <attvalue for="0" value="645" />
+        </attvalues>
+      </edge>
+      <edge id="103" source="Consulado" target="Valle Gómez">
+        <attvalues>
+          <attvalue for="0" value="679" />
+        </attvalues>
+      </edge>
+      <edge id="104" source="Consulado" target="Eduardo Molina">
+        <attvalues>
+          <attvalue for="0" value="815" />
+        </attvalues>
+      </edge>
+      <edge id="105" source="Bondojito" target="Talismán">
+        <attvalues>
+          <attvalue for="0" value="959" />
+        </attvalues>
+      </edge>
+      <edge id="106" source="Talismán" target="Martín Carrera">
+        <attvalues>
+          <attvalue for="0" value="1129" />
+        </attvalues>
+      </edge>
+      <edge id="107" source="Martín Carrera" target="La Villa – Basílica">
+        <attvalues>
+          <attvalue for="0" value="1141" />
+        </attvalues>
+      </edge>
+      <edge id="108" source="Politécnico" target="Instituto del Petróleo">
+        <attvalues>
+          <attvalue for="0" value="1188" />
+        </attvalues>
+      </edge>
+      <edge id="109" source="Instituto del Petróleo" target="Autobuses del Norte">
+        <attvalues>
+          <attvalue for="0" value="1067" />
+        </attvalues>
+      </edge>
+      <edge id="110" source="Instituto del Petróleo" target="Vallejo">
+        <attvalues>
+          <attvalue for="0" value="755" />
+        </attvalues>
+      </edge>
+      <edge id="111" source="Instituto del Petróleo" target="Lindavista">
+        <attvalues>
+          <attvalue for="0" value="1258" />
+        </attvalues>
+      </edge>
+      <edge id="112" source="Misterios" target="Valle Gómez">
+        <attvalues>
+          <attvalue for="0" value="969" />
+        </attvalues>
+      </edge>
+      <edge id="113" source="Eduardo Molina" target="Aragón">
+        <attvalues>
+          <attvalue for="0" value="860" />
+        </attvalues>
+      </edge>
+      <edge id="114" source="Aragón" target="Oceanía">
+        <attvalues>
+          <attvalue for="0" value="1219" />
+        </attvalues>
+      </edge>
+      <edge id="115" source="Oceanía" target="Terminal Aérea">
+        <attvalues>
+          <attvalue for="0" value="1174" />
+        </attvalues>
+      </edge>
+      <edge id="116" source="Oceanía" target="Deportivo Oceanía">
+        <attvalues>
+          <attvalue for="0" value="863" />
+        </attvalues>
+      </edge>
+      <edge id="117" source="Oceanía" target="Romero Rubio">
+        <attvalues>
+          <attvalue for="0" value="809" />
+        </attvalues>
+      </edge>
+      <edge id="118" source="Terminal Aérea" target="Hangares">
+        <attvalues>
+          <attvalue for="0" value="1153" />
+        </attvalues>
+      </edge>
+      <edge id="119" source="El Rosario" target="Tezozómoc">
+        <attvalues>
+          <attvalue for="0" value="1257" />
+        </attvalues>
+      </edge>
+      <edge id="120" source="El Rosario" target="Aquíles Serdán">
+        <attvalues>
+          <attvalue for="0" value="1615" />
+        </attvalues>
+      </edge>
+      <edge id="121" source="Tezozómoc" target="Azcapotzalco">
+        <attvalues>
+          <attvalue for="0" value="973" />
+        </attvalues>
+      </edge>
+      <edge id="122" source="Azcapotzalco" target="Ferrería">
+        <attvalues>
+          <attvalue for="0" value="1173" />
+        </attvalues>
+      </edge>
+      <edge id="123" source="Ferrería" target="Norte 45">
+        <attvalues>
+          <attvalue for="0" value="1072" />
+        </attvalues>
+      </edge>
+      <edge id="124" source="Norte 45" target="Vallejo">
+        <attvalues>
+          <attvalue for="0" value="660" />
+        </attvalues>
+      </edge>
+      <edge id="125" source="Aquíles Serdán" target="Camarones">
+        <attvalues>
+          <attvalue for="0" value="1402" />
+        </attvalues>
+      </edge>
+      <edge id="126" source="Camarones" target="Refinería">
+        <attvalues>
+          <attvalue for="0" value="952" />
+        </attvalues>
+      </edge>
+      <edge id="127" source="San Joaquín" target="Polanco">
+        <attvalues>
+          <attvalue for="0" value="1163" />
+        </attvalues>
+      </edge>
+      <edge id="128" source="Polanco" target="Auditorio">
+        <attvalues>
+          <attvalue for="0" value="812" />
+        </attvalues>
+      </edge>
+      <edge id="129" source="Auditorio" target="Constituyentes">
+        <attvalues>
+          <attvalue for="0" value="1430" />
+        </attvalues>
+      </edge>
+      <edge id="130" source="San Pedro de los Pinos" target="San Antonio">
+        <attvalues>
+          <attvalue for="0" value="606" />
+        </attvalues>
+      </edge>
+      <edge id="131" source="San Antonio" target="Mixcoac">
+        <attvalues>
+          <attvalue for="0" value="788" />
+        </attvalues>
+      </edge>
+      <edge id="132" source="Mixcoac" target="Barranca del Muerto">
+        <attvalues>
+          <attvalue for="0" value="1476" />
+        </attvalues>
+      </edge>
+      <edge id="133" source="Mixcoac" target="Insurgentes Sur">
+        <attvalues>
+          <attvalue for="0" value="651" />
+        </attvalues>
+      </edge>
+      <edge id="134" source="Garibaldi" target="Lagunilla">
+        <attvalues>
+          <attvalue for="0" value="474" />
+        </attvalues>
+      </edge>
+      <edge id="135" source="Doctores" target="Obrera">
+        <attvalues>
+          <attvalue for="0" value="761" />
+        </attvalues>
+      </edge>
+      <edge id="136" source="Coyuya" target="Iztacalco">
+        <attvalues>
+          <attvalue for="0" value="993" />
+        </attvalues>
+      </edge>
+      <edge id="137" source="Iztacalco" target="Apatlaco">
+        <attvalues>
+          <attvalue for="0" value="910" />
+        </attvalues>
+      </edge>
+      <edge id="138" source="Apatlaco" target="Aculco">
+        <attvalues>
+          <attvalue for="0" value="534" />
+        </attvalues>
+      </edge>
+      <edge id="139" source="Aculco" target="Escuadrón 201">
+        <attvalues>
+          <attvalue for="0" value="789" />
+        </attvalues>
+      </edge>
+      <edge id="140" source="Escuadrón 201" target="Atlalilco">
+        <attvalues>
+          <attvalue for="0" value="1738" />
+        </attvalues>
+      </edge>
+      <edge id="141" source="Atlalilco" target="Iztapalapa">
+        <attvalues>
+          <attvalue for="0" value="732" />
+        </attvalues>
+      </edge>
+      <edge id="142" source="Atlalilco" target="Culhuacán">
+        <attvalues>
+          <attvalue for="0" value="1671" />
+        </attvalues>
+      </edge>
+      <edge id="143" source="Atlalilco" target="Mexicaltzingo">
+        <attvalues>
+          <attvalue for="0" value="1922" />
+        </attvalues>
+      </edge>
+      <edge id="144" source="Iztapalapa" target="Cerro de la Estrella">
+        <attvalues>
+          <attvalue for="0" value="717" />
+        </attvalues>
+      </edge>
+      <edge id="145" source="Cerro de la Estrella" target="UAM I">
+        <attvalues>
+          <attvalue for="0" value="1135" />
+        </attvalues>
+      </edge>
+      <edge id="146" source="UAM I" target="Constitución de 1917">
+        <attvalues>
+          <attvalue for="0" value="1137" />
+        </attvalues>
+      </edge>
+      <edge id="147" source="Puebla" target="Ciudad Deportiva">
+        <attvalues>
+          <attvalue for="0" value="800" />
+        </attvalues>
+      </edge>
+      <edge id="148" source="Ciudad Deportiva" target="Velódromo">
+        <attvalues>
+          <attvalue for="0" value="1110" />
+        </attvalues>
+      </edge>
+      <edge id="149" source="Velódromo" target="Mixiuhca">
+        <attvalues>
+          <attvalue for="0" value="821" />
+        </attvalues>
+      </edge>
+      <edge id="150" source="Chilpancingo" target="Patriotismo">
+        <attvalues>
+          <attvalue for="0" value="955" />
+        </attvalues>
+      </edge>
+      <edge id="151" source="Agrícola Oriental" target="Canal de San Juan">
+        <attvalues>
+          <attvalue for="0" value="1093" />
+        </attvalues>
+      </edge>
+      <edge id="152" source="Canal de San Juan" target="Tepalcates">
+        <attvalues>
+          <attvalue for="0" value="1456" />
+        </attvalues>
+      </edge>
+      <edge id="153" source="Tepalcates" target="Guelatao">
+        <attvalues>
+          <attvalue for="0" value="1161" />
+        </attvalues>
+      </edge>
+      <edge id="154" source="Guelatao" target="Peñón Viejo">
+        <attvalues>
+          <attvalue for="0" value="2206" />
+        </attvalues>
+      </edge>
+      <edge id="155" source="Peñón Viejo" target="Acatitla">
+        <attvalues>
+          <attvalue for="0" value="1379" />
+        </attvalues>
+      </edge>
+      <edge id="156" source="Acatitla" target="Santa Marta">
+        <attvalues>
+          <attvalue for="0" value="1100" />
+        </attvalues>
+      </edge>
+      <edge id="157" source="Santa Marta" target="Los Reyes">
+        <attvalues>
+          <attvalue for="0" value="1783" />
+        </attvalues>
+      </edge>
+      <edge id="158" source="Los Reyes" target="La Paz">
+        <attvalues>
+          <attvalue for="0" value="1956" />
+        </attvalues>
+      </edge>
+      <edge id="159" source="Ciudad Azteca" target="Plaza Aragón">
+        <attvalues>
+          <attvalue for="0" value="574" />
+        </attvalues>
+      </edge>
+      <edge id="160" source="Plaza Aragón" target="Olímpica">
+        <attvalues>
+          <attvalue for="0" value="709" />
+        </attvalues>
+      </edge>
+      <edge id="161" source="Olímpica" target="Ecatepec">
+        <attvalues>
+          <attvalue for="0" value="596" />
+        </attvalues>
+      </edge>
+      <edge id="162" source="Ecatepec" target="Múzquiz">
+        <attvalues>
+          <attvalue for="0" value="1485" />
+        </attvalues>
+      </edge>
+      <edge id="163" source="Múzquiz" target="Río de los Remedios">
+        <attvalues>
+          <attvalue for="0" value="1155" />
+        </attvalues>
+      </edge>
+      <edge id="164" source="Río de los Remedios" target="Impulsora">
+        <attvalues>
+          <attvalue for="0" value="436" />
+        </attvalues>
+      </edge>
+      <edge id="165" source="Impulsora" target="Nezahualcóyotl">
+        <attvalues>
+          <attvalue for="0" value="1393" />
+        </attvalues>
+      </edge>
+      <edge id="166" source="Nezahualcóyotl" target="Villa de Aragón">
+        <attvalues>
+          <attvalue for="0" value="1335" />
+        </attvalues>
+      </edge>
+      <edge id="167" source="Villa de Aragón" target="Bosques de Aragón">
+        <attvalues>
+          <attvalue for="0" value="784" />
+        </attvalues>
+      </edge>
+      <edge id="168" source="Bosques de Aragón" target="Deportivo Oceanía">
+        <attvalues>
+          <attvalue for="0" value="1165" />
+        </attvalues>
+      </edge>
+      <edge id="169" source="Romero Rubio" target="Ricardo Flores Magón">
+        <attvalues>
+          <attvalue for="0" value="908" />
+        </attvalues>
+      </edge>
+      <edge id="170" source="Tepito" target="Lagunilla">
+        <attvalues>
+          <attvalue for="0" value="611" />
+        </attvalues>
+      </edge>
+      <edge id="171" source="Tláhuac" target="Tlaltenco">
+        <attvalues>
+          <attvalue for="0" value="1298" />
+        </attvalues>
+      </edge>
+      <edge id="172" source="Tlaltenco" target="Zapotitlán">
+        <attvalues>
+          <attvalue for="0" value="1115" />
+        </attvalues>
+      </edge>
+      <edge id="173" source="Zapotitlán" target="Nopalera">
+        <attvalues>
+          <attvalue for="0" value="1276" />
+        </attvalues>
+      </edge>
+      <edge id="174" source="Nopalera" target="Olivos">
+        <attvalues>
+          <attvalue for="0" value="1360" />
+        </attvalues>
+      </edge>
+      <edge id="175" source="Olivos" target="Tezonco">
+        <attvalues>
+          <attvalue for="0" value="490" />
+        </attvalues>
+      </edge>
+      <edge id="176" source="Tezonco" target="Periférico Oriente">
+        <attvalues>
+          <attvalue for="0" value="1545" />
+        </attvalues>
+      </edge>
+      <edge id="177" source="Periférico Oriente" target="Calle 11">
+        <attvalues>
+          <attvalue for="0" value="1111" />
+        </attvalues>
+      </edge>
+      <edge id="178" source="Calle 11" target="Lomas Estrella">
+        <attvalues>
+          <attvalue for="0" value="906" />
+        </attvalues>
+      </edge>
+      <edge id="179" source="Lomas Estrella" target="San Andrés Tomatlán">
+        <attvalues>
+          <attvalue for="0" value="1060" />
+        </attvalues>
+      </edge>
+      <edge id="180" source="San Andrés Tomatlán" target="Culhuacán">
+        <attvalues>
+          <attvalue for="0" value="990" />
+        </attvalues>
+      </edge>
+      <edge id="181" source="Eje Central" target="Parque de los Venados">
+        <attvalues>
+          <attvalue for="0" value="1280" />
+        </attvalues>
+      </edge>
+      <edge id="182" source="Hospital 20 de Noviembre" target="Insurgentes Sur">
+        <attvalues>
+          <attvalue for="0" value="725" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>

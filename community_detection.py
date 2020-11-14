@@ -12,15 +12,15 @@ def spectralPartitioning(G,n=None,**kwargs):
         model = SpectralClustering(affinity="precomputed",**kwargs)
     else:
         model = SpectralClustering(n,affinity="precomputed",**kwargs)
-    fit = model.fit()
+    fit = model.fit(mat)
     return {n:fit.labels_[i] for i,n in enumerate(G.nodes())}
 
-def hierarchicalPartitioning(G,n,**kwargs):
+def hierarchicalPartitioning(G,n=None,**kwargs):
     mat = nx.to_numpy_matrix(G)
     if n is None:
-        model = AgglomerativeClustering(n,**kwargs)
-    else:
         model = AgglomerativeClustering(**kwargs)
+    else:
+        model = AgglomerativeClustering(n,**kwargs)
     fit = model.fit(mat)
     return {n:fit.labels_[i] for i,n in enumerate(G.nodes())}
 
