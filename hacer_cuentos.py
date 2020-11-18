@@ -27,12 +27,11 @@ Un día, un pequeño venado bebía agua de un río cuando escuchó sonidos extra
 
 Corrió veloz, del miedo tropezó, una flecha fue ayudada por el viento para herirlo, pero en ese momento resbaló y cayó dentro de una cueva oculta por matorrales.
 
-Al caer, su pata empezó a sangrar; escuchó de nuevo las voces de
-personas, intento levantarse pero el dolor no se lo permitió.
+Al caer, su pata empezó a sangrar; escuchó de nuevo las voces de personas, intento levantarse pero el dolor no se lo permitió.
 
 El venado lamió su pata, aun cuando ya no tenía saliva, la sed lo mataba lentamente pero a unos metros notó que había agua, se arrastró a ella poco a poco.
 
-Pasaron días, y él permaneció recostado, sin poderse levantar por el miedo a que los cazadores estuvieran fuera de la cueva. 
+Pasaron días, y él permaneció recostado, sin poderse levantar por el miedo a que los cazadores estuvieran fuera de la cueva.
 
 Hasta que tuvo el valor y salió, se dio cuenta que su piel ya no era igual, había dejado de ser clara y estaba llena de manchas que parecían entradas de cuevas, su piel había sido abrazada y cubierta por la tierra.''')
 
@@ -102,9 +101,7 @@ Por eso siempre los niños deben cargar en su cabeza canastos o chiquihuites par
 
 cuento7_es=str(''' El murciélago de colores.
 
-Sabías que hubo un tiempo en que el murciélago tuvo plumas?
-
-Cada mañana el murciélago miraba a cada ave volar y estas tenían hermosos colores. Tanta admiración les tenía que un día decidió volar a cada nido y les pidió que le obsequiaran una de sus plumas.
+¿Sabías que hubo un tiempo en que el murciélago tuvo plumas?Cada mañana el murciélago miraba a cada ave volar y estas tenían hermosos colores. Tanta admiración les tenía que un día decidió volar a cada nido y les pidió que le obsequiaran una de sus plumas.
 
 Al llegar la noche había recolectado tantas, que se unto resina de árbol y las coloco en todo su cuerpo, Múltiples colores lo abrazaban, al esparcir semillas y aletear formaba arcoíris. Las aves lo miraban feliz, y se sentían contentas por haberlo ayudado.
 
