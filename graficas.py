@@ -36,42 +36,36 @@ def plotLogLog(xs,ys,ax,fit=True,norm=True):
         plotLogLogFit(xs,ysfit,fit,ax)
 
 
-def plotBinnedDegreeDistributions(G,axs,bins=20,fit=False,norm=True,remove_zeros=True):
-    if type(G) == nx.classes.digraph.DiGraph:
-        degs = ["degree","in_degree","out_degree"]
-    else:
-        degs = ["degree"]
-    for i,deg in enumerate(degs):
-        ax = axs.ravel()[i]
-        func = getattr(G,deg)
-        degreeSequence = sorted([d for n,d in func()])
-        m1 = degreeSequence[0]
-        m2 = degreeSequence[-1]
-        if m1==0:
-            m1=1
+def plotDistribution(degreeSequence,ax,bins=20,fit=False,norm=True,log=True):
+    m1 = np.min(degreeSequence)
+    m2 = np.max(degreeSequence)
+    if m1==0:
+        m1=1
+    if log:
         A = np.logspace(np.log10(m1),np.log10(m2),bins)
-        if norm:
-            weights = np.ones_like(degreeSequence) / float(len(degreeSequence))
-            B = ax.hist(degreeSequence,bins=A,ec="k",weights=weights)
-            ax.set_ylabel("Normalized frecuency")
-        else: 
-            B = ax.hist(degreeSequence,bins=A,ec="k")
-            ax.set_ylabel("Frecuency")
-        indexes = [i for i in range(len(A)-1) if B[0][i] > 0]
-        xs = [(A[i]+A[i+1])/2 for i in indexes]
-        ys = [B[0][i] for i in indexes]
+    else:
+        A = np.linspace(m1,m2,bins)
+    if norm:
+        #weights = np.ones_like(degreeSequence) / float(len(degreeSequence))
+        B = ax.hist(degreeSequence,bins=A,ec="k",density=True)
+        ax.set_ylabel("Normalized frecuency")
+    else: 
+        B = ax.hist(degreeSequence,bins=A,ec="k")
+        ax.set_ylabel("Frecuency")
+    indexes = [i for i in range(len(A)-1) if B[0][i] > 0]
+    xs = [(A[i]+A[i+1])/2 for i in indexes]
+    ys = [B[0][i] for i in indexes]
+    if log:
         fit, ysfit = makeLogLogFit(xs,ys)
         plotLogLogFit(xs,ysfit,fit,ax)
         ax.set_xscale("log")
         ax.set_yscale("log")
-        ax.set_xlabel("Degree")
-        ax.set_title("{0} \n binned distribution".format(deg.replace("_"," ")))
-        ax.grid()
+    ax.grid()
 
 def degree(G):
     return dict(G.degree())
 
-def plotStatistics(G,funcs=[degree,nx.clustering,nx.closeness_centrality,nx.betweenness_centrality,nx.eigenvector_centrality_numpy,nx.pagerank_numpy],axs=None,vals=None):
+def plotStatisticsNx(G,funcs=[degree,nx.clustering,nx.closeness_centrality,nx.betweenness_centrality,nx.eigenvector_centrality_numpy,nx.pagerank_numpy],axs=None,vals=None):
     if axs is None:
         rows = int(np.ceil(len(funcs)/2))
         fig,axs = plt.subplots(nrows=rows,ncols=2,figsize=(12,12))

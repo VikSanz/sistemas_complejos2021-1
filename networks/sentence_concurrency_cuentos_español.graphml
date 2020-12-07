@@ -1,1035 +1,776 @@
 <?xml version='1.0' encoding='utf-8'?>
-<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="tlamach"/>
-<node id="tonajle"/>
-<node id="calake"/>
-<node id="huelis"/>
-<node id="kalaque"/>
-<node id="hueltika"/>
-<node id="ijotl"/>
-<node id="chijkahuak"/>
-<node id="tlalchantin"/>
-<node id="apismique"/>
-<node id="tepalcate"/>
-<node id="tecolotl"/>
-<node id="tikin"/>
-<node id="tecoco"/>
-<node id="pepejchosia"/>
-<node id="shoquinejque"/>
-<node id="itlapech"/>
-<node id="yolotl"/>
-<node id="icamilak"/>
-<node id="kon"/>
-<node id="ichpochtli"/>
-<node id="majka"/>
-<node id="cuilque"/>
-<node id="Ijno"/>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><graph edgedefault="directed"><node id="teyaochihuani"/>
+<node id="nequiya"/>
 <node id="nobilan"/>
-<node id="Makabilistle"/>
-<node id="leche"/>
-<node id="tejmocha"/>
-<node id="esquischaya"/>
-<node id="tlaltin"/>
-<node id="nemis"/>
-<node id="sejme"/>
-<node id="kahuile"/>
-<node id="nochi"/>
-<node id="ojnekuistik"/>
-<node id="chantle"/>
-<node id="chopantla"/>
-<node id="quicelia"/>
-<node id="Nijman"/>
-<node id="nanahualtin"/>
-<node id="tsontekomatl"/>
-<node id="tlapalo"/>
-<node id="chicahuame"/>
-<node id="nemiliya"/>
-<node id="tlicojtle"/>
-<node id="siuatl"/>
-<node id="kuaka"/>
-<node id="miquiya"/>
-<node id="chijne"/>
-<node id="caman"/>
-<node id="quijtetemoya"/>
-<node id="patlanchaya"/>
-<node id="ichcatl"/>
-<node id="cojtli"/>
-<node id="o"/>
-<node id="Aman"/>
-<node id="yuto"/>
-<node id="yajua"/>
-<node id="quilkahua"/>
-<node id="chichikque"/>
-<node id="atl"/>
-<node id="Quimichpapalotl"/>
-<node id="kuelijtaya"/>
-<node id="quitas"/>
-<node id="ayoyotes"/>
-<node id="tepecme"/>
-<node id="mikilistle"/>
-<node id="tinochime"/>
-<node id="quitkitineme"/>
-<node id="yolkame"/>
-<node id="maquilia"/>
-<node id="vez"/>
-<node id="piltsintli"/>
-<node id="miquisia"/>
-<node id="pajnohua"/>
-<node id="huelisia"/>
-<node id="Temiquilistle"/>
-<node id="katlsin"/>
-<node id="Niman"/>
-<node id="chantiya"/>
-<node id="chik"/>
-<node id="tlaktikpajtle"/>
-<node id="nijaman"/>
-<node id="quin"/>
-<node id="tlayobacha"/>
-<node id="ichtequilia"/>
-<node id="nechicoilitaya"/>
-<node id="mijtisia"/>
-<node id="Hutzilli"/>
-<node id="chibilia"/>
-<node id="unpa"/>
-<node id="quisas"/>
-<node id="maquia"/>
-<node id="noj"/>
-<node id="men"/>
-<node id="kuaitl"/>
-<node id="statsijya"/>
-<node id="los"/>
-<node id="yajuame"/>
-<node id="nonakastlan"/>
-<node id="tikualoj"/>
-<node id="tejuan"/>
-<node id="cajuque"/>
-<node id="tepuztlahcuilolli"/>
-<node id="ijquiyana"/>
-<node id="mojtia"/>
-<node id="shok"/>
-<node id="shihueliya"/>
-<node id="ijtoba"/>
-<node id="nantlin"/>
-<node id="majkaya"/>
-<node id="Mictlantecuhtli"/>
-<node id="pijya"/>
-<node id="palehuiya"/>
-<node id="cajkateba"/>
-<node id="yojlo"/>
-<node id="cualohua"/>
-<node id="kualo"/>
-<node id="atejtle"/>
 <node id="calaquisque"/>
-<node id="Cobame"/>
-<node id="ovel"/>
-<node id="las"/>
-<node id="te"/>
-<node id="shine"/>
-<node id="holinia"/>
-<node id="patlanis"/>
-<node id="Nijci"/>
-<node id="ifigome"/>
-<node id="bescachaya"/>
-<node id="cuenta"/>
-<node id="totome"/>
-<node id="panochajque"/>
-<node id="jlo"/>
-<node id="nojcop"/>
-<node id="tejtechojque"/>
-<node id="sakainka"/>
-<node id="nojcochile"/>
-<node id="tiquín"/>
-<node id="panoban"/>
-<node id="chichiltic"/>
-<node id="patlanijya"/>
-<node id="nojmotie"/>
-<node id="Nijuan"/>
-<node id="kuahuitl"/>
-<node id="miyek"/>
-<node id="nahuate"/>
-<node id="nojtoba"/>
-<node id="quijtaya"/>
-<node id="tlamachquintojliaya"/>
-<node id="mexcoyo"/>
-<node id="ikamilak"/>
-<node id="quistile"/>
-<node id="ijon"/>
-<node id="mastika"/>
-<node id="queinque"/>
-<node id="imaztlacapal"/>
-<node id="cimalli"/>
-<node id="sentel"/>
-<node id="icolapil"/>
-<node id="de"/>
-<node id="chokche"/>
-<node id="Kuajon"/>
-<node id="suchyulis"/>
-<node id="totocka"/>
-<node id="shitipaluhuijya"/>
-<node id="ifime"/>
-<node id="Nojtoba"/>
-<node id="pek"/>
-<node id="kuikachacia"/>
-<node id="ajakatl"/>
-<node id="kalsakuas"/>
-<node id="i"/>
-<node id="ijtl"/>
-<node id="tlakame"/>
-<node id="icoconehua"/>
-<node id="onka"/>
-<node id="Shiquitacan"/>
-<node id="kake"/>
-<node id="mikitlistle"/>
-<node id="paraijcon"/>
-<node id="pijpiya"/>
-<node id="kuak"/>
-<node id="ilnamiqui"/>
-<node id="cuajque"/>
-<node id="makaske"/>
-<node id="huehuecoyotl"/>
-<node id="nakastlan"/>
-<node id="sajse"/>
-<node id="huele"/>
-<node id="ijchihuan"/>
-<node id="ikamitlak"/>
-<node id="ic"/>
-<node id="ijuitl"/>
-<node id="tliltic"/>
-<node id="tequitilchaya"/>
-<node id="quicak"/>
-<node id="cuero"/>
-<node id="Leche"/>
-<node id="tliquine"/>
-<node id="yatka"/>
-<node id="casique"/>
-<node id="tineme"/>
-<node id="tloyobachas"/>
-<node id="kokoya"/>
-<node id="huajlobe"/>
-<node id="ijqueinque"/>
-<node id="kualcan"/>
-<node id="tequitl"/>
-<node id="maztlacapalban"/>
-<node id="saque"/>
-<node id="hueskatineme"/>
-<node id="aquin"/>
-<node id="Yokatsoli"/>
-<node id="Ijkon"/>
-<node id="a"/>
-<node id="Tsopilotl"/>
-<node id="mictlantecuhtli"/>
-<node id="quimichpapalotl"/>
-<node id="nantli"/>
-<node id="guachichil"/>
-<node id="nijma"/>
-<node id="poloba"/>
-<node id="sankaika"/>
-<node id="huejkapan"/>
-<node id="chantijya"/>
-<node id="itlanquis"/>
-<node id="chicabamacak"/>
-<node id="chichinia"/>
-<node id="ponaltijque"/>
-<node id="huicas"/>
-<node id="Papalotl"/>
-<node id="tajke"/>
-<node id="nopachos"/>
-<node id="etiya"/>
-<node id="shitneke"/>
-<node id="nes"/>
-<node id="tlayoquilikan"/>
-<node id="nakaxhuan"/>
-<node id="k"/>
+<node id="Jotba"/>
+<node id="ojnekuistik"/>
 <node id="soxsapa"/>
-<node id="atecocolis"/>
-<node id="Xolotl"/>
-<node id="cuelitaya"/>
-<node id="Quijtoka"/>
-<node id="tlayajya"/>
-<node id="pinabiste"/>
-<node id="cochiya"/>
-<node id="kuelilia"/>
-<node id="kualtzin"/>
-<node id="chatl"/>
-<node id="antes"/>
+<node id="Cempaxuchitl"/>
+<node id="ijlique"/>
+<node id="molak"/>
+<node id="temilte"/>
+<node id="san"/>
+<node id="patlane"/>
+<node id="kuak"/>
+<node id="tlacha"/>
+<node id="chichiltic"/>
+<node id="quijtaya"/>
+<node id="cajkateba"/>
+<node id="ijyon"/>
 <node id="kakiskemasque"/>
-<node id="chijcoba"/>
-<node id="calakchaya"/>
-<node id="chanti"/>
-<node id="tlatequiya"/>
-<node id="tlajyobacha"/>
-<node id="O"/>
-<node id="telos"/>
-<node id="piyome"/>
-<node id="tonali"/>
-<node id="tlajtolte"/>
-<node id="ampa"/>
-<node id="zomatl"/>
-<node id="pajtlane"/>
-<node id="iztlan"/>
-<node id="ijin"/>
-<node id="Ikamilak"/>
-<node id="chicabaca"/>
-<node id="yehuailhuia"/>
-<node id="nave"/>
-<node id="to"/>
-<node id="temastike"/>
-<node id="mastlacapal"/>
-<node id="nomiquilia"/>
-<node id="tlamomotilo"/>
-<node id="inantli"/>
+<node id="tojtiaba"/>
+<node id="shitipaluhuijya"/>
+<node id="Ztatze"/>
+<node id="in"/>
+<node id="soksapa"/>
+<node id="nanakatl"/>
+<node id="majtie"/>
+<node id="Paquilistle"/>
+<node id="nesjtle"/>
+<node id="kuaitl"/>
+<node id="choquilistle"/>
+<node id="se"/>
+<node id="noche"/>
+<node id="siuatl"/>
+<node id="kalaque"/>
+<node id="ijon"/>
+<node id="tlanestilia"/>
+<node id="cakis"/>
+<node id="ic"/>
+<node id="quicak"/>
+<node id="icamilak"/>
+<node id="chijkahuak"/>
+<node id="no"/>
+<node id="aquin"/>
+<node id="tijneme"/>
+<node id="antes"/>
+<node id="tlaskaltis"/>
+<node id="kuakuajle"/>
+<node id="niman"/>
+<node id="tlajtolijque"/>
 <node id="ichichihual"/>
-<node id="Quin"/>
-<node id="kuilque"/>
-<node id="nojkopque"/>
-<node id="uyatlka"/>
-<node id="tzitzimime"/>
-<node id="nijman"/>
-<node id="xoch"/>
+<node id="Ichtequilia"/>
+<node id="sejme"/>
+<node id="sentel"/>
+<node id="sakainka"/>
+<node id="tlatequiya"/>
+<node id="kistinemiya"/>
+<node id="tmakase"/>
+<node id="majuan"/>
+<node id="las"/>
+<node id="huehuecoyotl"/>
+<node id="ikamilak"/>
+<node id="tes"/>
+<node id="cihuapilli"/>
+<node id="saquen"/>
+<node id="ocualan"/>
+<node id="ixhua"/>
+<node id="manyas"/>
+<node id="kuilia"/>
+<node id="quilkahua"/>
+<node id="tonalzintle"/>
+<node id="queinue"/>
+<node id="oqui"/>
+<node id="Kuikacha"/>
+<node id="Tlaxlahue"/>
+<node id="leche"/>
+<node id="campa"/>
+<node id="mas"/>
+<node id="chichijque"/>
+<node id="tlanechtilia"/>
+<node id="chichikque"/>
+<node id="nojcop"/>
+<node id="nacayotl"/>
+<node id="nojcochile"/>
+<node id="kokoya"/>
+<node id="icpan"/>
+<node id="iteco"/>
+<node id="nemiliaya"/>
+<node id="Quimichpapalotl"/>
+<node id="shukualoba"/>
+<node id="nomiquilia"/>
+<node id="que"/>
+<node id="neltoka"/>
+<node id="tlamijya"/>
+<node id="tlajxochipone"/>
+<node id="tlamach"/>
+<node id="cojtli"/>
+<node id="nic"/>
 <node id="mique"/>
+<node id="tlajcoya"/>
+<node id="quicua"/>
+<node id="kuajli"/>
+<node id="tlayobachak"/>
+<node id="maquilia"/>
+<node id="kampa"/>
+<node id="patlanijya"/>
+<node id="tonajli"/>
+<node id="kuatli"/>
+<node id="Mictlan"/>
+<node id="amiquilla"/>
+<node id="nijpiya"/>
+<node id="tikin"/>
+<node id="mijque"/>
+<node id="ejko"/>
+<node id="tlalnechojtla"/>
+<node id="camapa"/>
+<node id="quitak"/>
+<node id="tsopilotl"/>
+<node id="tlapoba"/>
+<node id="nejmilia"/>
+<node id="mictlantecuhtli"/>
+<node id="nijman"/>
+<node id="ti"/>
+<node id="nojtotis"/>
+<node id="tijpalehuiya"/>
+<node id="kuikachacia"/>
+<node id="nejquia"/>
+<node id="ijuitl"/>
+<node id="tlicojtle"/>
+<node id="techpajtiya"/>
+<node id="kuilque"/>
+<node id="atejtle"/>
+<node id="tlaltin"/>
+<node id="tequitl"/>
+<node id="shok"/>
+<node id="ampa"/>
+<node id="Noteismatkauan"/>
+<node id="moxtle"/>
+<node id="itlapech"/>
+<node id="nojmotie"/>
+<node id="tepec"/>
+<node id="Nijman"/>
+<node id="chajte"/>
+<node id="oquis"/>
+<node id="icuero"/>
+<node id="cuajque"/>
+<node id="nemijya"/>
+<node id="ipan"/>
+<node id="tepecme"/>
+<node id="tlayohuachas"/>
+<node id="ojuel"/>
+<node id="tlajcolcha"/>
+<node id="Quijtoka"/>
+<node id="unpa"/>
+<node id="nantlin"/>
+<node id="ijquiyana"/>
+<node id="Nojtoba"/>
+<node id="chochokasi"/>
+<node id="atecocolis"/>
+<node id="Se"/>
+<node id="kochisneke"/>
+<node id="iztak"/>
+<node id="katlsin"/>
+<node id="tlailli"/>
+<node id="mexcoyo"/>
+<node id="tlajtipantli"/>
+<node id="tetecoyome"/>
+<node id="neltokaya"/>
+<node id="quiyahuak"/>
+<node id="cecepan"/>
+<node id="imaztlacapal"/>
+<node id="nomojti"/>
+<node id="Shiquitacan"/>
+<node id="koli"/>
+<node id="tojca"/>
+<node id="nokop"/>
+<node id="tehuaquiya"/>
+<node id="shiquimakase"/>
+<node id="chichihuilixka"/>
+<node id="noyque"/>
+<node id="palejue"/>
+<node id="nets"/>
+<node id="chokche"/>
+<node id="ijin"/>
+<node id="huicas"/>
+<node id="caman"/>
+<node id="sayanka"/>
+<node id="tepalcate"/>
+<node id="nahuate"/>
+<node id="quijtoba"/>
+<node id="itas"/>
+<node id="nesiya"/>
+<node id="cojolinaya"/>
+<node id="chichinia"/>
+<node id="o"/>
+<node id="zinzintle"/>
+<node id="netequipacholli"/>
+<node id="tzitzimime"/>
+<node id="piyome"/>
+<node id="ilaman"/>
+<node id="huelisia"/>
+<node id="shoquinejque"/>
+<node id="tatzi"/>
+<node id="hora"/>
+<node id="pijya"/>
+<node id="tlaquille"/>
+<node id="konichaya"/>
+<node id="Tlakame"/>
+<node id="ijkalaque"/>
+<node id="cajuque"/>
+<node id="kuelijtaya"/>
+<node id="Xolotl"/>
+<node id="malinalli"/>
+<node id="yo"/>
+<node id="tlaktikpajtle"/>
+<node id="cochis"/>
+<node id="ui"/>
+<node id="kualohua"/>
+<node id="sankaika"/>
+<node id="Mazatl"/>
+<node id="Chopilin"/>
+<node id="chichihuaya"/>
+<node id="onka"/>
+<node id="tojcaya"/>
+<node id="casij"/>
+<node id="patlan"/>
+<node id="sakua"/>
+<node id="ichkaman"/>
+<node id="cuilque"/>
+<node id="atlis"/>
+<node id="cuicaanqui"/>
+<node id="quisas"/>
+<node id="tecpehualli"/>
+<node id="majka"/>
+<node id="siquime"/>
+<node id="quichteque"/>
+<node id="ifigome"/>
+<node id="de"/>
+<node id="kon"/>
+<node id="xihuntic"/>
+<node id="iten"/>
+<node id="apismique"/>
+<node id="copajli"/>
+<node id="casis"/>
+<node id="pajnohua"/>
+<node id="nabacha"/>
+<node id="k"/>
+<node id="choyatka"/>
+<node id="cuajle"/>
+<node id="macasiya"/>
+<node id="nave"/>
+<node id="ilnamiqui"/>
+<node id="cuelitaya"/>
+<node id="notlalque"/>
+<node id="cuero"/>
 <node id="pakis"/>
-<node id="Okichtli"/>
+<node id="quitas"/>
 <node id="nisi"/>
 <node id="Yojme"/>
-<node id="moxtle"/>
-<node id="tlapoba"/>
-<node id="bajquichas"/>
-<node id="tehuaquiya"/>
-<node id="Tla"/>
-<node id="notlalque"/>
-<node id="kueltlalya"/>
-<node id="tlasketili"/>
-<node id="cujli"/>
-<node id="tilcuates"/>
-<node id="temilte"/>
-<node id="nochipa"/>
-<node id="tlajtolijque"/>
-<node id="sokyatka"/>
-<node id="noche"/>
-<node id="quisteque"/>
-<node id="Ihqui"/>
-<node id="Se"/>
-<node id="tlatlchan"/>
-<node id="tlajtipantli"/>
-<node id="kampa"/>
-<node id="nic"/>
-<node id="hueyetepec"/>
-<node id="mictlan"/>
-<node id="nets"/>
-<node id="talpalli"/>
-<node id="kistinemiya"/>
-<node id="kuakuajle"/>
-<node id="tojcaya"/>
-<node id="ijkalaque"/>
-<node id="majkatia"/>
-<node id="ikamitlac"/>
-<node id="ikamitl"/>
-<node id="ixehuia"/>
-<node id="nokojkochaya"/>
-<node id="yo"/>
-<node id="ijkon"/>
-<node id="ui"/>
-<node id="piyatka"/>
-<node id="Ipan"/>
-<node id="nomojti"/>
-<node id="tijpalehuiya"/>
-<node id="ikanpa"/>
-<node id="kakistes"/>
-<node id="tlanextika"/>
-<node id="yomijque"/>
-<node id="tlajli"/>
-<node id="tlamiquilistle"/>
-<node id="iteco"/>
-<node id="soksiquime"/>
-<node id="tlajpak"/>
-<node id="nejsiya"/>
-<node id="tlajcoba"/>
-<node id="nijuan"/>
-<node id="nemitlistle"/>
-<node id="Tlapalli"/>
-<node id="xochimeyallotl"/>
-<node id="costebaya"/>
-<node id="tlapopose"/>
-<node id="sheyule"/>
-<node id="kualohua"/>
-<node id="oquis"/>
-<node id="icamitlak"/>
-<node id="pitensi"/>
-<node id="Tlaxlahue"/>
-<node id="shoksapa"/>
-<node id="najpaloya"/>
-<node id="choìlin"/>
-<node id="matijya"/>
-<node id="papalotl"/>
-<node id="Tlakatl"/>
-<node id="tlacha"/>
-<node id="zitlalime"/>
-<node id="hutzilli"/>
-<node id="chanikahuan"/>
-<node id="impa"/>
-<node id="chopanmiquilistle"/>
-<node id="ninman"/>
-<node id="tiacauh"/>
-<node id="ikxitl"/>
-<node id="tlailli"/>
-<node id="maztlakalpan"/>
-<node id="cualanijya"/>
-<node id="mijquilisia"/>
-<node id="icualak"/>
-<node id="nojolinaya"/>
-<node id="tlakuas"/>
-<node id="itoka"/>
-<node id="nesiya"/>
-<node id="costebas"/>
-<node id="tonaltzintle"/>
-<node id="siutl"/>
-<node id="nokop"/>
-<node id="ni"/>
-<node id="pijyatka"/>
-<node id="shiquimakase"/>
-<node id="imastlacapalban"/>
-<node id="stmete"/>
-<node id="Tlaxque"/>
-<node id="quisa"/>
-<node id="nejmilia"/>
-<node id="choquilistle"/>
-<node id="quijtoba"/>
-<node id="manyas"/>
-<node id="ijme"/>
-<node id="ocualan"/>
-<node id="maxque"/>
-<node id="iztac"/>
-<node id="pitenzi"/>
-<node id="majtiya"/>
-<node id="ti"/>
-<node id="ichan"/>
-<node id="cuajli"/>
-<node id="para"/>
-<node id="patlan"/>
-<node id="tsopilotl"/>
-<node id="nenemilistli"/>
-<node id="panos"/>
-<node id="tajuame"/>
-<node id="Cuero"/>
-<node id="tlajcoya"/>
-<node id="ijyon"/>
-<node id="hasta"/>
-<node id="umpa"/>
-<node id="tes"/>
-<node id="tlajlile"/>
-<node id="tojnaltin"/>
-<node id="tlahuejle"/>
-<node id="casis"/>
-<node id="atlis"/>
-<node id="Tilcuates"/>
-<node id="huejca"/>
-<node id="neltokaya"/>
-<node id="Man"/>
-<node id="ifiyo"/>
-<node id="cojtle"/>
-<node id="shukualoba"/>
-<node id="itazke"/>
-<node id="queinue"/>
-<node id="tlikuilcha"/>
-<node id="mijque"/>
-<node id="nacayotl"/>
-<node id="ipan"/>
-<node id="netequipacholli"/>
-<node id="casij"/>
-<node id="quitaya"/>
-<node id="tetecoyome"/>
-<node id="quijpiya"/>
-<node id="inon"/>
-<node id="Ti"/>
-<node id="Quijtoba"/>
-<node id="tekache"/>
-<node id="shenese"/>
-<node id="Paquilistle"/>
-<node id="ixhua"/>
-<node id="huika"/>
-<node id="kaman"/>
-<node id="tlaskaltis"/>
-<node id="Nejcos"/>
-<node id="chantia"/>
-<node id="cua"/>
-<node id="okichtli"/>
-<node id="tlastoque"/>
-<node id="cuicaanqui"/>
-<node id="calaque"/>
-<node id="aka"/>
-<node id="saquen"/>
-<node id="kochisneke"/>
-<node id="tlajkahuilo"/>
-<node id="pajke"/>
-<node id="campa"/>
-<node id="panoba"/>
-<node id="Ztatze"/>
-<node id="ijtosnequiya"/>
-<node id="yolkatl"/>
-<node id="y"/>
-<node id="chante"/>
-<node id="Jotba"/>
-<node id="huisio"/>
-<node id="chichiquiliztzatzi"/>
-<node id="tlapalli"/>
-<node id="ma"/>
-<node id="patlanque"/>
-<node id="ojnenque"/>
-<node id="qui"/>
-<node id="palehuijke"/>
-<node id="itzpapalotl"/>
-<node id="nojtotis"/>
-<node id="To"/>
-<node id="mate"/>
-<node id="nemiliaya"/>
-<node id="tlanechtilia"/>
-<node id="nij"/>
-<node id="chichihua"/>
-<node id="neme"/>
-<node id="tlayohuachas"/>
-<node id="koko"/>
-<node id="kasise"/>
-<node id="Kuak"/>
-<node id="kalaquiya"/>
-<node id="niman"/>
-<node id="uelex"/>
-<node id="untlacha"/>
-<node id="icotlapil"/>
-<node id="chajte"/>
-<node id="Ic"/>
-<node id="tlajcolcha"/>
-<node id="sayanka"/>
-<node id="Chopilin"/>
-<node id="tonaltin"/>
-<node id="macasiya"/>
 <node id="temictli"/>
-<node id="iztak"/>
-<node id="chichi"/>
-<node id="quita"/>
-<node id="colapitll"/>
-<node id="tlamiquilistli"/>
-<node id="siqui"/>
-<node id="sacayka"/>
-<node id="kuaxihui"/>
-<node id="makaque"/>
-<node id="cihuapilli"/>
-<node id="ztoztona"/>
-<node id="nojkopa"/>
-<node id="ikamitak"/>
-<node id="quiyahuak"/>
-<node id="se"/>
-<node id="pepechole"/>
-<node id="nijkan"/>
-<node id="ome"/>
-<node id="ijuan"/>
-<node id="tlalo"/>
-<node id="ixkapan"/>
-<node id="aman"/>
-<node id="Tlajtolia"/>
-<node id="ijche"/>
-<node id="Ichtequilia"/>
-<node id="nijpiya"/>
-<node id="nojyan"/>
-<node id="okojoline"/>
-<node id="Meztli"/>
-<node id="tojtiaba"/>
-<node id="Kampa"/>
-<node id="nabacha"/>
-<node id="maka"/>
-<node id="tan"/>
-<node id="tlacua"/>
-<node id="sotlane"/>
-<node id="icpan"/>
-<node id="tlaquille"/>
-<node id="quitke"/>
-<node id="huehuemexihcayutl"/>
-<node id="jade"/>
-<node id="ayajua"/>
-<node id="teka"/>
-<node id="ica"/>
-<node id="quijnenehueque"/>
-<node id="Kuikacha"/>
-<node id="takliliaya"/>
-<node id="ijyo"/>
-<node id="mitlak"/>
-<node id="ican"/>
-<node id="noijque"/>
-<node id="tlayohuacha"/>
-<node id="sakua"/>
-<node id="cakis"/>
-<node id="konetl"/>
-<node id="mas"/>
-<node id="tijneme"/>
-<node id="Mictlan"/>
-<node id="chichihuilixka"/>
-<node id="patlane"/>
-<node id="huyatka"/>
-<node id="tmakase"/>
-<node id="kecholi"/>
-<node id="quis"/>
-<node id="tlalnechojtla"/>
-<node id="cobame"/>
-<node id="Cascabel"/>
-<node id="nequiya"/>
-<node id="milak"/>
-<node id="ejko"/>
-<node id="hora"/>
-<node id="kitas"/>
-<node id="Chichi"/>
-<node id="quentla"/>
-<node id="konichaya"/>
-<node id="nochiapa"/>
-<node id="chok"/>
-<node id="tecpehualli"/>
-<node id="ojuel"/>
-<node id="camapa"/>
-<node id="panoque"/>
-<node id="nejme"/>
-<node id="majaciya"/>
-<node id="kitajya"/>
-<node id="catzahualiztli"/>
-<node id="choyatka"/>
-<node id="chichihuaya"/>
-<node id="cueltlaliya"/>
-<node id="kuikacha"/>
-<node id="oztotl"/>
-<node id="majtie"/>
-<node id="xolotl"/>
-<node id="Tlakame"/>
-<node id="xochime"/>
-<node id="siquime"/>
-<node id="pitelonsin"/>
-<node id="zinzintle"/>
-<node id="macak"/>
-<node id="cojolinaya"/>
-<node id="teloba"/>
-<node id="mijyek"/>
-<node id="Masque"/>
-<node id="axan"/>
-<node id="chopili"/>
-<node id="nechtijque"/>
-<node id="tlanquistle"/>
-<node id="ijquita"/>
-<node id="tlacame"/>
-<node id="quicha"/>
-<node id="guajolotes"/>
-<node id="kuatli"/>
-<node id="ixpolotl"/>
-<node id="kipiha"/>
-<node id="mazatl"/>
-<node id="chantilo"/>
-<node id="ikanochipa"/>
-<node id="xihuntic"/>
-<node id="ualex"/>
-<node id="tonalsintle"/>
-<node id="kuilia"/>
-<node id="chelolia"/>
-<node id="neltoka"/>
-<node id="sojsapa"/>
-<node id="cochis"/>
-<node id="nacayo"/>
+<node id="ayoyotes"/>
 <node id="tlajtolia"/>
-<node id="kuajli"/>
-<node id="quicua"/>
-<node id="chanikaban"/>
-<node id="panohua"/>
-<node id="cojtin"/>
-<node id="Izcalli"/>
-<node id="tlajtoliaya"/>
-<node id="itas"/>
-<node id="chochokasi"/>
-<node id="sique"/>
-<node id="ijtla"/>
-<node id="tojca"/>
-<node id="zopilot"/>
-<node id="que"/>
-<node id="Yo"/>
-<node id="Noteismatkauan"/>
-<node id="pechtle"/>
-<node id="cualtzintin"/>
-<node id="tlaquiyehuite"/>
-<node id="ijpan"/>
-<node id="casik"/>
-<node id="san"/>
-<node id="chikuitle"/>
-<node id="mijyec"/>
-<node id="atlisia"/>
-<node id="nacaztli"/>
-<node id="shan"/>
-<node id="teyaochihuani"/>
-<node id="quintlane"/>
-<node id="quitac"/>
-<node id="ichkaman"/>
-<node id="oqui"/>
-<node id="quilpisque"/>
-<node id="shichihuiliska"/>
-<node id="shiquicuilise"/>
-<node id="ijmen"/>
-<node id="ijtoka"/>
-<node id="nejquya"/>
-<node id="Tenkuluchu"/>
-<node id="no"/>
-<node id="iban"/>
-<node id="molak"/>
-<node id="cozauhtic"/>
-<node id="Ijon"/>
-<node id="teotl"/>
-<node id="tlaxochiyopone"/>
-<node id="icpa"/>
-<node id="ika"/>
-<node id="tepec"/>
-<node id="ikamitlk"/>
-<node id="sacan"/>
-<node id="copajli"/>
-<node id="man"/>
-<node id="mu"/>
-<node id="nemijya"/>
-<node id="tlakatl"/>
-<node id="jin"/>
-<node id="ijlique"/>
-<node id="paquilistle"/>
-<node id="tlajme"/>
-<node id="huejka"/>
-<node id="kun"/>
-<node id="tlayobachak"/>
-<node id="ijpanohua"/>
-<node id="tonajli"/>
-<node id="tatzi"/>
-<node id="tlanestilia"/>
-<node id="nejquia"/>
-<node id="koli"/>
-<node id="cotlapil"/>
-<node id="majuan"/>
-<node id="yuejcabiya"/>
-<node id="noyque"/>
-<node id="ilaman"/>
-<node id="carroña"/>
-<node id="amiquilla"/>
-<node id="Qui"/>
-<node id="nejuan"/>
-<node id="meztli"/>
-<node id="piyacta"/>
-<node id="nesjtle"/>
-<node id="tlaxochiponajle"/>
-<node id="kualan"/>
-<node id="emijchaya"/>
-<node id="onochaya"/>
-<node id="quichteque"/>
-<node id="maya"/>
-<node id="Mazatl"/>
-<node id="nanakatl"/>
-<node id="pitelonsi"/>
-<node id="malinalli"/>
-<node id="cuajle"/>
-<node id="Cempaxuchitl"/>
-<node id="chichijque"/>
-<node id="techpajtiya"/>
-<node id="Nochipa"/>
-<node id="obecito"/>
-<node id="cecepan"/>
-<node id="quitquinemis"/>
-<node id="kaba"/>
-<node id="in"/>
-<node id="quitak"/>
-<node id="telosque"/>
-<node id="tohua"/>
-<node id="maljuisia"/>
-<node id="sentetl"/>
-<node id="kuaxa"/>
-<node id="tunkuluchu"/>
-<node id="tlajxochipone"/>
-<node id="quitilanque"/>
-<node id="quitias"/>
-<node id="tonalzintle"/>
-<node id="tlaxque"/>
-<node id="totonia"/>
-<node id="icuero"/>
-<node id="tla"/>
 <node id="nequilistle"/>
-<node id="setlalka"/>
-<node id="chikahuak"/>
+<node id="kuahuitl"/>
+<node id="ixpolotl"/>
+<node id="kun"/>
+<node id="Tlakatl"/>
+<node id="yojlo"/>
+<node id="mastika"/>
+<node id="men"/>
+<node id="mu"/>
+<node id="mazatl"/>
+<node id="tlajcoba"/>
+<node id="chichihua"/>
+<node id="maljuisia"/>
+<node id="chichi"/>
+<node id="Kampa"/>
+<node id="chopanmiquilistle"/>
+<node id="itzpapalotl"/>
+<node id="onochaya"/>
+<node id="nijaman"/>
+<node id="ifime"/>
+<node id="qui"/>
+<node id="iban"/>
+<node id="Kuajon"/>
+<node id="O"/>
+<node id="miquiya"/>
+<node id="milak"/>
+<node id="kaman"/>
+<node id="tlaxochiponajle"/>
+<node id="ijpan"/>
+<node id="yuto"/>
+<node id="ma"/>
+<node id="matijya"/>
+<node id="Yo"/>
+<node id="tekache"/>
+<node id="Ic"/>
+<node id="ponaltijque"/>
+<node id="axan"/>
+<node id="tunkuluchu"/>
+<node id="pajke"/>
+<node id="quentla"/>
+<node id="cojtle"/>
 <node id="Pek"/>
-<node id="soksapa"/>
-<node id="ka"/>
-<node id="mixtli"/>
+<node id="cuajli"/>
+<node id="sacan"/>
+<node id="pijpiya"/>
+<node id="icamitlak"/>
+<node id="tla"/>
+<node id="nakaxhuan"/>
+<node id="Ihqui"/>
+<node id="nechicoilitaya"/>
+<node id="obecito"/>
+<node id="nojolinaya"/>
+<node id="ican"/>
+<node id="Kuak"/>
+<node id="tecoco"/>
+<node id="chanikaban"/>
+<node id="zitlalime"/>
+<node id="huyatka"/>
+<node id="tlacua"/>
+<node id="tlajyobacha"/>
+<node id="mojtia"/>
+<node id="tlanextika"/>
+<node id="tlajpak"/>
+<node id="Ijkon"/>
+<node id="tlakame"/>
+<node id="sentetl"/>
+<node id="chikahuak"/>
+<node id="jlo"/>
+<node id="Ijno"/>
+<node id="a"/>
+<node id="kualan"/>
+<node id="ijtla"/>
+<node id="aka"/>
+<node id="atl"/>
+<node id="icpa"/>
+<node id="xochimeyallotl"/>
+<node id="tejmocha"/>
+<node id="ijtoba"/>
+<node id="tonaltzintle"/>
+<node id="tineme"/>
+<node id="chicabamacak"/>
+<node id="tonaltin"/>
+<node id="impa"/>
+<node id="tlalchantin"/>
+<node id="nojkopa"/>
+<node id="umpa"/>
+<node id="panoba"/>
+<node id="holinia"/>
+<node id="te"/>
+<node id="tlakatl"/>
+<node id="Chichi"/>
+<node id="Qui"/>
+<node id="maztlacapalban"/>
+<node id="nemiliya"/>
+<node id="kuelilia"/>
+<node id="icualak"/>
+<node id="catzahualiztli"/>
+<node id="sotlane"/>
+<node id="huejkapan"/>
+<node id="sique"/>
+<node id="tajke"/>
+<node id="Nijci"/>
+<node id="tejuan"/>
+<node id="pinabiste"/>
+<node id="itazke"/>
+<node id="setlalka"/>
+<node id="tonali"/>
+<node id="quicha"/>
+<node id="pajtlane"/>
+<node id="calakchaya"/>
+<node id="ijqueinque"/>
+<node id="shiquicuilise"/>
+<node id="sokyatka"/>
+<node id="miyek"/>
+<node id="Izcalli"/>
+<node id="casik"/>
+<node id="kaba"/>
+<node id="Tenkuluchu"/>
+<node id="tlajtoliaya"/>
+<node id="ichan"/>
+<node id="shitneke"/>
+<node id="ijmen"/>
+<node id="carroña"/>
+<node id="mitlak"/>
+<node id="ijkon"/>
+<node id="ika"/>
+<node id="quis"/>
+<node id="totonia"/>
+<node id="uelex"/>
+<node id="man"/>
+<node id="quitkitineme"/>
+<node id="tlatlchan"/>
+<node id="ijpanohua"/>
+<node id="jin"/>
+<node id="esquischaya"/>
+<node id="kuaxa"/>
+<node id="ayajua"/>
+<node id="cimalli"/>
+<node id="maxque"/>
+<node id="nantli"/>
+<node id="Tlajtolia"/>
+<node id="chikuitle"/>
+<node id="talpalli"/>
+<node id="jade"/>
+<node id="nokojkochaya"/>
+<node id="tlastoque"/>
+<node id="majtiya"/>
+<node id="ijtosnequiya"/>
+<node id="queinque"/>
+<node id="tlapalo"/>
+<node id="cualanijya"/>
+<node id="noijque"/>
+<node id="makaque"/>
+<node id="nemitlistle"/>
+<node id="mate"/>
+<node id="nanahualtin"/>
+<node id="Tsopilotl"/>
+<node id="panoban"/>
+<node id="chante"/>
+<node id="tejtechojque"/>
+<node id="kualtzin"/>
+<node id="Aman"/>
+<node id="y"/>
+<node id="icoconehua"/>
+<node id="Masque"/>
+<node id="nacayo"/>
+<node id="huejka"/>
+<node id="teotl"/>
+<node id="shine"/>
+<node id="kuaxihui"/>
+<node id="palehuijke"/>
+<node id="etiya"/>
+<node id="ijche"/>
+<node id="sacayka"/>
+<node id="patlanchaya"/>
+<node id="huejca"/>
+<node id="quijpiya"/>
+<node id="mikilistle"/>
+<node id="ojnenque"/>
+<node id="okichtli"/>
+<node id="chantijya"/>
+<node id="nacaztli"/>
+<node id="nakastlan"/>
+<node id="nochiapa"/>
+<node id="Mictlantecuhtli"/>
+<node id="chantia"/>
+<node id="Quin"/>
+<node id="choìlin"/>
+<node id="miquisia"/>
+<node id="Cuero"/>
+<node id="saque"/>
+<node id="temastike"/>
+<node id="guajolotes"/>
+<node id="teka"/>
+<node id="tlajtolte"/>
+<node id="Nijuan"/>
+<node id="Okichtli"/>
+<node id="To"/>
+<node id="tlayobacha"/>
+<node id="quilpisque"/>
+<node id="yatka"/>
+<node id="panoque"/>
+<node id="icolapil"/>
+<node id="Hutzilli"/>
+<node id="cojtin"/>
+<node id="yajua"/>
+<node id="tajuame"/>
+<node id="tlaquiyehuite"/>
+<node id="takliliaya"/>
+<node id="panohua"/>
+<node id="okojoline"/>
+<node id="kalsakuas"/>
+<node id="chatl"/>
+<node id="chanti"/>
+<node id="nochi"/>
+<node id="icotlapil"/>
+<node id="iztlan"/>
+<node id="uyatlka"/>
+<node id="yuejcabiya"/>
+<node id="quicelia"/>
+<node id="ijtoka"/>
+<node id="yolotl"/>
+<node id="tlapalli"/>
+<node id="ifiyo"/>
+<node id="meztli"/>
+<node id="nejuan"/>
+<node id="ijyo"/>
+<node id="quimichpapalotl"/>
+<node id="ajakatl"/>
 <node id="ojnemitle"/>
-<node id="yomic"/>
-<node id="sanch"/>
-<node id="tlamijya"/>
-<node id="palejue"/>
-<node id="iten"/>
+<node id="tikualoj"/>
+<node id="mixtli"/>
+<node id="koko"/>
 <node id="nahua"/>
-<edge source="tonajle" target="nochipa"/>
-<edge source="tonajle" target="no"/>
-<edge source="tonajle" target="o"/>
-<edge source="calake" target="tilcuates"/>
-<edge source="huelis" target="ti"/>
-<edge source="kalaque" target="i"/>
-<edge source="kalaque" target="ichan"/>
-<edge source="hueltika" target="quin"/>
-<edge source="tlalchantin" target="qui"/>
-<edge source="tikin" target="casis"/>
-<edge source="itlapech" target="de"/>
-<edge source="yolotl" target="patlanchaya"/>
-<edge source="icamilak" target="qui"/>
-<edge source="icamilak" target="tecoco"/>
-<edge source="kon" target="itas"/>
-<edge source="majka" target="calaquisque"/>
-<edge source="majka" target="noche"/>
-<edge source="cuilque" target="ifiyo"/>
-<edge source="Ijno" target="koli"/>
+<node id="xolotl"/>
+<node id="itoka"/>
+<node id="pitenzi"/>
+<node id="quitquinemis"/>
+<node id="cualohua"/>
+<node id="kakistes"/>
+<node id="zomatl"/>
+<node id="huika"/>
+<node id="huehuemexihcayutl"/>
+<node id="tlacame"/>
+<node id="nojtoba"/>
+<node id="Meztli"/>
+<node id="tlamiquilistle"/>
+<node id="kitajya"/>
+<node id="tliquine"/>
+<node id="tiacauh"/>
+<node id="Temiquilistle"/>
+<node id="inantli"/>
+<node id="ikamitlk"/>
+<node id="kuaka"/>
+<node id="Nejcos"/>
+<node id="ualex"/>
+<node id="tlaxochiyopone"/>
+<node id="kualcan"/>
+<node id="tlasketili"/>
+<node id="quijtetemoya"/>
+<node id="tlanquistle"/>
+<node id="cochiya"/>
+<node id="sajse"/>
+<node id="telos"/>
+<node id="tsontekomatl"/>
+<node id="shenese"/>
+<node id="konetl"/>
+<node id="paquilistle"/>
+<node id="panochajque"/>
+<node id="ome"/>
+<node id="mijyek"/>
+<node id="maquia"/>
+<node id="kualo"/>
+<node id="Tlaxque"/>
+<node id="tlahuejle"/>
+<node id="sojsapa"/>
+<node id="tilcuates"/>
+<node id="ixehuia"/>
+<node id="chichiquiliztzatzi"/>
+<node id="mijtisia"/>
+<node id="mijquilisia"/>
+<node id="quin"/>
+<node id="Cascabel"/>
+<node id="pek"/>
+<node id="chicabaca"/>
+<node id="chok"/>
+<node id="chijcoba"/>
+<node id="nopachos"/>
+<node id="tloyobachas"/>
+<node id="costebas"/>
+<node id="paraijcon"/>
+<node id="piltsintli"/>
+<node id="mictlan"/>
+<node id="ka"/>
+<node id="pijyatka"/>
+<node id="tlayohuacha"/>
+<node id="Cobame"/>
+<node id="soksiquime"/>
+<node id="tlikuilcha"/>
+<node id="ijtl"/>
+<node id="cua"/>
+<node id="quisteque"/>
+<node id="Ipan"/>
+<node id="hueltika"/>
+<node id="Leche"/>
+<node id="tlayoquilikan"/>
+<node id="Man"/>
+<node id="chijne"/>
+<node id="colapitll"/>
+<node id="iztac"/>
+<node id="shoksapa"/>
+<node id="quitke"/>
+<node id="los"/>
+<node id="stmete"/>
+<node id="chanikahuan"/>
+<node id="teloba"/>
+<node id="siqui"/>
+<node id="hasta"/>
+<node id="kueltlalya"/>
+<node id="kalaquiya"/>
+<node id="neme"/>
+<node id="mikitlistle"/>
+<node id="noj"/>
+<node id="pepechole"/>
+<node id="ztoztona"/>
+<node id="calaque"/>
+<node id="majkatia"/>
+<node id="piyacta"/>
+<node id="tlamachquintojliaya"/>
+<node id="pitelonsi"/>
+<node id="ijotl"/>
+<node id="nonakastlan"/>
+<node id="xochime"/>
+<node id="maya"/>
+<node id="ijuan"/>
+<node id="tohua"/>
+<node id="nes"/>
+<node id="patlanis"/>
+<node id="kecholi"/>
+<node id="guachichil"/>
+<node id="kipiha"/>
+<node id="nejme"/>
+<node id="shan"/>
+<node id="suchyulis"/>
+<node id="tecolotl"/>
+<node id="siutl"/>
+<node id="piyatka"/>
+<node id="tlamomotilo"/>
+<node id="ovel"/>
+<node id="quitac"/>
+<node id="aman"/>
+<node id="nojkopque"/>
+<node id="cozauhtic"/>
+<node id="tinochime"/>
+<node id="tan"/>
+<node id="tiquín"/>
+<node id="tonajle"/>
+<node id="sheyule"/>
+<node id="imastlacapalban"/>
+<node id="tlapopose"/>
+<node id="tlakuas"/>
+<node id="xoch"/>
+<node id="ixkapan"/>
+<node id="kake"/>
+<node id="kuikacha"/>
+<node id="ijchihuan"/>
+<node id="chicahuame"/>
+<node id="para"/>
+<node id="ikxitl"/>
+<node id="tliltic"/>
+<node id="Tilcuates"/>
+<node id="tlamiquilistli"/>
+<node id="tlayajya"/>
+<node id="ikamitl"/>
+<node id="Papalotl"/>
+<node id="cujli"/>
+<node id="quitilanque"/>
+<node id="ijquita"/>
+<node id="nij"/>
+<node id="huele"/>
+<node id="panos"/>
+<node id="pechtle"/>
+<node id="kahuile"/>
+<node id="cobame"/>
+<node id="Tlapalli"/>
+<node id="hueskatineme"/>
+<node id="ica"/>
+<node id="nemis"/>
+<node id="tlajme"/>
+<node id="chantiya"/>
+<node id="yehuailhuia"/>
+<node id="tepuztlahcuilolli"/>
+<node id="chelolia"/>
+<node id="statsijya"/>
+<node id="Yokatsoli"/>
+<node id="chibilia"/>
+<node id="oztotl"/>
+<node id="Ti"/>
+<node id="palehuiya"/>
+<node id="kasise"/>
+<node id="chantilo"/>
+<node id="ni"/>
+<node id="emijchaya"/>
+<node id="cueltlaliya"/>
+<node id="tlaxque"/>
+<node id="macak"/>
+<node id="vez"/>
+<node id="quitias"/>
+<node id="maztlakalpan"/>
+<node id="najpaloya"/>
+<node id="nojyan"/>
+<node id="tlajli"/>
+<node id="huisio"/>
+<node id="tlajkahuilo"/>
+<node id="chopantla"/>
+<node id="ikanpa"/>
+<node id="Nochipa"/>
+<node id="shihueliya"/>
+<node id="quijnenehueque"/>
+<node id="nijuan"/>
+<node id="bajquichas"/>
+<node id="ichcatl"/>
+<node id="ichpochtli"/>
+<node id="quita"/>
+<node id="cotlapil"/>
+<node id="telosque"/>
+<node id="nijma"/>
+<node id="casique"/>
+<node id="Ijon"/>
+<node id="huajlobe"/>
+<node id="ichtequilia"/>
+<node id="quitaya"/>
+<node id="i"/>
+<node id="ijme"/>
+<node id="quintlane"/>
+<node id="chantle"/>
+<node id="mastlacapal"/>
+<node id="totome"/>
+<node id="mijyec"/>
+<node id="chik"/>
+<node id="Ikamilak"/>
+<node id="atlisia"/>
+<node id="Makabilistle"/>
+<node id="nijkan"/>
+<node id="nejquya"/>
+<node id="papalotl"/>
+<node id="majaciya"/>
+<node id="kitas"/>
+<node id="tequitilchaya"/>
+<node id="ninman"/>
+<node id="cuenta"/>
+<node id="hueyetepec"/>
+<node id="nejsiya"/>
+<node id="untlacha"/>
+<node id="nochipa"/>
+<node id="majkaya"/>
+<node id="totocka"/>
+<node id="tlajlile"/>
+<node id="chopili"/>
+<node id="costebaya"/>
+<node id="pitelonsin"/>
+<node id="ikamitak"/>
+<node id="yajuame"/>
+<node id="yomic"/>
+<node id="pitensi"/>
+<node id="shichihuiliska"/>
+<node id="poloba"/>
+<node id="quisa"/>
+<node id="Tla"/>
+<node id="ikamitlac"/>
+<node id="tonalsintle"/>
+<node id="nenemilistli"/>
+<node id="itlanquis"/>
+<node id="pepejchosia"/>
+<node id="nechtijque"/>
+<node id="tlalo"/>
+<node id="Quijtoba"/>
+<node id="ikamitlak"/>
+<node id="ikanochipa"/>
+<node id="yolkame"/>
+<node id="tojnaltin"/>
+<node id="patlanque"/>
+<node id="bescachaya"/>
+<node id="makaske"/>
+<node id="quistile"/>
+<node id="Niman"/>
+<node id="maka"/>
+<node id="zopilot"/>
+<node id="to"/>
+<node id="inon"/>
+<node id="yolkatl"/>
+<node id="sanch"/>
+<node id="huelis"/>
+<node id="yomijque"/>
+<node id="cualtzintin"/>
+<node id="calake"/>
+<node id="hutzilli"/>
+<edge source="nequiya" target="qui"/>
 <edge source="nobilan" target="para"/>
-<edge source="Makabilistle" target="Hutzilli"/>
-<edge source="leche" target="siuatl"/>
-<edge source="tejmocha" target="kuak"/>
-<edge source="tlaltin" target="sacan"/>
-<edge source="nemis" target="ipan"/>
-<edge source="sejme" target="papalotl"/>
-<edge source="nochi" target="tlapalli"/>
-<edge source="ojnekuistik" target="ijtla"/>
-<edge source="chantle" target="ikamitlak"/>
-<edge source="quicelia" target="tonalzintle"/>
-<edge source="Nijman" target="tejmocha"/>
-<edge source="nanahualtin" target="qui"/>
-<edge source="tsontekomatl" target="ika"/>
-<edge source="tlapalo" target="i"/>
-<edge source="nemiliya" target="ika"/>
-<edge source="tlicojtle" target="ijin"/>
-<edge source="siuatl" target="antes"/>
-<edge source="siuatl" target="tlajcoya"/>
-<edge source="kuaka" target="se"/>
-<edge source="miquiya" target="aman"/>
-<edge source="chijne" target="ifiyo"/>
-<edge source="caman" target="ovel"/>
-<edge source="quijtetemoya" target="ijtla"/>
-<edge source="patlanchaya" target="kuak"/>
-<edge source="ichcatl" target="pitelonsin"/>
-<edge source="cojtli" target="qui"/>
-<edge source="o" target="quicak"/>
-<edge source="o" target="nokop"/>
-<edge source="o" target="quitak"/>
-<edge source="o" target="vez"/>
-<edge source="o" target="nomojti"/>
-<edge source="o" target="qui"/>
-<edge source="o" target="nobilan"/>
-<edge source="o" target="no"/>
-<edge source="o" target="quitilanque"/>
-<edge source="o" target="quilpisque"/>
-<edge source="o" target="patlanque"/>
-<edge source="o" target="casique"/>
-<edge source="o" target="ni"/>
-<edge source="o" target="nesjtle"/>
-<edge source="o" target="chikuitle"/>
-<edge source="o" target="patlan"/>
-<edge source="o" target="quintlane"/>
-<edge source="o" target="tlayobachak"/>
-<edge source="o" target="panochajque"/>
-<edge source="o" target="nojcop"/>
-<edge source="o" target="tlaquiyehuite"/>
-<edge source="o" target="nojyan"/>
-<edge source="o" target="casik"/>
-<edge source="o" target="quitac"/>
-<edge source="o" target="nojcochile"/>
-<edge source="o" target="quis"/>
-<edge source="o" target="kualan"/>
-<edge source="o" target="huejka"/>
-<edge source="o" target="mijque"/>
-<edge source="o" target="notlalque"/>
-<edge source="o" target="tlaquille"/>
-<edge source="o" target="nojkopque"/>
-<edge source="o" target="nets"/>
-<edge source="o" target="tliltic"/>
-<edge source="Aman" target="ijin"/>
-<edge source="yuto" target="nahua"/>
-<edge source="yajua" target="hueltika"/>
-<edge source="yajua" target="sacan"/>
-<edge source="yajua" target="qui"/>
-<edge source="yajua" target="ijkon"/>
-<edge source="yajua" target="yo"/>
-<edge source="yajua" target="no"/>
-<edge source="yajua" target="iztac"/>
-<edge source="quilkahua" target="tla"/>
-<edge source="chichikque" target="choyatka"/>
-<edge source="atl" target="kuak"/>
-<edge source="atl" target="niman"/>
-<edge source="Quimichpapalotl" target="in"/>
-<edge source="quitas" target="sakainka"/>
-<edge source="quitas" target="tlapalli"/>
-<edge source="tepecme" target="nijman"/>
-<edge source="tinochime" target="tmakase"/>
-<edge source="tinochime" target="campa"/>
-<edge source="tinochime" target="ti"/>
-<edge source="quitkitineme" target="ika"/>
-<edge source="yolkame" target="man"/>
-<edge source="maquilia" target="niman"/>
-<edge source="vez" target="kuak"/>
-<edge source="piltsintli" target="para"/>
-<edge source="miquisia" target="aka"/>
-<edge source="pajnohua" target="ti"/>
-<edge source="huelisia" target="atlisia"/>
-<edge source="Temiquilistle" target="Nijuan"/>
-<edge source="katlsin" target="umpa"/>
-<edge source="Niman" target="ijkon"/>
-<edge source="chik" target="qui"/>
-<edge source="tlaktikpajtle" target="mikitlistle"/>
-<edge source="nijaman" target="ikamitlak"/>
-<edge source="quin" target="huicas"/>
-<edge source="quin" target="huika"/>
-<edge source="quin" target="tlamijya"/>
-<edge source="quin" target="setlalka"/>
-<edge source="quin" target="majaciya"/>
-<edge source="quin" target="pepejchosia"/>
-<edge source="quin" target="makaske"/>
-<edge source="quin" target="maljuisia"/>
-<edge source="ichtequilia" target="leche"/>
-<edge source="nechicoilitaya" target="que"/>
-<edge source="chibilia" target="netequipacholli"/>
-<edge source="unpa" target="quicha"/>
-<edge source="quisas" target="campa"/>
-<edge source="maquia" target="chochokasi"/>
-<edge source="noj" target="tohua"/>
-<edge source="men" target="tlatequiya"/>
-<edge source="kuaitl" target="kampa"/>
-<edge source="kuaitl" target="no"/>
-<edge source="kuaitl" target="de"/>
-<edge source="kuaitl" target="pechtle"/>
-<edge source="los" target="tilcuates"/>
-<edge source="yajuame" target="kuakuajle"/>
-<edge source="yajuame" target="kuajli"/>
-<edge source="yajuame" target="chokche"/>
-<edge source="yajuame" target="quisteque"/>
-<edge source="yajuame" target="cuelitaya"/>
-<edge source="yajuame" target="shoquinejque"/>
-<edge source="nonakastlan" target="se"/>
-<edge source="tejuan" target="okichtli"/>
-<edge source="tejuan" target="tlamiquilistli"/>
-<edge source="tejuan" target="tlamiquilistle"/>
-<edge source="tejuan" target="nanahualtin"/>
-<edge source="tejuan" target="tlakatl"/>
-<edge source="tejuan" target="nejme"/>
-<edge source="tejuan" target="zitlalime"/>
-<edge source="tejuan" target="atlis"/>
-<edge source="tejuan" target="icotlapil"/>
-<edge source="tejuan" target="pek"/>
-<edge source="tejuan" target="kuaxihui"/>
-<edge source="tejuan" target="mu"/>
-<edge source="tejuan" target="tlakame"/>
-<edge source="tejuan" target="Meztli"/>
-<edge source="tejuan" target="cuicaanqui"/>
-<edge source="tejuan" target="no"/>
-<edge source="tejuan" target="atejtle"/>
-<edge source="tejuan" target="tliltic"/>
-<edge source="tejuan" target="ti"/>
-<edge source="cajuque" target="i"/>
-<edge source="tepuztlahcuilolli" target="Izcalli"/>
-<edge source="ijquiyana" target="ijtla"/>
-<edge source="mojtia" target="ika"/>
-<edge source="shok" target="qui"/>
-<edge source="shok" target="kaman"/>
-<edge source="shok" target="caman"/>
-<edge source="shok" target="nejme"/>
-<edge source="shihueliya" target="no"/>
-<edge source="ijtoba" target="ika"/>
-<edge source="nantlin" target="quita"/>
-<edge source="majkaya" target="y"/>
-<edge source="pijya" target="ixpolotl"/>
-<edge source="pijya" target="nijman"/>
-<edge source="palehuiya" target="ti"/>
-<edge source="cajkateba" target="noche"/>
-<edge source="yojlo" target="konetl"/>
-<edge source="yojlo" target="ipan"/>
-<edge source="cualohua" target="tijneme"/>
-<edge source="kualo" target="san"/>
 <edge source="calaquisque" target="campa"/>
-<edge source="Cobame" target="man"/>
-<edge source="ovel" target="o"/>
-<edge source="las" target="ilaman"/>
-<edge source="te" target="Ichtequilia"/>
-<edge source="te" target="maquilia"/>
-<edge source="te" target="tlajtolia"/>
-<edge source="te" target="ichtequilia"/>
-<edge source="te" target="chibilia"/>
-<edge source="shine" target="que"/>
-<edge source="holinia" target="y"/>
-<edge source="patlanis" target="quichteque"/>
-<edge source="Nijci" target="kampa"/>
-<edge source="ifigome" target="de"/>
-<edge source="bescachaya" target="ijpan"/>
-<edge source="cuenta" target="ika"/>
-<edge source="totome" target="nijman"/>
-<edge source="totome" target="quitaya"/>
-<edge source="panochajque" target="tonaltin"/>
-<edge source="nojcop" target="zomatl"/>
-<edge source="tejtechojque" target="o"/>
-<edge source="sakainka" target="kuak"/>
-<edge source="tiquín" target="kalsakuas"/>
-<edge source="panoban" target="kuak"/>
-<edge source="chichiltic" target="nic"/>
-<edge source="patlanijya" target="totome"/>
-<edge source="patlanijya" target="qui"/>
-<edge source="nojmotie" target="ika"/>
-<edge source="Nijuan" target="Temiquilistle"/>
-<edge source="Nijuan" target="Okichtli"/>
-<edge source="miyek" target="tlacame"/>
-<edge source="miyek" target="in"/>
-<edge source="nahuate" target="ma"/>
-<edge source="nojtoba" target="kuak"/>
-<edge source="nojtoba" target="ika"/>
-<edge source="quijtaya" target="queinue"/>
-<edge source="mexcoyo" target="shan"/>
-<edge source="ikamilak" target="niman"/>
-<edge source="ikamilak" target="yehuailhuia"/>
-<edge source="ikamilak" target="ika"/>
-<edge source="quistile" target="noche"/>
-<edge source="ijon" target="tlakatl"/>
-<edge source="mastika" target="ika"/>
-<edge source="queinque" target="calakchaya"/>
-<edge source="queinque" target="tonaltzintle"/>
-<edge source="queinque" target="no"/>
-<edge source="imaztlacapal" target="nijman"/>
-<edge source="cimalli" target="teyaochihuani"/>
-<edge source="sentel" target="panoba"/>
-<edge source="icolapil" target="te"/>
-<edge source="de" target="mazatl"/>
-<edge source="de" target="oztotl"/>
-<edge source="de" target="hutzilli"/>
-<edge source="de" target="tonalsintle"/>
-<edge source="de" target="se"/>
-<edge source="de" target="inantli"/>
-<edge source="de" target="icoconehua"/>
-<edge source="de" target="tonaltzintle"/>
-<edge source="chokche" target="niman"/>
-<edge source="Kuajon" target="ikamitak"/>
-<edge source="suchyulis" target="tikin"/>
-<edge source="totocka" target="campa"/>
-<edge source="shitipaluhuijya" target="stmete"/>
-<edge source="ifime" target="totome"/>
-<edge source="Nojtoba" target="kuak"/>
-<edge source="pek" target="xolotl"/>
-<edge source="kuikachacia" target="kuaka"/>
-<edge source="ajakatl" target="o"/>
-<edge source="i" target="mastlacapal"/>
-<edge source="i" target="kuaitl"/>
-<edge source="i" target="kecholi"/>
-<edge source="i" target="maztlakalpan"/>
-<edge source="i" target="konetl"/>
-<edge source="i" target="yojlo"/>
-<edge source="i" target="nantli"/>
-<edge source="i" target="maztlacapalban"/>
-<edge source="i" target="tsontekomatl"/>
-<edge source="i" target="choquilistle"/>
-<edge source="i" target="nanakatl"/>
-<edge source="ijtl" target="yojlo"/>
-<edge source="tlakame" target="man"/>
-<edge source="tlakame" target="qui"/>
-<edge source="tlakame" target="sanch"/>
-<edge source="tlakame" target="nijman"/>
-<edge source="onka" target="cua"/>
-<edge source="Shiquitacan" target="queinque"/>
-<edge source="kake" target="itoka"/>
-<edge source="kake" target="queinque"/>
-<edge source="mikitlistle" target="tejuan"/>
-<edge source="paraijcon" target="shiquicuilise"/>
-<edge source="pijpiya" target="temictli"/>
+<edge source="Jotba" target="ika"/>
+<edge source="ojnekuistik" target="ijtla"/>
+<edge source="soxsapa" target="tlakame"/>
+<edge source="Cempaxuchitl" target="nijma"/>
+<edge source="ijlique" target="ika"/>
+<edge source="molak" target="mazatl"/>
+<edge source="temilte" target="se"/>
+<edge source="san" target="ti"/>
+<edge source="san" target="nave"/>
+<edge source="patlane" target="nijman"/>
 <edge source="kuak" target="in"/>
 <edge source="kuak" target="tikualoj"/>
 <edge source="kuak" target="panohua"/>
@@ -1066,134 +807,224 @@
 <edge source="kuak" target="ejko"/>
 <edge source="kuak" target="mijque"/>
 <edge source="kuak" target="shok"/>
-<edge source="ilnamiqui" target="ika"/>
-<edge source="cuajque" target="noche"/>
-<edge source="huehuecoyotl" target="nic"/>
-<edge source="sajse" target="saque"/>
-<edge source="huele" target="tlajcoba"/>
-<edge source="ijchihuan" target="ican"/>
-<edge source="ikamitlak" target="niman"/>
-<edge source="ikamitlak" target="hueskatineme"/>
-<edge source="ikamitlak" target="cualanijya"/>
-<edge source="ikamitlak" target="nokojkochaya"/>
-<edge source="ikamitlak" target="kampa"/>
+<edge source="tlacha" target="soksapa"/>
+<edge source="chichiltic" target="nic"/>
+<edge source="quijtaya" target="queinue"/>
+<edge source="cajkateba" target="noche"/>
+<edge source="ijyon" target="chantle"/>
+<edge source="ijyon" target="tunkuluchu"/>
+<edge source="ijyon" target="itzpapalotl"/>
+<edge source="kakiskemasque" target="no"/>
+<edge source="shitipaluhuijya" target="stmete"/>
+<edge source="Ztatze" target="ika"/>
+<edge source="in" target="no"/>
+<edge source="in" target="talpalli"/>
+<edge source="in" target="Tlapalli"/>
+<edge source="in" target="nacayotl"/>
+<edge source="in" target="itzpapalotl"/>
+<edge source="soksapa" target="kuak"/>
+<edge source="majtie" target="tlakatl"/>
+<edge source="nesjtle" target="ika"/>
+<edge source="kuaitl" target="kampa"/>
+<edge source="kuaitl" target="no"/>
+<edge source="kuaitl" target="de"/>
+<edge source="kuaitl" target="pechtle"/>
+<edge source="choquilistle" target="o"/>
+<edge source="se" target="cuero"/>
+<edge source="se" target="mazatl"/>
+<edge source="se" target="tzitzimime"/>
+<edge source="se" target="oztotl"/>
+<edge source="se" target="hutzilli"/>
+<edge source="se" target="jade"/>
+<edge source="se" target="chopantla"/>
+<edge source="se" target="tlakatl"/>
+<edge source="se" target="nantli"/>
+<edge source="se" target="tonajle"/>
+<edge source="se" target="tsopilotl"/>
+<edge source="se" target="ijuitl"/>
+<edge source="se" target="cojtle"/>
+<edge source="se" target="imaztlacapal"/>
+<edge source="se" target="papalotl"/>
+<edge source="noche" target="tetecoyome"/>
+<edge source="noche" target="man"/>
+<edge source="noche" target="in"/>
+<edge source="noche" target="ijuitl"/>
+<edge source="noche" target="teotl"/>
+<edge source="siuatl" target="antes"/>
+<edge source="siuatl" target="tlajcoya"/>
+<edge source="kalaque" target="i"/>
+<edge source="kalaque" target="ichan"/>
+<edge source="ijon" target="tlakatl"/>
+<edge source="tlanestilia" target="quimichpapalotl"/>
+<edge source="cakis" target="itlanquis"/>
 <edge source="ic" target="kualcan"/>
-<edge source="ijuitl" target="tlapalli"/>
-<edge source="tliltic" target="nijman"/>
-<edge source="tliltic" target="ijtosnequiya"/>
-<edge source="tequitilchaya" target="kampa"/>
 <edge source="quicak" target="tlamach"/>
 <edge source="quicak" target="soxsapa"/>
-<edge source="cuero" target="de"/>
-<edge source="tliquine" target="zopilot"/>
-<edge source="yatka" target="tan"/>
-<edge source="yatka" target="icamilak"/>
-<edge source="yatka" target="noyque"/>
-<edge source="yatka" target="to"/>
-<edge source="casique" target="siquime"/>
-<edge source="tineme" target="ipan"/>
-<edge source="kokoya" target="ikxitl"/>
-<edge source="huajlobe" target="ikanochipa"/>
-<edge source="ijqueinque" target="to"/>
-<edge source="kualcan" target="tsopilotl"/>
-<edge source="tequitl" target="nic"/>
-<edge source="maztlacapalban" target="nijman"/>
-<edge source="saque" target="totome"/>
-<edge source="hueskatineme" target="nijman"/>
+<edge source="icamilak" target="qui"/>
+<edge source="icamilak" target="tecoco"/>
+<edge source="no" target="huehuemexihcayutl"/>
+<edge source="no" target="teka"/>
+<edge source="no" target="techpajtiya"/>
+<edge source="no" target="tlalo"/>
+<edge source="no" target="costebas"/>
+<edge source="no" target="costebaya"/>
+<edge source="no" target="chicabamacak"/>
+<edge source="no" target="macak"/>
+<edge source="no" target="cueltlaliya"/>
+<edge source="no" target="matijya"/>
+<edge source="no" target="tlatlchan"/>
+<edge source="no" target="teloba"/>
+<edge source="no" target="ixehuia"/>
+<edge source="no" target="telosque"/>
+<edge source="no" target="chanikaban"/>
+<edge source="no" target="telos"/>
+<edge source="no" target="ilnamiqui"/>
+<edge source="no" target="kuaitl"/>
+<edge source="no" target="chikuitle"/>
+<edge source="no" target="pepechole"/>
+<edge source="no" target="ijuitl"/>
+<edge source="no" target="pinabiste"/>
+<edge source="no" target="Kuikacha"/>
+<edge source="no" target="kuikacha"/>
+<edge source="no" target="koko"/>
+<edge source="no" target="tojtiaba"/>
+<edge source="no" target="kuikachacia"/>
+<edge source="no" target="mijquilisia"/>
+<edge source="no" target="yuto"/>
+<edge source="no" target="kueltlalya"/>
+<edge source="no" target="chanikahuan"/>
 <edge source="aquin" target="ijtoba"/>
-<edge source="Yokatsoli" target="o"/>
-<edge source="Ijkon" target="te"/>
-<edge source="Ijkon" target="tunkuluchu"/>
-<edge source="a" target="casij"/>
-<edge source="a" target="ijon"/>
-<edge source="Tsopilotl" target="Tlaxque"/>
-<edge source="Tsopilotl" target="Man"/>
-<edge source="Tsopilotl" target="qui"/>
-<edge source="quimichpapalotl" target="qui"/>
-<edge source="quimichpapalotl" target="quijtaya"/>
-<edge source="quimichpapalotl" target="o"/>
-<edge source="quimichpapalotl" target="shok"/>
-<edge source="nantli" target="niman"/>
-<edge source="nantli" target="quijpiya"/>
-<edge source="nantli" target="nomiquilia"/>
-<edge source="guachichil" target="kakistes"/>
-<edge source="nijma" target="quimichpapalotl"/>
-<edge source="nijma" target="shok"/>
-<edge source="nijma" target="tlakatl"/>
-<edge source="nijma" target="kuak"/>
-<edge source="poloba" target="y"/>
-<edge source="huejkapan" target="nijman"/>
-<edge source="chantijya" target="totome"/>
-<edge source="itlanquis" target="saquen"/>
-<edge source="chicabamacak" target="niman"/>
-<edge source="chichinia" target="tlicojtle"/>
-<edge source="ponaltijque" target="mijyek"/>
-<edge source="huicas" target="tlamomotilo"/>
-<edge source="Papalotl" target="tejuan"/>
-<edge source="Papalotl" target="pajtlane"/>
-<edge source="tajke" target="ika"/>
-<edge source="nopachos" target="quitias"/>
-<edge source="etiya" target="ikamitlac"/>
-<edge source="shitneke" target="ti"/>
-<edge source="nes" target="tlajtoliaya"/>
-<edge source="nes" target="tlajtolijque"/>
-<edge source="tlayoquilikan" target="se"/>
-<edge source="nakaxhuan" target="tejuan"/>
-<edge source="k" target="ampa"/>
-<edge source="soxsapa" target="tlakame"/>
-<edge source="atecocolis" target="nijman"/>
-<edge source="Xolotl" target="Nijuan"/>
-<edge source="cuelitaya" target="nic"/>
-<edge source="Quijtoka" target="Paquilistle"/>
-<edge source="tlayajya" target="shoksapa"/>
-<edge source="pinabiste" target="kuak"/>
-<edge source="cochiya" target="iban"/>
-<edge source="kuelilia" target="y"/>
-<edge source="kualtzin" target="ipan"/>
-<edge source="kualtzin" target="tejuan"/>
-<edge source="chatl" target="qui"/>
+<edge source="tijneme" target="ikamilak"/>
 <edge source="antes" target="cochis"/>
-<edge source="kakiskemasque" target="no"/>
-<edge source="chijcoba" target="no"/>
-<edge source="calakchaya" target="ipan"/>
-<edge source="tlatequiya" target="niman"/>
-<edge source="O" target="no"/>
-<edge source="O" target="panoque"/>
-<edge source="O" target="nes"/>
-<edge source="telos" target="iban"/>
-<edge source="piyome" target="nijman"/>
-<edge source="tonali" target="se"/>
-<edge source="tlajtolte" target="no"/>
-<edge source="ampa" target="chopanmiquilistle"/>
-<edge source="zomatl" target="nijaman"/>
-<edge source="pajtlane" target="sankaika"/>
-<edge source="iztlan" target="ikxitl"/>
-<edge source="ijin" target="panoban"/>
-<edge source="ijin" target="no"/>
-<edge source="ijin" target="yolkatl"/>
-<edge source="ijin" target="kuak"/>
-<edge source="ijin" target="para"/>
-<edge source="ijin" target="tequitl"/>
-<edge source="ijin" target="tonajle"/>
-<edge source="Ikamilak" target="kuelijtaya"/>
-<edge source="chicabaca" target="cuero"/>
-<edge source="yehuailhuia" target="nic"/>
-<edge source="nave" target="hora"/>
-<edge source="to" target="koli"/>
-<edge source="to" target="tatzi"/>
-<edge source="to" target="nacaztli"/>
-<edge source="to" target="yolotl"/>
-<edge source="temastike" target="kuak"/>
-<edge source="mastlacapal" target="kuak"/>
-<edge source="tlamomotilo" target="tejuan"/>
+<edge source="kuakuajle" target="qui"/>
+<edge source="niman" target="cuajli"/>
+<edge source="niman" target="y"/>
+<edge source="niman" target="qui"/>
+<edge source="niman" target="o"/>
+<edge source="niman" target="ajakatl"/>
+<edge source="niman" target="obecito"/>
+<edge source="niman" target="emijchaya"/>
+<edge source="niman" target="yajua"/>
+<edge source="niman" target="oquis"/>
+<edge source="niman" target="ti"/>
+<edge source="niman" target="tepalcate"/>
+<edge source="niman" target="no"/>
+<edge source="niman" target="miquiya"/>
+<edge source="niman" target="tiquín"/>
+<edge source="niman" target="tlacha"/>
+<edge source="niman" target="kuak"/>
+<edge source="niman" target="icamilak"/>
+<edge source="niman" target="cochiya"/>
+<edge source="niman" target="xoch"/>
+<edge source="niman" target="umpa"/>
+<edge source="niman" target="cujli"/>
+<edge source="niman" target="ika"/>
+<edge source="niman" target="quijtoba"/>
+<edge source="tlajtolijque" target="ika"/>
 <edge source="ichichihual" target="de"/>
-<edge source="Quin" target="holinia"/>
-<edge source="Quin" target="tlayajya"/>
-<edge source="kuilque" target="i"/>
-<edge source="nojkopque" target="in"/>
-<edge source="uyatlka" target="se"/>
-<edge source="tzitzimime" target="jin"/>
-<edge source="tzitzimime" target="pitensi"/>
+<edge source="Ichtequilia" target="Leche"/>
+<edge source="sejme" target="papalotl"/>
+<edge source="sentel" target="panoba"/>
+<edge source="sakainka" target="kuak"/>
+<edge source="tlatequiya" target="niman"/>
+<edge source="kistinemiya" target="tlajpak"/>
+<edge source="majuan" target="nijman"/>
+<edge source="las" target="ilaman"/>
+<edge source="huehuecoyotl" target="nic"/>
+<edge source="ikamilak" target="niman"/>
+<edge source="ikamilak" target="yehuailhuia"/>
+<edge source="ikamilak" target="ika"/>
+<edge source="tes" target="tlajtolia"/>
+<edge source="tes" target="majka"/>
+<edge source="tes" target="pijya"/>
+<edge source="cihuapilli" target="o"/>
+<edge source="saquen" target="tlanquistle"/>
+<edge source="ocualan" target="ikamitlac"/>
+<edge source="ixhua" target="niman"/>
+<edge source="manyas" target="temastike"/>
+<edge source="kuilia" target="xochimeyallotl"/>
+<edge source="quilkahua" target="tla"/>
+<edge source="tonalzintle" target="kuaxa"/>
+<edge source="tonalzintle" target="bajquichas"/>
+<edge source="queinue" target="patlanijya"/>
+<edge source="oqui" target="chichikque"/>
+<edge source="Tlaxlahue" target="ayajua"/>
+<edge source="leche" target="siuatl"/>
+<edge source="campa" target="calaque"/>
+<edge source="campa" target="tonaltzintle"/>
+<edge source="campa" target="mictlan"/>
+<edge source="campa" target="chanti"/>
+<edge source="campa" target="ni"/>
+<edge source="mas" target="huejkapan"/>
+<edge source="chichijque" target="se"/>
+<edge source="tlanechtilia" target="tsopilotl"/>
+<edge source="chichikque" target="choyatka"/>
+<edge source="nojcop" target="zomatl"/>
+<edge source="kokoya" target="ikxitl"/>
+<edge source="icpan" target="ijyon"/>
+<edge source="iteco" target="kampa"/>
+<edge source="nemiliaya" target="ika"/>
+<edge source="Quimichpapalotl" target="in"/>
+<edge source="shukualoba" target="nijman"/>
+<edge source="que" target="o"/>
+<edge source="que" target="meztli"/>
+<edge source="neltoka" target="ipan"/>
+<edge source="tlamijya" target="noche"/>
+<edge source="tlajxochipone" target="siqui"/>
+<edge source="cojtli" target="qui"/>
+<edge source="nic" target="to"/>
+<edge source="nic" target="qui"/>
+<edge source="nic" target="yajuame"/>
+<edge source="nic" target="kuak"/>
+<edge source="nic" target="tlaxque"/>
+<edge source="nic" target="ikanpa"/>
+<edge source="nic" target="shine"/>
+<edge source="mique" target="se"/>
+<edge source="tlajcoya" target="ipan"/>
+<edge source="tlajcoya" target="kampa"/>
+<edge source="quicua" target="carroña"/>
+<edge source="kuajli" target="neme"/>
+<edge source="kuajli" target="kuelilia"/>
+<edge source="kuajli" target="qui"/>
+<edge source="kuajli" target="niman"/>
+<edge source="kuajli" target="tlapopose"/>
+<edge source="kuajli" target="quijnenehueque"/>
+<edge source="kuajli" target="quin"/>
+<edge source="tlayobachak" target="yo"/>
+<edge source="maquilia" target="niman"/>
+<edge source="kampa" target="mictlantecuhtli"/>
+<edge source="kampa" target="chante"/>
+<edge source="kampa" target="qui"/>
+<edge source="kampa" target="se"/>
+<edge source="kampa" target="yolkame"/>
+<edge source="kampa" target="chantijya"/>
+<edge source="kampa" target="cojtle"/>
+<edge source="kampa" target="guachichil"/>
+<edge source="kampa" target="ni"/>
+<edge source="kampa" target="ijche"/>
+<edge source="kampa" target="nij"/>
+<edge source="kampa" target="nenemilistli"/>
+<edge source="kampa" target="xochime"/>
+<edge source="kampa" target="tlajli"/>
+<edge source="patlanijya" target="totome"/>
+<edge source="patlanijya" target="qui"/>
+<edge source="tonajli" target="o"/>
+<edge source="kuatli" target="kasise"/>
+<edge source="amiquilla" target="ikamitak"/>
+<edge source="nijpiya" target="no"/>
+<edge source="tikin" target="casis"/>
+<edge source="mijque" target="ijyon"/>
+<edge source="mijque" target="nojkopa"/>
+<edge source="ejko" target="tlaxochiponajle"/>
+<edge source="camapa" target="tepecme"/>
+<edge source="quitak" target="miyek"/>
+<edge source="quitak" target="ika"/>
+<edge source="tsopilotl" target="qui"/>
+<edge source="tsopilotl" target="cajuque"/>
+<edge source="tsopilotl" target="ica"/>
+<edge source="tsopilotl" target="patlane"/>
+<edge source="tlapoba" target="i"/>
+<edge source="nejmilia" target="ika"/>
 <edge source="nijman" target="siutl"/>
 <edge source="nijman" target="las"/>
 <edge source="nijman" target="o"/>
@@ -1228,157 +1059,6 @@
 <edge source="nijman" target="tes"/>
 <edge source="nijman" target="huajlobe"/>
 <edge source="nijman" target="aman"/>
-<edge source="xoch" target="huele"/>
-<edge source="mique" target="se"/>
-<edge source="pakis" target="jin"/>
-<edge source="nisi" target="huyatka"/>
-<edge source="nisi" target="i"/>
-<edge source="Yojme" target="tlakame"/>
-<edge source="moxtle" target="tejuan"/>
-<edge source="tlapoba" target="i"/>
-<edge source="Tla" target="tijpalehuiya"/>
-<edge source="notlalque" target="ipan"/>
-<edge source="kueltlalya" target="kampa"/>
-<edge source="tlasketili" target="tejuan"/>
-<edge source="cujli" target="kon"/>
-<edge source="cujli" target="casis"/>
-<edge source="tilcuates" target="ualex"/>
-<edge source="tilcuates" target="sheyule"/>
-<edge source="temilte" target="se"/>
-<edge source="nochipa" target="sacayka"/>
-<edge source="nochipa" target="kun"/>
-<edge source="nochipa" target="nijpiya"/>
-<edge source="nochipa" target="tloyobachas"/>
-<edge source="nochipa" target="kuak"/>
-<edge source="tlajtolijque" target="ika"/>
-<edge source="sokyatka" target="iztak"/>
-<edge source="noche" target="tetecoyome"/>
-<edge source="noche" target="man"/>
-<edge source="noche" target="in"/>
-<edge source="noche" target="ijuitl"/>
-<edge source="noche" target="teotl"/>
-<edge source="quisteque" target="guajolotes"/>
-<edge source="Ihqui" target="o"/>
-<edge source="Se" target="tonali"/>
-<edge source="Se" target="tonajli"/>
-<edge source="Se" target="tojnaltin"/>
-<edge source="tlatlchan" target="ika"/>
-<edge source="tlajtipantli" target="niman"/>
-<edge source="kampa" target="mictlantecuhtli"/>
-<edge source="kampa" target="chante"/>
-<edge source="kampa" target="qui"/>
-<edge source="kampa" target="se"/>
-<edge source="kampa" target="yolkame"/>
-<edge source="kampa" target="chantijya"/>
-<edge source="kampa" target="cojtle"/>
-<edge source="kampa" target="guachichil"/>
-<edge source="kampa" target="ni"/>
-<edge source="kampa" target="ijche"/>
-<edge source="kampa" target="nij"/>
-<edge source="kampa" target="nenemilistli"/>
-<edge source="kampa" target="xochime"/>
-<edge source="kampa" target="tlajli"/>
-<edge source="nic" target="to"/>
-<edge source="nic" target="qui"/>
-<edge source="nic" target="yajuame"/>
-<edge source="nic" target="kuak"/>
-<edge source="nic" target="tlaxque"/>
-<edge source="nic" target="ikanpa"/>
-<edge source="nic" target="shine"/>
-<edge source="nets" target="ijlique"/>
-<edge source="kistinemiya" target="tlajpak"/>
-<edge source="kuakuajle" target="qui"/>
-<edge source="tojcaya" target="niman"/>
-<edge source="ijkalaque" target="ipan"/>
-<edge source="majkatia" target="y"/>
-<edge source="ikamitlac" target="etiya"/>
-<edge source="ikamitlac" target="niman"/>
-<edge source="ikamitlac" target="nijman"/>
-<edge source="ikamitl" target="qui"/>
-<edge source="nokojkochaya" target="ipan"/>
-<edge source="yo" target="tlalnechojtla"/>
-<edge source="yo" target="huejka"/>
-<edge source="yo" target="quin"/>
-<edge source="yo" target="sayanka"/>
-<edge source="ijkon" target="cuajli"/>
-<edge source="ijkon" target="mique"/>
-<edge source="ijkon" target="quin"/>
-<edge source="ijkon" target="nantlin"/>
-<edge source="ijkon" target="quimichpapalotl"/>
-<edge source="ijkon" target="pajnohua"/>
-<edge source="ijkon" target="kuajli"/>
-<edge source="ijkon" target="o"/>
-<edge source="ui" target="majkatia"/>
-<edge source="piyatka" target="icualak"/>
-<edge source="piyatka" target="ijuitl"/>
-<edge source="Ipan" target="inon"/>
-<edge source="Ipan" target="tlaltin"/>
-<edge source="nomojti" target="ikamitlak"/>
-<edge source="tijpalehuiya" target="chopili"/>
-<edge source="ikanpa" target="ni"/>
-<edge source="kakistes" target="queinque"/>
-<edge source="tlajli" target="nijman"/>
-<edge source="tlamiquilistle" target="quin"/>
-<edge source="iteco" target="kampa"/>
-<edge source="tlajpak" target="nijman"/>
-<edge source="nejsiya" target="ijqueinque"/>
-<edge source="nijuan" target="qui"/>
-<edge source="nemitlistle" target="tejuan"/>
-<edge source="xochimeyallotl" target="nijman"/>
-<edge source="costebaya" target="uelex"/>
-<edge source="tlapopose" target="kuak"/>
-<edge source="sheyule" target="qui"/>
-<edge source="kualohua" target="tinochime"/>
-<edge source="oquis" target="o"/>
-<edge source="icamitlak" target="nijman"/>
-<edge source="Tlaxlahue" target="ayajua"/>
-<edge source="shoksapa" target="ifime"/>
-<edge source="najpaloya" target="kuak"/>
-<edge source="choìlin" target="chichiquiliztzatzi"/>
-<edge source="matijya" target="chicahuame"/>
-<edge source="papalotl" target="tliltic"/>
-<edge source="papalotl" target="nijman"/>
-<edge source="Tlakatl" target="kipiha"/>
-<edge source="Tlakatl" target="bescachaya"/>
-<edge source="tlacha" target="soksapa"/>
-<edge source="hutzilli" target="tepuztlahcuilolli"/>
-<edge source="impa" target="ijyon"/>
-<edge source="ninman" target="qui"/>
-<edge source="tiacauh" target="nijman"/>
-<edge source="ikxitl" target="esquischaya"/>
-<edge source="ikxitl" target="maxque"/>
-<edge source="maztlakalpan" target="kuak"/>
-<edge source="maztlakalpan" target="ijkon"/>
-<edge source="icualak" target="amiquilla"/>
-<edge source="nojolinaya" target="ikamilak"/>
-<edge source="tlakuas" target="tejuan"/>
-<edge source="itoka" target="kuak"/>
-<edge source="nesiya" target="queinque"/>
-<edge source="costebas" target="uelex"/>
-<edge source="tonaltzintle" target="ocualan"/>
-<edge source="tonaltzintle" target="ijkalaque"/>
-<edge source="siutl" target="ika"/>
-<edge source="nokop" target="o"/>
-<edge source="ni" target="chante"/>
-<edge source="ni" target="tlajtolte"/>
-<edge source="ni" target="chajte"/>
-<edge source="ni" target="nojmotie"/>
-<edge source="ni" target="mastika"/>
-<edge source="pijyatka" target="catzahualiztli"/>
-<edge source="pijyatka" target="ijuitl"/>
-<edge source="shiquimakase" target="tlakatl"/>
-<edge source="imastlacapalban" target="manyas"/>
-<edge source="stmete" target="tla"/>
-<edge source="quisa" target="kuak"/>
-<edge source="nejmilia" target="ika"/>
-<edge source="choquilistle" target="o"/>
-<edge source="quijtoba" target="kampa"/>
-<edge source="manyas" target="temastike"/>
-<edge source="ijme" target="qui"/>
-<edge source="ocualan" target="ikamitlac"/>
-<edge source="maxque" target="chik"/>
-<edge source="pitenzi" target="pek"/>
-<edge source="majtiya" target="ika"/>
 <edge source="ti" target="nemis"/>
 <edge source="ti" target="quitas"/>
 <edge source="ti" target="kitas"/>
@@ -1396,52 +1076,32 @@
 <edge source="ti" target="kakiskemasque"/>
 <edge source="ti" target="quita"/>
 <edge source="ti" target="chantiya"/>
-<edge source="cuajli" target="quita"/>
-<edge source="cuajli" target="ti"/>
-<edge source="cuajli" target="no"/>
-<edge source="para" target="kitas"/>
-<edge source="para" target="huelisia"/>
-<edge source="para" target="huelis"/>
-<edge source="para" target="maquia"/>
-<edge source="para" target="cujli"/>
-<edge source="patlan" target="kampa"/>
-<edge source="tsopilotl" target="qui"/>
-<edge source="tsopilotl" target="cajuque"/>
-<edge source="tsopilotl" target="ica"/>
-<edge source="tsopilotl" target="patlane"/>
-<edge source="nenemilistli" target="tejuan"/>
-<edge source="panos" target="tlahuejle"/>
-<edge source="tajuame" target="ti"/>
-<edge source="tlajcoya" target="ipan"/>
-<edge source="tlajcoya" target="kampa"/>
-<edge source="ijyon" target="chantle"/>
-<edge source="ijyon" target="tunkuluchu"/>
-<edge source="ijyon" target="itzpapalotl"/>
-<edge source="hasta" target="kuak"/>
-<edge source="umpa" target="uyatlka"/>
-<edge source="umpa" target="chante"/>
-<edge source="umpa" target="cajkateba"/>
-<edge source="tes" target="tlajtolia"/>
-<edge source="tes" target="majka"/>
-<edge source="tes" target="pijya"/>
-<edge source="tlajlile" target="kampa"/>
-<edge source="tojnaltin" target="quijtetemoya"/>
-<edge source="tlahuejle" target="ipan"/>
-<edge source="casis" target="niman"/>
-<edge source="casis" target="nijman"/>
-<edge source="huejca" target="no"/>
-<edge source="neltokaya" target="ika"/>
-<edge source="Man" target="Quijtoka"/>
-<edge source="ifiyo" target="niman"/>
-<edge source="ifiyo" target="tejuan"/>
-<edge source="cojtle" target="mas"/>
-<edge source="cojtle" target="huisio"/>
-<edge source="shukualoba" target="nijman"/>
-<edge source="itazke" target="ipan"/>
-<edge source="queinue" target="patlanijya"/>
-<edge source="tlikuilcha" target="copajli"/>
-<edge source="mijque" target="ijyon"/>
-<edge source="mijque" target="nojkopa"/>
+<edge source="tijpalehuiya" target="chopili"/>
+<edge source="kuikachacia" target="kuaka"/>
+<edge source="nejquia" target="qui"/>
+<edge source="ijuitl" target="tlapalli"/>
+<edge source="tlicojtle" target="ijin"/>
+<edge source="techpajtiya" target="kuak"/>
+<edge source="kuilque" target="i"/>
+<edge source="tlaltin" target="sacan"/>
+<edge source="tequitl" target="nic"/>
+<edge source="shok" target="qui"/>
+<edge source="shok" target="kaman"/>
+<edge source="shok" target="caman"/>
+<edge source="shok" target="nejme"/>
+<edge source="ampa" target="chopanmiquilistle"/>
+<edge source="Noteismatkauan" target="kuajli"/>
+<edge source="moxtle" target="tejuan"/>
+<edge source="itlapech" target="de"/>
+<edge source="nojmotie" target="ika"/>
+<edge source="tepec" target="kuak"/>
+<edge source="Nijman" target="tejmocha"/>
+<edge source="chajte" target="nijman"/>
+<edge source="oquis" target="o"/>
+<edge source="icuero" target="chok"/>
+<edge source="icuero" target="yo"/>
+<edge source="cuajque" target="noche"/>
+<edge source="nemijya" target="quiyahuak"/>
 <edge source="ipan" target="mu"/>
 <edge source="ipan" target="tlayobacha"/>
 <edge source="ipan" target="mikilistle"/>
@@ -1458,62 +1118,191 @@
 <edge source="ipan" target="i"/>
 <edge source="ipan" target="noche"/>
 <edge source="ipan" target="ijchihuan"/>
+<edge source="tepecme" target="nijman"/>
+<edge source="ojuel" target="o"/>
+<edge source="tlajcolcha" target="y"/>
+<edge source="Quijtoka" target="Paquilistle"/>
+<edge source="unpa" target="quicha"/>
+<edge source="nantlin" target="quita"/>
+<edge source="ijquiyana" target="ijtla"/>
+<edge source="Nojtoba" target="kuak"/>
+<edge source="chochokasi" target="ui"/>
+<edge source="atecocolis" target="nijman"/>
+<edge source="Se" target="tonali"/>
+<edge source="Se" target="tonajli"/>
+<edge source="Se" target="tojnaltin"/>
+<edge source="iztak" target="quentla"/>
+<edge source="iztak" target="niman"/>
+<edge source="katlsin" target="umpa"/>
+<edge source="mexcoyo" target="shan"/>
+<edge source="tlajtipantli" target="niman"/>
+<edge source="neltokaya" target="ika"/>
+<edge source="quiyahuak" target="de"/>
+<edge source="cecepan" target="shenese"/>
+<edge source="imaztlacapal" target="nijman"/>
+<edge source="nomojti" target="ikamitlak"/>
+<edge source="Shiquitacan" target="queinque"/>
+<edge source="koli" target="tes"/>
+<edge source="koli" target="qui"/>
+<edge source="koli" target="ijyo"/>
+<edge source="koli" target="nes"/>
+<edge source="tojca" target="unpa"/>
+<edge source="nokop" target="o"/>
+<edge source="shiquimakase" target="tlakatl"/>
+<edge source="chichihuilixka" target="noijque"/>
+<edge source="palejue" target="se"/>
+<edge source="nets" target="ijlique"/>
+<edge source="chokche" target="niman"/>
+<edge source="ijin" target="panoban"/>
+<edge source="ijin" target="no"/>
+<edge source="ijin" target="yolkatl"/>
+<edge source="ijin" target="kuak"/>
+<edge source="ijin" target="para"/>
+<edge source="ijin" target="tequitl"/>
+<edge source="ijin" target="tonajle"/>
+<edge source="huicas" target="tlamomotilo"/>
+<edge source="caman" target="ovel"/>
+<edge source="nahuate" target="ma"/>
+<edge source="quijtoba" target="kampa"/>
+<edge source="itas" target="tonalsintle"/>
+<edge source="nesiya" target="queinque"/>
+<edge source="cojolinaya" target="ijchihuan"/>
+<edge source="chichinia" target="tlicojtle"/>
+<edge source="o" target="quicak"/>
+<edge source="o" target="nokop"/>
+<edge source="o" target="quitak"/>
+<edge source="o" target="vez"/>
+<edge source="o" target="nomojti"/>
+<edge source="o" target="qui"/>
+<edge source="o" target="nobilan"/>
+<edge source="o" target="no"/>
+<edge source="o" target="quitilanque"/>
+<edge source="o" target="quilpisque"/>
+<edge source="o" target="patlanque"/>
+<edge source="o" target="casique"/>
+<edge source="o" target="ni"/>
+<edge source="o" target="nesjtle"/>
+<edge source="o" target="chikuitle"/>
+<edge source="o" target="patlan"/>
+<edge source="o" target="quintlane"/>
+<edge source="o" target="tlayobachak"/>
+<edge source="o" target="panochajque"/>
+<edge source="o" target="nojcop"/>
+<edge source="o" target="tlaquiyehuite"/>
+<edge source="o" target="nojyan"/>
+<edge source="o" target="casik"/>
+<edge source="o" target="quitac"/>
+<edge source="o" target="nojcochile"/>
+<edge source="o" target="quis"/>
+<edge source="o" target="kualan"/>
+<edge source="o" target="huejka"/>
+<edge source="o" target="mijque"/>
+<edge source="o" target="notlalque"/>
+<edge source="o" target="tlaquille"/>
+<edge source="o" target="nojkopque"/>
+<edge source="o" target="nets"/>
+<edge source="o" target="tliltic"/>
+<edge source="zinzintle" target="niman"/>
 <edge source="netequipacholli" target="ica"/>
+<edge source="tzitzimime" target="jin"/>
+<edge source="tzitzimime" target="pitensi"/>
+<edge source="piyome" target="nijman"/>
+<edge source="ilaman" target="quitaya"/>
+<edge source="huelisia" target="atlisia"/>
+<edge source="tatzi" target="ijin"/>
+<edge source="pijya" target="ixpolotl"/>
+<edge source="pijya" target="nijman"/>
+<edge source="tlaquille" target="o"/>
+<edge source="konichaya" target="atl"/>
+<edge source="Tlakame" target="kitajya"/>
+<edge source="ijkalaque" target="ipan"/>
+<edge source="cajuque" target="i"/>
+<edge source="Xolotl" target="Nijuan"/>
+<edge source="malinalli" target="tecpehualli"/>
+<edge source="yo" target="tlalnechojtla"/>
+<edge source="yo" target="huejka"/>
+<edge source="yo" target="quin"/>
+<edge source="yo" target="sayanka"/>
+<edge source="tlaktikpajtle" target="mikitlistle"/>
+<edge source="cochis" target="qui"/>
+<edge source="ui" target="majkatia"/>
+<edge source="kualohua" target="tinochime"/>
+<edge source="Mazatl" target="Cuero"/>
+<edge source="Mazatl" target="o"/>
+<edge source="Chopilin" target="tejuan"/>
+<edge source="chichihuaya" target="tlapalli"/>
+<edge source="onka" target="cua"/>
+<edge source="tojcaya" target="niman"/>
 <edge source="casij" target="se"/>
-<edge source="quitaya" target="ika"/>
-<edge source="quitaya" target="ikamitlak"/>
-<edge source="quijpiya" target="tsopilotl"/>
-<edge source="inon" target="cecepan"/>
-<edge source="inon" target="tajuame"/>
-<edge source="Ti" target="majtiya"/>
-<edge source="Quijtoba" target="ika"/>
-<edge source="tekache" target="sentetl"/>
-<edge source="shenese" target="nic"/>
-<edge source="ixhua" target="niman"/>
-<edge source="huika" target="kampa"/>
-<edge source="kaman" target="quitas"/>
-<edge source="Nejcos" target="ipan"/>
-<edge source="chantia" target="nejme"/>
-<edge source="cua" target="cualohua"/>
-<edge source="tlastoque" target="tonalzintle"/>
-<edge source="aka" target="yomic"/>
-<edge source="aka" target="tejuan"/>
-<edge source="saquen" target="tlanquistle"/>
-<edge source="tlajkahuilo" target="nijman"/>
-<edge source="campa" target="calaque"/>
-<edge source="campa" target="tonaltzintle"/>
-<edge source="campa" target="mictlan"/>
-<edge source="campa" target="chanti"/>
-<edge source="campa" target="ni"/>
-<edge source="panoba" target="nonakastlan"/>
-<edge source="panoba" target="mu"/>
-<edge source="panoba" target="nisi"/>
-<edge source="Ztatze" target="ika"/>
-<edge source="ijtosnequiya" target="ika"/>
-<edge source="yolkatl" target="shiquimakase"/>
-<edge source="y" target="nakaxhuan"/>
-<edge source="y" target="nacayo"/>
-<edge source="y" target="chicabaca"/>
-<edge source="y" target="colapitll"/>
-<edge source="y" target="cotlapil"/>
-<edge source="y" target="paquilistle"/>
-<edge source="y" target="yojlo"/>
-<edge source="y" target="majuan"/>
-<edge source="chante" target="Mictlan"/>
-<edge source="chante" target="tlajtolia"/>
-<edge source="chante" target="nic"/>
-<edge source="chante" target="choìlin"/>
-<edge source="chante" target="aquin"/>
-<edge source="Jotba" target="ika"/>
-<edge source="huisio" target="nijman"/>
-<edge source="tlapalli" target="qui"/>
-<edge source="tlapalli" target="sojsapa"/>
-<edge source="tlapalli" target="cozauhtic"/>
-<edge source="ma" target="quicua"/>
-<edge source="ma" target="qui"/>
-<edge source="ma" target="ni"/>
-<edge source="patlanque" target="ika"/>
-<edge source="ojnenque" target="ikamitlak"/>
+<edge source="patlan" target="kampa"/>
+<edge source="sakua" target="to"/>
+<edge source="ichkaman" target="o"/>
+<edge source="cuilque" target="ifiyo"/>
+<edge source="quisas" target="campa"/>
+<edge source="majka" target="calaquisque"/>
+<edge source="majka" target="noche"/>
+<edge source="siquime" target="o"/>
+<edge source="quichteque" target="ijtl"/>
+<edge source="ifigome" target="de"/>
+<edge source="de" target="mazatl"/>
+<edge source="de" target="oztotl"/>
+<edge source="de" target="hutzilli"/>
+<edge source="de" target="tonalsintle"/>
+<edge source="de" target="se"/>
+<edge source="de" target="inantli"/>
+<edge source="de" target="icoconehua"/>
+<edge source="de" target="tonaltzintle"/>
+<edge source="kon" target="itas"/>
+<edge source="xihuntic" target="o"/>
+<edge source="iten" target="ipan"/>
+<edge source="copajli" target="nijman"/>
+<edge source="casis" target="niman"/>
+<edge source="casis" target="nijman"/>
+<edge source="pajnohua" target="ti"/>
+<edge source="nabacha" target="kuak"/>
+<edge source="k" target="ampa"/>
+<edge source="choyatka" target="zinzintle"/>
+<edge source="cuajle" target="untlacha"/>
+<edge source="macasiya" target="tlakame"/>
+<edge source="nave" target="hora"/>
+<edge source="ilnamiqui" target="ika"/>
+<edge source="cuelitaya" target="nic"/>
+<edge source="notlalque" target="ipan"/>
+<edge source="cuero" target="de"/>
+<edge source="pakis" target="jin"/>
+<edge source="quitas" target="sakainka"/>
+<edge source="quitas" target="tlapalli"/>
+<edge source="nisi" target="huyatka"/>
+<edge source="nisi" target="i"/>
+<edge source="Yojme" target="tlakame"/>
+<edge source="temictli" target="tlailli"/>
+<edge source="tlajtolia" target="ika"/>
+<edge source="tlajtolia" target="kuak"/>
+<edge source="nequilistle" target="quitkitineme"/>
+<edge source="ixpolotl" target="chichiltic"/>
+<edge source="kun" target="tlastoque"/>
+<edge source="Tlakatl" target="kipiha"/>
+<edge source="Tlakatl" target="bescachaya"/>
+<edge source="yojlo" target="konetl"/>
+<edge source="yojlo" target="ipan"/>
+<edge source="mastika" target="ika"/>
+<edge source="men" target="tlatequiya"/>
+<edge source="mu" target="tlasketili"/>
+<edge source="mu" target="nakastlan"/>
+<edge source="mu" target="nemitlistle"/>
+<edge source="mu" target="nequilistle"/>
+<edge source="mazatl" target="yatka"/>
+<edge source="mazatl" target="pitelonsi"/>
+<edge source="mazatl" target="niman"/>
+<edge source="chichihua" target="cimalli"/>
+<edge source="chichi" target="cuajli"/>
+<edge source="chichi" target="qui"/>
+<edge source="Kampa" target="ni"/>
+<edge source="Kampa" target="chantilo"/>
+<edge source="itzpapalotl" target="kuak"/>
+<edge source="itzpapalotl" target="o"/>
+<edge source="nijaman" target="ikamitlak"/>
+<edge source="ifime" target="totome"/>
 <edge source="qui" target="neltoka"/>
 <edge source="qui" target="totonia"/>
 <edge source="qui" target="majtie"/>
@@ -1577,299 +1366,177 @@
 <edge source="qui" target="ponaltijque"/>
 <edge source="qui" target="tlapalo"/>
 <edge source="qui" target="kuilia"/>
-<edge source="itzpapalotl" target="kuak"/>
-<edge source="itzpapalotl" target="o"/>
-<edge source="To" target="koli"/>
-<edge source="mate" target="ika"/>
-<edge source="nemiliaya" target="ika"/>
-<edge source="tlanechtilia" target="tsopilotl"/>
-<edge source="nij" target="chantia"/>
-<edge source="chichihua" target="cimalli"/>
-<edge source="neme" target="tejuan"/>
-<edge source="koko" target="se"/>
-<edge source="kasise" target="tlakame"/>
+<edge source="iban" target="yajua"/>
+<edge source="iban" target="cobame"/>
+<edge source="Kuajon" target="ikamitak"/>
+<edge source="O" target="no"/>
+<edge source="O" target="panoque"/>
+<edge source="O" target="nes"/>
+<edge source="miquiya" target="aman"/>
+<edge source="milak" target="o"/>
+<edge source="kaman" target="quitas"/>
+<edge source="tlaxochiponajle" target="ijpanohua"/>
+<edge source="ijpan" target="o"/>
+<edge source="yuto" target="nahua"/>
+<edge source="ma" target="quicua"/>
+<edge source="ma" target="qui"/>
+<edge source="ma" target="ni"/>
+<edge source="matijya" target="chicahuame"/>
+<edge source="Yo" target="huejca"/>
+<edge source="tekache" target="sentetl"/>
+<edge source="Ic" target="inon"/>
+<edge source="ponaltijque" target="mijyek"/>
+<edge source="tunkuluchu" target="tecolotl"/>
+<edge source="tunkuluchu" target="cojolinaya"/>
+<edge source="tunkuluchu" target="ojuel"/>
+<edge source="tunkuluchu" target="ojnemitle"/>
+<edge source="quentla" target="mixtli"/>
+<edge source="quentla" target="ichichihual"/>
+<edge source="quentla" target="sejme"/>
+<edge source="cojtle" target="mas"/>
+<edge source="cojtle" target="huisio"/>
+<edge source="Pek" target="Xolotl"/>
+<edge source="cuajli" target="quita"/>
+<edge source="cuajli" target="ti"/>
+<edge source="cuajli" target="no"/>
+<edge source="sacan" target="onochaya"/>
+<edge source="sacan" target="ti"/>
+<edge source="pijpiya" target="temictli"/>
+<edge source="icamitlak" target="nijman"/>
+<edge source="tla" target="tlakuas"/>
+<edge source="tla" target="shitipaluhuijya"/>
+<edge source="tla" target="ika"/>
+<edge source="tla" target="ti"/>
+<edge source="nakaxhuan" target="tejuan"/>
+<edge source="Ihqui" target="o"/>
+<edge source="nechicoilitaya" target="que"/>
+<edge source="obecito" target="kampa"/>
+<edge source="obecito" target="ikxitl"/>
+<edge source="nojolinaya" target="ikamilak"/>
+<edge source="ican" target="qui"/>
 <edge source="Kuak" target="chichi"/>
 <edge source="Kuak" target="obecito"/>
 <edge source="Kuak" target="panoba"/>
 <edge source="Kuak" target="o"/>
 <edge source="Kuak" target="onka"/>
 <edge source="Kuak" target="tlayobacha"/>
-<edge source="kalaquiya" target="iten"/>
-<edge source="niman" target="cuajli"/>
-<edge source="niman" target="y"/>
-<edge source="niman" target="qui"/>
-<edge source="niman" target="o"/>
-<edge source="niman" target="ajakatl"/>
-<edge source="niman" target="obecito"/>
-<edge source="niman" target="emijchaya"/>
-<edge source="niman" target="yajua"/>
-<edge source="niman" target="oquis"/>
-<edge source="niman" target="ti"/>
-<edge source="niman" target="tepalcate"/>
-<edge source="niman" target="no"/>
-<edge source="niman" target="miquiya"/>
-<edge source="niman" target="tiquín"/>
-<edge source="niman" target="tlacha"/>
-<edge source="niman" target="kuak"/>
-<edge source="niman" target="icamilak"/>
-<edge source="niman" target="cochiya"/>
-<edge source="niman" target="xoch"/>
-<edge source="niman" target="umpa"/>
-<edge source="niman" target="cujli"/>
-<edge source="niman" target="ika"/>
-<edge source="niman" target="quijtoba"/>
-<edge source="uelex" target="ikamitl"/>
-<edge source="uelex" target="qui"/>
-<edge source="untlacha" target="campa"/>
-<edge source="icotlapil" target="para"/>
-<edge source="chajte" target="nijman"/>
-<edge source="Ic" target="inon"/>
-<edge source="tlajcolcha" target="y"/>
-<edge source="Chopilin" target="tejuan"/>
-<edge source="tonaltin" target="niman"/>
-<edge source="tonaltin" target="nijma"/>
-<edge source="macasiya" target="tlakame"/>
-<edge source="temictli" target="tlailli"/>
-<edge source="iztak" target="quentla"/>
-<edge source="iztak" target="niman"/>
-<edge source="chichi" target="cuajli"/>
-<edge source="chichi" target="qui"/>
-<edge source="quita" target="nanahualtin"/>
-<edge source="quita" target="kuak"/>
-<edge source="quita" target="ika"/>
-<edge source="quita" target="se"/>
-<edge source="colapitll" target="piltsintli"/>
-<edge source="siqui" target="koli"/>
-<edge source="sacayka" target="yajua"/>
-<edge source="makaque" target="ijin"/>
-<edge source="cihuapilli" target="o"/>
-<edge source="ztoztona" target="atecocolis"/>
-<edge source="nojkopa" target="quentla"/>
-<edge source="ikamitak" target="niman"/>
-<edge source="ikamitak" target="okojoline"/>
-<edge source="quiyahuak" target="de"/>
-<edge source="se" target="cuero"/>
-<edge source="se" target="mazatl"/>
-<edge source="se" target="tzitzimime"/>
-<edge source="se" target="oztotl"/>
-<edge source="se" target="hutzilli"/>
-<edge source="se" target="jade"/>
-<edge source="se" target="chopantla"/>
-<edge source="se" target="tlakatl"/>
-<edge source="se" target="nantli"/>
-<edge source="se" target="tonajle"/>
-<edge source="se" target="tsopilotl"/>
-<edge source="se" target="ijuitl"/>
-<edge source="se" target="cojtle"/>
-<edge source="se" target="imaztlacapal"/>
-<edge source="se" target="papalotl"/>
-<edge source="pepechole" target="ipan"/>
-<edge source="nijkan" target="ome"/>
-<edge source="ome" target="ichpochtli"/>
-<edge source="ijuan" target="sentetl"/>
-<edge source="tlalo" target="ikamilak"/>
-<edge source="ixkapan" target="qui"/>
-<edge source="aman" target="nojtoba"/>
-<edge source="aman" target="o"/>
-<edge source="aman" target="ni"/>
-<edge source="Tlajtolia" target="ipan"/>
-<edge source="Tlajtolia" target="ika"/>
-<edge source="ijche" target="icpa"/>
-<edge source="Ichtequilia" target="Leche"/>
-<edge source="nijpiya" target="no"/>
-<edge source="nojyan" target="camapa"/>
-<edge source="okojoline" target="i"/>
-<edge source="Kampa" target="ni"/>
-<edge source="Kampa" target="chantilo"/>
-<edge source="nabacha" target="kuak"/>
-<edge source="maka" target="ma"/>
-<edge source="tan" target="iztak"/>
-<edge source="tlacua" target="ikamitlac"/>
-<edge source="sotlane" target="nabacha"/>
-<edge source="sotlane" target="meztli"/>
-<edge source="icpan" target="ijyon"/>
-<edge source="tlaquille" target="o"/>
-<edge source="quitke" target="mu"/>
-<edge source="huehuemexihcayutl" target="axan"/>
-<edge source="jade" target="niman"/>
-<edge source="ayajua" target="kuatli"/>
-<edge source="teka" target="ipan"/>
-<edge source="ica" target="cuajque"/>
-<edge source="ica" target="majka"/>
-<edge source="ica" target="yajuame"/>
-<edge source="ica" target="kuak"/>
-<edge source="ica" target="se"/>
-<edge source="ica" target="que"/>
-<edge source="ica" target="qui"/>
-<edge source="quijnenehueque" target="mikilistle"/>
-<edge source="takliliaya" target="cojtin"/>
-<edge source="ijyo" target="qui"/>
-<edge source="mitlak" target="qui"/>
-<edge source="mitlak" target="chikahuak"/>
-<edge source="ican" target="qui"/>
-<edge source="noijque" target="a"/>
-<edge source="tlayohuacha" target="nijman"/>
-<edge source="sakua" target="to"/>
-<edge source="cakis" target="itlanquis"/>
-<edge source="konetl" target="tehuaquiya"/>
-<edge source="konetl" target="o"/>
-<edge source="konetl" target="quitquinemis"/>
-<edge source="mas" target="huejkapan"/>
-<edge source="tijneme" target="ikamilak"/>
-<edge source="chichihuilixka" target="noijque"/>
-<edge source="patlane" target="nijman"/>
 <edge source="huyatka" target="atl"/>
-<edge source="kecholi" target="niman"/>
-<edge source="quis" target="impa"/>
-<edge source="cobame" target="ika"/>
-<edge source="cobame" target="yatka"/>
-<edge source="cobame" target="Cascabel"/>
-<edge source="nequiya" target="qui"/>
-<edge source="milak" target="o"/>
-<edge source="ejko" target="tlaxochiponajle"/>
-<edge source="kitas" target="iteco"/>
-<edge source="kitas" target="kuajli"/>
-<edge source="Chichi" target="ka"/>
-<edge source="quentla" target="mixtli"/>
-<edge source="quentla" target="ichichihual"/>
-<edge source="quentla" target="sejme"/>
-<edge source="konichaya" target="atl"/>
-<edge source="nochiapa" target="tlayohuachas"/>
-<edge source="chok" target="yatka"/>
-<edge source="ojuel" target="o"/>
-<edge source="camapa" target="tepecme"/>
-<edge source="panoque" target="tonaltin"/>
-<edge source="nejme" target="ipan"/>
-<edge source="nejme" target="itzpapalotl"/>
-<edge source="majaciya" target="nijman"/>
-<edge source="kitajya" target="ifigome"/>
-<edge source="catzahualiztli" target="nesiya"/>
-<edge source="choyatka" target="zinzintle"/>
-<edge source="chichihuaya" target="tlapalli"/>
-<edge source="cueltlaliya" target="ika"/>
-<edge source="kuikacha" target="tunkuluchu"/>
-<edge source="kuikacha" target="ikamilak"/>
-<edge source="kuikacha" target="kualtzin"/>
-<edge source="oztotl" target="malinalli"/>
-<edge source="oztotl" target="icuero"/>
-<edge source="majtie" target="tlakatl"/>
-<edge source="Tlakame" target="kitajya"/>
-<edge source="xochime" target="tlapalli"/>
-<edge source="xochime" target="nijman"/>
-<edge source="siquime" target="o"/>
-<edge source="zinzintle" target="niman"/>
-<edge source="macak" target="cuenta"/>
-<edge source="cojolinaya" target="ijchihuan"/>
-<edge source="teloba" target="tejuan"/>
-<edge source="mijyek" target="xochime"/>
-<edge source="Masque" target="chatl"/>
-<edge source="chopili" target="meztli"/>
-<edge source="nechtijque" target="kuak"/>
-<edge source="tlanquistle" target="de"/>
-<edge source="ijquita" target="meztli"/>
-<edge source="tlacame" target="niman"/>
-<edge source="quicha" target="hasta"/>
-<edge source="kuatli" target="kasise"/>
-<edge source="ixpolotl" target="chichiltic"/>
-<edge source="kipiha" target="nopachos"/>
-<edge source="mazatl" target="yatka"/>
-<edge source="mazatl" target="pitelonsi"/>
-<edge source="mazatl" target="niman"/>
-<edge source="ikanochipa" target="yajua"/>
-<edge source="xihuntic" target="o"/>
-<edge source="ualex" target="cobame"/>
-<edge source="tonalsintle" target="se"/>
-<edge source="kuilia" target="xochimeyallotl"/>
-<edge source="chelolia" target="ixhua"/>
-<edge source="neltoka" target="ipan"/>
-<edge source="sojsapa" target="quin"/>
-<edge source="cochis" target="qui"/>
-<edge source="nacayo" target="niman"/>
-<edge source="tlajtolia" target="ika"/>
-<edge source="tlajtolia" target="kuak"/>
-<edge source="kuajli" target="neme"/>
-<edge source="kuajli" target="kuelilia"/>
-<edge source="kuajli" target="qui"/>
-<edge source="kuajli" target="niman"/>
-<edge source="kuajli" target="tlapopose"/>
-<edge source="kuajli" target="quijnenehueque"/>
-<edge source="kuajli" target="quin"/>
-<edge source="quicua" target="carroña"/>
-<edge source="panohua" target="moxtle"/>
-<edge source="cojtin" target="men"/>
-<edge source="Izcalli" target="de"/>
-<edge source="tlajtoliaya" target="ika"/>
-<edge source="itas" target="tonalsintle"/>
-<edge source="chochokasi" target="ui"/>
-<edge source="sique" target="yo"/>
+<edge source="tlacua" target="ikamitlac"/>
+<edge source="mojtia" target="ika"/>
+<edge source="tlajpak" target="nijman"/>
+<edge source="Ijkon" target="te"/>
+<edge source="Ijkon" target="tunkuluchu"/>
+<edge source="tlakame" target="man"/>
+<edge source="tlakame" target="qui"/>
+<edge source="tlakame" target="sanch"/>
+<edge source="tlakame" target="nijman"/>
+<edge source="sentetl" target="ijuan"/>
+<edge source="chikahuak" target="ica"/>
+<edge source="Ijno" target="koli"/>
+<edge source="a" target="casij"/>
+<edge source="a" target="ijon"/>
 <edge source="ijtla" target="ica"/>
 <edge source="ijtla" target="k"/>
-<edge source="tojca" target="unpa"/>
-<edge source="zopilot" target="qui"/>
-<edge source="que" target="o"/>
-<edge source="que" target="meztli"/>
-<edge source="Yo" target="huejca"/>
-<edge source="Noteismatkauan" target="kuajli"/>
-<edge source="pechtle" target="o"/>
-<edge source="cualtzintin" target="tlapalli"/>
-<edge source="tlaquiyehuite" target="ika"/>
-<edge source="ijpan" target="o"/>
-<edge source="casik" target="ika"/>
-<edge source="san" target="ti"/>
-<edge source="san" target="nave"/>
-<edge source="chikuitle" target="paraijcon"/>
-<edge source="mijyec" target="tlalchantin"/>
-<edge source="shan" target="qui"/>
-<edge source="quintlane" target="ma"/>
-<edge source="quitac" target="icamitlak"/>
-<edge source="ichkaman" target="o"/>
-<edge source="oqui" target="chichikque"/>
-<edge source="quilpisque" target="niman"/>
-<edge source="shichihuiliska" target="ijon"/>
-<edge source="shiquicuilise" target="i"/>
-<edge source="ijmen" target="ixkapan"/>
-<edge source="ijtoka" target="yatka"/>
-<edge source="nejquya" target="no"/>
-<edge source="Tenkuluchu" target="no"/>
-<edge source="no" target="huehuemexihcayutl"/>
-<edge source="no" target="teka"/>
-<edge source="no" target="techpajtiya"/>
-<edge source="no" target="tlalo"/>
-<edge source="no" target="costebas"/>
-<edge source="no" target="costebaya"/>
-<edge source="no" target="chicabamacak"/>
-<edge source="no" target="macak"/>
-<edge source="no" target="cueltlaliya"/>
-<edge source="no" target="matijya"/>
-<edge source="no" target="tlatlchan"/>
-<edge source="no" target="teloba"/>
-<edge source="no" target="ixehuia"/>
-<edge source="no" target="telosque"/>
-<edge source="no" target="chanikaban"/>
-<edge source="no" target="telos"/>
-<edge source="no" target="ilnamiqui"/>
-<edge source="no" target="kuaitl"/>
-<edge source="no" target="chikuitle"/>
-<edge source="no" target="pepechole"/>
-<edge source="no" target="ijuitl"/>
-<edge source="no" target="pinabiste"/>
-<edge source="no" target="Kuikacha"/>
-<edge source="no" target="kuikacha"/>
-<edge source="no" target="koko"/>
-<edge source="no" target="tojtiaba"/>
-<edge source="no" target="kuikachacia"/>
-<edge source="no" target="mijquilisia"/>
-<edge source="no" target="yuto"/>
-<edge source="no" target="kueltlalya"/>
-<edge source="no" target="chanikahuan"/>
-<edge source="iban" target="yajua"/>
-<edge source="iban" target="cobame"/>
-<edge source="molak" target="mazatl"/>
-<edge source="cozauhtic" target="tejuan"/>
-<edge source="Ijon" target="o"/>
-<edge source="teotl" target="de"/>
+<edge source="aka" target="yomic"/>
+<edge source="aka" target="tejuan"/>
+<edge source="atl" target="kuak"/>
+<edge source="atl" target="niman"/>
 <edge source="icpa" target="nojtotis"/>
 <edge source="icpa" target="tlakatl"/>
+<edge source="xochimeyallotl" target="nijman"/>
+<edge source="tejmocha" target="kuak"/>
+<edge source="ijtoba" target="ika"/>
+<edge source="tonaltzintle" target="ocualan"/>
+<edge source="tonaltzintle" target="ijkalaque"/>
+<edge source="tineme" target="ipan"/>
+<edge source="chicabamacak" target="niman"/>
+<edge source="tonaltin" target="niman"/>
+<edge source="tonaltin" target="nijma"/>
+<edge source="impa" target="ijyon"/>
+<edge source="tlalchantin" target="qui"/>
+<edge source="nojkopa" target="quentla"/>
+<edge source="umpa" target="uyatlka"/>
+<edge source="umpa" target="chante"/>
+<edge source="umpa" target="cajkateba"/>
+<edge source="panoba" target="nonakastlan"/>
+<edge source="panoba" target="mu"/>
+<edge source="panoba" target="nisi"/>
+<edge source="holinia" target="y"/>
+<edge source="te" target="Ichtequilia"/>
+<edge source="te" target="maquilia"/>
+<edge source="te" target="tlajtolia"/>
+<edge source="te" target="ichtequilia"/>
+<edge source="te" target="chibilia"/>
+<edge source="tlakatl" target="maya"/>
+<edge source="tlakatl" target="itazke"/>
+<edge source="tlakatl" target="tejuan"/>
+<edge source="tlakatl" target="ijin"/>
+<edge source="tlakatl" target="qui"/>
+<edge source="tlakatl" target="o"/>
+<edge source="tlakatl" target="no"/>
+<edge source="tlakatl" target="mijque"/>
+<edge source="Chichi" target="ka"/>
+<edge source="Qui" target="pijya"/>
+<edge source="maztlacapalban" target="nijman"/>
+<edge source="nemiliya" target="ika"/>
+<edge source="kuelilia" target="y"/>
+<edge source="icualak" target="amiquilla"/>
+<edge source="catzahualiztli" target="nesiya"/>
+<edge source="sotlane" target="nabacha"/>
+<edge source="sotlane" target="meztli"/>
+<edge source="huejkapan" target="nijman"/>
+<edge source="sique" target="yo"/>
+<edge source="tajke" target="ika"/>
+<edge source="Nijci" target="kampa"/>
+<edge source="tejuan" target="okichtli"/>
+<edge source="tejuan" target="tlamiquilistli"/>
+<edge source="tejuan" target="tlamiquilistle"/>
+<edge source="tejuan" target="nanahualtin"/>
+<edge source="tejuan" target="tlakatl"/>
+<edge source="tejuan" target="nejme"/>
+<edge source="tejuan" target="zitlalime"/>
+<edge source="tejuan" target="atlis"/>
+<edge source="tejuan" target="icotlapil"/>
+<edge source="tejuan" target="pek"/>
+<edge source="tejuan" target="kuaxihui"/>
+<edge source="tejuan" target="mu"/>
+<edge source="tejuan" target="tlakame"/>
+<edge source="tejuan" target="Meztli"/>
+<edge source="tejuan" target="cuicaanqui"/>
+<edge source="tejuan" target="no"/>
+<edge source="tejuan" target="atejtle"/>
+<edge source="tejuan" target="tliltic"/>
+<edge source="tejuan" target="ti"/>
+<edge source="pinabiste" target="kuak"/>
+<edge source="itazke" target="ipan"/>
+<edge source="setlalka" target="ikamitlk"/>
+<edge source="tonali" target="se"/>
+<edge source="quicha" target="hasta"/>
+<edge source="pajtlane" target="sankaika"/>
+<edge source="calakchaya" target="ipan"/>
+<edge source="ijqueinque" target="to"/>
+<edge source="shiquicuilise" target="i"/>
+<edge source="sokyatka" target="iztak"/>
+<edge source="miyek" target="tlacame"/>
+<edge source="miyek" target="in"/>
+<edge source="Izcalli" target="de"/>
+<edge source="casik" target="ika"/>
+<edge source="kaba" target="chijne"/>
+<edge source="Tenkuluchu" target="no"/>
+<edge source="tlajtoliaya" target="ika"/>
+<edge source="shitneke" target="ti"/>
+<edge source="ijmen" target="ixkapan"/>
+<edge source="carroña" target="nic"/>
+<edge source="mitlak" target="qui"/>
+<edge source="mitlak" target="chikahuak"/>
+<edge source="ijkon" target="cuajli"/>
+<edge source="ijkon" target="mique"/>
+<edge source="ijkon" target="quin"/>
+<edge source="ijkon" target="nantlin"/>
+<edge source="ijkon" target="quimichpapalotl"/>
+<edge source="ijkon" target="pajnohua"/>
+<edge source="ijkon" target="kuajli"/>
+<edge source="ijkon" target="o"/>
 <edge source="ika" target="umpa"/>
 <edge source="ika" target="nisi"/>
 <edge source="ika" target="nemijya"/>
@@ -1909,53 +1576,126 @@
 <edge source="ika" target="maka"/>
 <edge source="ika" target="kuak"/>
 <edge source="ika" target="nejsiya"/>
-<edge source="tepec" target="kuak"/>
-<edge source="ikamitlk" target="nijman"/>
-<edge source="sacan" target="onochaya"/>
-<edge source="sacan" target="ti"/>
-<edge source="copajli" target="nijman"/>
+<edge source="quis" target="impa"/>
+<edge source="totonia" target="in"/>
+<edge source="uelex" target="ikamitl"/>
+<edge source="uelex" target="qui"/>
 <edge source="man" target="kuajli"/>
 <edge source="man" target="te"/>
 <edge source="man" target="yomijque"/>
 <edge source="man" target="kualtzin"/>
-<edge source="mu" target="tlasketili"/>
-<edge source="mu" target="nakastlan"/>
-<edge source="mu" target="nemitlistle"/>
-<edge source="mu" target="nequilistle"/>
-<edge source="nemijya" target="quiyahuak"/>
-<edge source="tlakatl" target="maya"/>
-<edge source="tlakatl" target="itazke"/>
-<edge source="tlakatl" target="tejuan"/>
-<edge source="tlakatl" target="ijin"/>
-<edge source="tlakatl" target="qui"/>
-<edge source="tlakatl" target="o"/>
-<edge source="tlakatl" target="no"/>
-<edge source="tlakatl" target="mijque"/>
+<edge source="quitkitineme" target="ika"/>
+<edge source="tlatlchan" target="ika"/>
+<edge source="ijpanohua" target="kampa"/>
 <edge source="jin" target="kuajli"/>
 <edge source="jin" target="o"/>
 <edge source="jin" target="nic"/>
-<edge source="ijlique" target="ika"/>
+<edge source="kuaxa" target="nejuan"/>
+<edge source="ayajua" target="kuatli"/>
+<edge source="cimalli" target="teyaochihuani"/>
+<edge source="maxque" target="chik"/>
+<edge source="nantli" target="niman"/>
+<edge source="nantli" target="quijpiya"/>
+<edge source="nantli" target="nomiquilia"/>
+<edge source="Tlajtolia" target="ipan"/>
+<edge source="Tlajtolia" target="ika"/>
+<edge source="chikuitle" target="paraijcon"/>
+<edge source="jade" target="niman"/>
+<edge source="nokojkochaya" target="ipan"/>
+<edge source="tlastoque" target="tonalzintle"/>
+<edge source="majtiya" target="ika"/>
+<edge source="ijtosnequiya" target="ika"/>
+<edge source="queinque" target="calakchaya"/>
+<edge source="queinque" target="tonaltzintle"/>
+<edge source="queinque" target="no"/>
+<edge source="tlapalo" target="i"/>
+<edge source="noijque" target="a"/>
+<edge source="makaque" target="ijin"/>
+<edge source="nemitlistle" target="tejuan"/>
+<edge source="mate" target="ika"/>
+<edge source="nanahualtin" target="qui"/>
+<edge source="Tsopilotl" target="Tlaxque"/>
+<edge source="Tsopilotl" target="Man"/>
+<edge source="Tsopilotl" target="qui"/>
+<edge source="panoban" target="kuak"/>
+<edge source="chante" target="Mictlan"/>
+<edge source="chante" target="tlajtolia"/>
+<edge source="chante" target="nic"/>
+<edge source="chante" target="choìlin"/>
+<edge source="chante" target="aquin"/>
+<edge source="tejtechojque" target="o"/>
+<edge source="kualtzin" target="ipan"/>
+<edge source="kualtzin" target="tejuan"/>
+<edge source="Aman" target="ijin"/>
+<edge source="y" target="nakaxhuan"/>
+<edge source="y" target="nacayo"/>
+<edge source="y" target="chicabaca"/>
+<edge source="y" target="colapitll"/>
+<edge source="y" target="cotlapil"/>
+<edge source="y" target="paquilistle"/>
+<edge source="y" target="yojlo"/>
+<edge source="y" target="majuan"/>
+<edge source="Masque" target="chatl"/>
+<edge source="nacayo" target="niman"/>
 <edge source="huejka" target="quimichpapalotl"/>
 <edge source="huejka" target="ikamilak"/>
-<edge source="kun" target="tlastoque"/>
-<edge source="tlayobachak" target="yo"/>
-<edge source="ijpanohua" target="kampa"/>
-<edge source="tonajli" target="o"/>
-<edge source="tatzi" target="ijin"/>
-<edge source="tlanestilia" target="quimichpapalotl"/>
-<edge source="nejquia" target="qui"/>
-<edge source="koli" target="tes"/>
-<edge source="koli" target="qui"/>
-<edge source="koli" target="ijyo"/>
-<edge source="koli" target="nes"/>
-<edge source="cotlapil" target="quentla"/>
-<edge source="majuan" target="nijman"/>
+<edge source="teotl" target="de"/>
+<edge source="shine" target="que"/>
+<edge source="etiya" target="ikamitlac"/>
+<edge source="ijche" target="icpa"/>
+<edge source="sacayka" target="yajua"/>
+<edge source="patlanchaya" target="kuak"/>
+<edge source="huejca" target="no"/>
+<edge source="quijpiya" target="tsopilotl"/>
+<edge source="ojnenque" target="ikamitlak"/>
+<edge source="chantijya" target="totome"/>
+<edge source="nochiapa" target="tlayohuachas"/>
+<edge source="chantia" target="nejme"/>
+<edge source="Quin" target="holinia"/>
+<edge source="Quin" target="tlayajya"/>
+<edge source="choìlin" target="chichiquiliztzatzi"/>
+<edge source="miquisia" target="aka"/>
+<edge source="saque" target="totome"/>
+<edge source="temastike" target="kuak"/>
+<edge source="teka" target="ipan"/>
+<edge source="tlajtolte" target="no"/>
+<edge source="Nijuan" target="Temiquilistle"/>
+<edge source="Nijuan" target="Okichtli"/>
+<edge source="To" target="koli"/>
+<edge source="quilpisque" target="niman"/>
+<edge source="yatka" target="tan"/>
+<edge source="yatka" target="icamilak"/>
+<edge source="yatka" target="noyque"/>
+<edge source="yatka" target="to"/>
+<edge source="panoque" target="tonaltin"/>
+<edge source="icolapil" target="te"/>
+<edge source="cojtin" target="men"/>
+<edge source="yajua" target="hueltika"/>
+<edge source="yajua" target="sacan"/>
+<edge source="yajua" target="qui"/>
+<edge source="yajua" target="ijkon"/>
+<edge source="yajua" target="yo"/>
+<edge source="yajua" target="no"/>
+<edge source="yajua" target="iztac"/>
+<edge source="tajuame" target="ti"/>
+<edge source="tlaquiyehuite" target="ika"/>
+<edge source="takliliaya" target="cojtin"/>
+<edge source="panohua" target="moxtle"/>
+<edge source="okojoline" target="i"/>
+<edge source="chatl" target="qui"/>
+<edge source="nochi" target="tlapalli"/>
+<edge source="icotlapil" target="para"/>
+<edge source="iztlan" target="ikxitl"/>
+<edge source="uyatlka" target="se"/>
 <edge source="yuejcabiya" target="niman"/>
-<edge source="ilaman" target="quitaya"/>
-<edge source="carroña" target="nic"/>
-<edge source="amiquilla" target="ikamitak"/>
-<edge source="Qui" target="pijya"/>
-<edge source="nejuan" target="kochisneke"/>
+<edge source="quicelia" target="tonalzintle"/>
+<edge source="ijtoka" target="yatka"/>
+<edge source="yolotl" target="patlanchaya"/>
+<edge source="tlapalli" target="qui"/>
+<edge source="tlapalli" target="sojsapa"/>
+<edge source="tlapalli" target="cozauhtic"/>
+<edge source="ifiyo" target="niman"/>
+<edge source="ifiyo" target="tejuan"/>
 <edge source="meztli" target="kuak"/>
 <edge source="meztli" target="shukualoba"/>
 <edge source="meztli" target="sotlane"/>
@@ -1963,64 +1703,324 @@
 <edge source="meztli" target="tlajme"/>
 <edge source="meztli" target="kualo"/>
 <edge source="meztli" target="tinochime"/>
+<edge source="nejuan" target="kochisneke"/>
+<edge source="ijyo" target="qui"/>
+<edge source="quimichpapalotl" target="qui"/>
+<edge source="quimichpapalotl" target="quijtaya"/>
+<edge source="quimichpapalotl" target="o"/>
+<edge source="quimichpapalotl" target="shok"/>
+<edge source="ajakatl" target="o"/>
+<edge source="ojnemitle" target="ika"/>
+<edge source="mixtli" target="niman"/>
+<edge source="koko" target="se"/>
+<edge source="itoka" target="kuak"/>
+<edge source="pitenzi" target="pek"/>
+<edge source="quitquinemis" target="ipan"/>
+<edge source="cualohua" target="tijneme"/>
+<edge source="kakistes" target="queinque"/>
+<edge source="zomatl" target="nijaman"/>
+<edge source="huika" target="kampa"/>
+<edge source="huehuemexihcayutl" target="axan"/>
+<edge source="tlacame" target="niman"/>
+<edge source="nojtoba" target="kuak"/>
+<edge source="nojtoba" target="ika"/>
+<edge source="tlamiquilistle" target="quin"/>
+<edge source="kitajya" target="ifigome"/>
+<edge source="tliquine" target="zopilot"/>
+<edge source="tiacauh" target="nijman"/>
+<edge source="Temiquilistle" target="Nijuan"/>
+<edge source="ikamitlk" target="nijman"/>
+<edge source="kuaka" target="se"/>
+<edge source="Nejcos" target="ipan"/>
+<edge source="ualex" target="cobame"/>
+<edge source="kualcan" target="tsopilotl"/>
+<edge source="tlasketili" target="tejuan"/>
+<edge source="quijtetemoya" target="ijtla"/>
+<edge source="tlanquistle" target="de"/>
+<edge source="cochiya" target="iban"/>
+<edge source="sajse" target="saque"/>
+<edge source="telos" target="iban"/>
+<edge source="tsontekomatl" target="ika"/>
+<edge source="shenese" target="nic"/>
+<edge source="konetl" target="tehuaquiya"/>
+<edge source="konetl" target="o"/>
+<edge source="konetl" target="quitquinemis"/>
+<edge source="panochajque" target="tonaltin"/>
+<edge source="ome" target="ichpochtli"/>
+<edge source="mijyek" target="xochime"/>
+<edge source="maquia" target="chochokasi"/>
+<edge source="kualo" target="san"/>
+<edge source="tlahuejle" target="ipan"/>
+<edge source="sojsapa" target="quin"/>
+<edge source="tilcuates" target="ualex"/>
+<edge source="tilcuates" target="sheyule"/>
+<edge source="quin" target="huicas"/>
+<edge source="quin" target="huika"/>
+<edge source="quin" target="tlamijya"/>
+<edge source="quin" target="setlalka"/>
+<edge source="quin" target="majaciya"/>
+<edge source="quin" target="pepejchosia"/>
+<edge source="quin" target="makaske"/>
+<edge source="quin" target="maljuisia"/>
+<edge source="pek" target="xolotl"/>
+<edge source="chicabaca" target="cuero"/>
+<edge source="chok" target="yatka"/>
+<edge source="chijcoba" target="no"/>
+<edge source="nopachos" target="quitias"/>
+<edge source="costebas" target="uelex"/>
+<edge source="paraijcon" target="shiquicuilise"/>
+<edge source="piltsintli" target="para"/>
+<edge source="ka" target="ti"/>
+<edge source="pijyatka" target="catzahualiztli"/>
+<edge source="pijyatka" target="ijuitl"/>
+<edge source="tlayohuacha" target="nijman"/>
+<edge source="Cobame" target="man"/>
+<edge source="tlikuilcha" target="copajli"/>
+<edge source="ijtl" target="yojlo"/>
+<edge source="cua" target="cualohua"/>
+<edge source="quisteque" target="guajolotes"/>
+<edge source="Ipan" target="inon"/>
+<edge source="Ipan" target="tlaltin"/>
+<edge source="hueltika" target="quin"/>
+<edge source="tlayoquilikan" target="se"/>
+<edge source="Man" target="Quijtoka"/>
+<edge source="chijne" target="ifiyo"/>
+<edge source="colapitll" target="piltsintli"/>
+<edge source="shoksapa" target="ifime"/>
+<edge source="quitke" target="mu"/>
+<edge source="los" target="tilcuates"/>
+<edge source="stmete" target="tla"/>
+<edge source="teloba" target="tejuan"/>
+<edge source="siqui" target="koli"/>
+<edge source="hasta" target="kuak"/>
+<edge source="kueltlalya" target="kampa"/>
+<edge source="kalaquiya" target="iten"/>
+<edge source="neme" target="tejuan"/>
+<edge source="mikitlistle" target="tejuan"/>
+<edge source="noj" target="tohua"/>
+<edge source="pepechole" target="ipan"/>
+<edge source="ztoztona" target="atecocolis"/>
+<edge source="majkatia" target="y"/>
 <edge source="piyacta" target="cualtzintin"/>
-<edge source="nesjtle" target="ika"/>
-<edge source="tlaxochiponajle" target="ijpanohua"/>
-<edge source="quichteque" target="ijtl"/>
-<edge source="maya" target="tejuan"/>
-<edge source="Mazatl" target="Cuero"/>
-<edge source="Mazatl" target="o"/>
 <edge source="pitelonsi" target="konichaya"/>
-<edge source="malinalli" target="tecpehualli"/>
-<edge source="cuajle" target="untlacha"/>
-<edge source="Cempaxuchitl" target="nijma"/>
-<edge source="chichijque" target="se"/>
-<edge source="techpajtiya" target="kuak"/>
+<edge source="nonakastlan" target="se"/>
+<edge source="xochime" target="tlapalli"/>
+<edge source="xochime" target="nijman"/>
+<edge source="maya" target="tejuan"/>
+<edge source="ijuan" target="sentetl"/>
+<edge source="tohua" target="ica"/>
+<edge source="nes" target="tlajtoliaya"/>
+<edge source="nes" target="tlajtolijque"/>
+<edge source="patlanis" target="quichteque"/>
+<edge source="kecholi" target="niman"/>
+<edge source="guachichil" target="kakistes"/>
+<edge source="kipiha" target="nopachos"/>
+<edge source="nejme" target="ipan"/>
+<edge source="nejme" target="itzpapalotl"/>
+<edge source="shan" target="qui"/>
+<edge source="suchyulis" target="tikin"/>
+<edge source="siutl" target="ika"/>
+<edge source="piyatka" target="icualak"/>
+<edge source="piyatka" target="ijuitl"/>
+<edge source="tlamomotilo" target="tejuan"/>
+<edge source="ovel" target="o"/>
+<edge source="quitac" target="icamitlak"/>
+<edge source="aman" target="nojtoba"/>
+<edge source="aman" target="o"/>
+<edge source="aman" target="ni"/>
+<edge source="nojkopque" target="in"/>
+<edge source="cozauhtic" target="tejuan"/>
+<edge source="tinochime" target="tmakase"/>
+<edge source="tinochime" target="campa"/>
+<edge source="tinochime" target="ti"/>
+<edge source="tan" target="iztak"/>
+<edge source="tiquín" target="kalsakuas"/>
+<edge source="tonajle" target="nochipa"/>
+<edge source="tonajle" target="no"/>
+<edge source="tonajle" target="o"/>
+<edge source="sheyule" target="qui"/>
+<edge source="imastlacapalban" target="manyas"/>
+<edge source="tlapopose" target="kuak"/>
+<edge source="tlakuas" target="tejuan"/>
+<edge source="xoch" target="huele"/>
+<edge source="ixkapan" target="qui"/>
+<edge source="kake" target="itoka"/>
+<edge source="kake" target="queinque"/>
+<edge source="kuikacha" target="tunkuluchu"/>
+<edge source="kuikacha" target="ikamilak"/>
+<edge source="kuikacha" target="kualtzin"/>
+<edge source="ijchihuan" target="ican"/>
+<edge source="para" target="kitas"/>
+<edge source="para" target="huelisia"/>
+<edge source="para" target="huelis"/>
+<edge source="para" target="maquia"/>
+<edge source="para" target="cujli"/>
+<edge source="ikxitl" target="esquischaya"/>
+<edge source="ikxitl" target="maxque"/>
+<edge source="tliltic" target="nijman"/>
+<edge source="tliltic" target="ijtosnequiya"/>
+<edge source="tlayajya" target="shoksapa"/>
+<edge source="ikamitl" target="qui"/>
+<edge source="Papalotl" target="tejuan"/>
+<edge source="Papalotl" target="pajtlane"/>
+<edge source="cujli" target="kon"/>
+<edge source="cujli" target="casis"/>
+<edge source="quitilanque" target="se"/>
+<edge source="ijquita" target="meztli"/>
+<edge source="nij" target="chantia"/>
+<edge source="huele" target="tlajcoba"/>
+<edge source="panos" target="tlahuejle"/>
+<edge source="pechtle" target="o"/>
+<edge source="cobame" target="ika"/>
+<edge source="cobame" target="yatka"/>
+<edge source="cobame" target="Cascabel"/>
+<edge source="hueskatineme" target="nijman"/>
+<edge source="ica" target="cuajque"/>
+<edge source="ica" target="majka"/>
+<edge source="ica" target="yajuame"/>
+<edge source="ica" target="kuak"/>
+<edge source="ica" target="se"/>
+<edge source="ica" target="que"/>
+<edge source="ica" target="qui"/>
+<edge source="nemis" target="ipan"/>
+<edge source="yehuailhuia" target="nic"/>
+<edge source="tepuztlahcuilolli" target="Izcalli"/>
+<edge source="chelolia" target="ixhua"/>
+<edge source="Yokatsoli" target="o"/>
+<edge source="chibilia" target="netequipacholli"/>
+<edge source="oztotl" target="malinalli"/>
+<edge source="oztotl" target="icuero"/>
+<edge source="Ti" target="majtiya"/>
+<edge source="palehuiya" target="ti"/>
+<edge source="kasise" target="tlakame"/>
+<edge source="ni" target="chante"/>
+<edge source="ni" target="tlajtolte"/>
+<edge source="ni" target="chajte"/>
+<edge source="ni" target="nojmotie"/>
+<edge source="ni" target="mastika"/>
+<edge source="cueltlaliya" target="ika"/>
+<edge source="macak" target="cuenta"/>
+<edge source="vez" target="kuak"/>
+<edge source="quitias" target="imastlacapalban"/>
+<edge source="maztlakalpan" target="kuak"/>
+<edge source="maztlakalpan" target="ijkon"/>
+<edge source="najpaloya" target="kuak"/>
+<edge source="nojyan" target="camapa"/>
+<edge source="tlajli" target="nijman"/>
+<edge source="huisio" target="nijman"/>
+<edge source="tlajkahuilo" target="nijman"/>
+<edge source="ikanpa" target="ni"/>
 <edge source="Nochipa" target="ic"/>
 <edge source="Nochipa" target="kuak"/>
 <edge source="Nochipa" target="konetl"/>
-<edge source="obecito" target="kampa"/>
-<edge source="obecito" target="ikxitl"/>
-<edge source="cecepan" target="shenese"/>
-<edge source="quitquinemis" target="ipan"/>
-<edge source="kaba" target="chijne"/>
-<edge source="in" target="no"/>
-<edge source="in" target="talpalli"/>
-<edge source="in" target="Tlapalli"/>
-<edge source="in" target="nacayotl"/>
-<edge source="in" target="itzpapalotl"/>
-<edge source="quitak" target="miyek"/>
-<edge source="quitak" target="ika"/>
+<edge source="shihueliya" target="no"/>
+<edge source="quijnenehueque" target="mikilistle"/>
+<edge source="nijuan" target="qui"/>
+<edge source="ichcatl" target="pitelonsin"/>
+<edge source="quita" target="nanahualtin"/>
+<edge source="quita" target="kuak"/>
+<edge source="quita" target="ika"/>
+<edge source="quita" target="se"/>
+<edge source="cotlapil" target="quentla"/>
 <edge source="telosque" target="iban"/>
-<edge source="tohua" target="ica"/>
-<edge source="sentetl" target="ijuan"/>
-<edge source="kuaxa" target="nejuan"/>
-<edge source="tunkuluchu" target="tecolotl"/>
-<edge source="tunkuluchu" target="cojolinaya"/>
-<edge source="tunkuluchu" target="ojuel"/>
-<edge source="tunkuluchu" target="ojnemitle"/>
-<edge source="tlajxochipone" target="siqui"/>
-<edge source="quitilanque" target="se"/>
-<edge source="quitias" target="imastlacapalban"/>
-<edge source="tonalzintle" target="kuaxa"/>
-<edge source="tonalzintle" target="bajquichas"/>
-<edge source="totonia" target="in"/>
-<edge source="icuero" target="chok"/>
-<edge source="icuero" target="yo"/>
-<edge source="tla" target="tlakuas"/>
-<edge source="tla" target="shitipaluhuijya"/>
-<edge source="tla" target="ika"/>
-<edge source="tla" target="ti"/>
-<edge source="nequilistle" target="quitkitineme"/>
-<edge source="setlalka" target="ikamitlk"/>
-<edge source="chikahuak" target="ica"/>
-<edge source="Pek" target="Xolotl"/>
-<edge source="soksapa" target="kuak"/>
-<edge source="ka" target="ti"/>
-<edge source="mixtli" target="niman"/>
-<edge source="ojnemitle" target="ika"/>
+<edge source="nijma" target="quimichpapalotl"/>
+<edge source="nijma" target="shok"/>
+<edge source="nijma" target="tlakatl"/>
+<edge source="nijma" target="kuak"/>
+<edge source="casique" target="siquime"/>
+<edge source="Ijon" target="o"/>
+<edge source="huajlobe" target="ikanochipa"/>
+<edge source="ichtequilia" target="leche"/>
+<edge source="quitaya" target="ika"/>
+<edge source="quitaya" target="ikamitlak"/>
+<edge source="i" target="mastlacapal"/>
+<edge source="i" target="kuaitl"/>
+<edge source="i" target="kecholi"/>
+<edge source="i" target="maztlakalpan"/>
+<edge source="i" target="konetl"/>
+<edge source="i" target="yojlo"/>
+<edge source="i" target="nantli"/>
+<edge source="i" target="maztlacapalban"/>
+<edge source="i" target="tsontekomatl"/>
+<edge source="i" target="choquilistle"/>
+<edge source="i" target="nanakatl"/>
+<edge source="ijme" target="qui"/>
+<edge source="quintlane" target="ma"/>
+<edge source="chantle" target="ikamitlak"/>
+<edge source="mastlacapal" target="kuak"/>
+<edge source="totome" target="nijman"/>
+<edge source="totome" target="quitaya"/>
+<edge source="mijyec" target="tlalchantin"/>
+<edge source="chik" target="qui"/>
+<edge source="Ikamilak" target="kuelijtaya"/>
+<edge source="Makabilistle" target="Hutzilli"/>
+<edge source="nijkan" target="ome"/>
+<edge source="nejquya" target="no"/>
+<edge source="papalotl" target="tliltic"/>
+<edge source="papalotl" target="nijman"/>
+<edge source="majaciya" target="nijman"/>
+<edge source="kitas" target="iteco"/>
+<edge source="kitas" target="kuajli"/>
+<edge source="tequitilchaya" target="kampa"/>
+<edge source="ninman" target="qui"/>
+<edge source="cuenta" target="ika"/>
+<edge source="nejsiya" target="ijqueinque"/>
+<edge source="untlacha" target="campa"/>
+<edge source="nochipa" target="sacayka"/>
+<edge source="nochipa" target="kun"/>
+<edge source="nochipa" target="nijpiya"/>
+<edge source="nochipa" target="tloyobachas"/>
+<edge source="nochipa" target="kuak"/>
+<edge source="majkaya" target="y"/>
+<edge source="totocka" target="campa"/>
+<edge source="tlajlile" target="kampa"/>
+<edge source="chopili" target="meztli"/>
+<edge source="costebaya" target="uelex"/>
+<edge source="ikamitak" target="niman"/>
+<edge source="ikamitak" target="okojoline"/>
+<edge source="yajuame" target="kuakuajle"/>
+<edge source="yajuame" target="kuajli"/>
+<edge source="yajuame" target="chokche"/>
+<edge source="yajuame" target="quisteque"/>
+<edge source="yajuame" target="cuelitaya"/>
+<edge source="yajuame" target="shoquinejque"/>
+<edge source="shichihuiliska" target="ijon"/>
+<edge source="poloba" target="y"/>
+<edge source="quisa" target="kuak"/>
+<edge source="Tla" target="tijpalehuiya"/>
+<edge source="ikamitlac" target="etiya"/>
+<edge source="ikamitlac" target="niman"/>
+<edge source="ikamitlac" target="nijman"/>
+<edge source="tonalsintle" target="se"/>
+<edge source="nenemilistli" target="tejuan"/>
+<edge source="itlanquis" target="saquen"/>
+<edge source="nechtijque" target="kuak"/>
+<edge source="tlalo" target="ikamilak"/>
+<edge source="Quijtoba" target="ika"/>
+<edge source="ikamitlak" target="niman"/>
+<edge source="ikamitlak" target="hueskatineme"/>
+<edge source="ikamitlak" target="cualanijya"/>
+<edge source="ikamitlak" target="nokojkochaya"/>
+<edge source="ikamitlak" target="kampa"/>
+<edge source="ikanochipa" target="yajua"/>
+<edge source="yolkame" target="man"/>
+<edge source="tojnaltin" target="quijtetemoya"/>
+<edge source="patlanque" target="ika"/>
+<edge source="bescachaya" target="ijpan"/>
+<edge source="quistile" target="noche"/>
+<edge source="Niman" target="ijkon"/>
+<edge source="maka" target="ma"/>
+<edge source="zopilot" target="qui"/>
+<edge source="to" target="koli"/>
+<edge source="to" target="tatzi"/>
+<edge source="to" target="nacaztli"/>
+<edge source="to" target="yolotl"/>
+<edge source="inon" target="cecepan"/>
+<edge source="inon" target="tajuame"/>
+<edge source="yolkatl" target="shiquimakase"/>
 <edge source="sanch" target="yuejcabiya"/>
-<edge source="tlamijya" target="noche"/>
-<edge source="palejue" target="se"/>
-<edge source="iten" target="ipan"/>
+<edge source="huelis" target="ti"/>
+<edge source="cualtzintin" target="tlapalli"/>
+<edge source="calake" target="tilcuates"/>
+<edge source="hutzilli" target="tepuztlahcuilolli"/>
 </graph></graphml>
